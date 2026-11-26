@@ -1,0 +1,53 @@
+{
+  "lengths": [
+    100,
+    200,
+    300,
+    500
+  ],
+  "trials_per_length": 300,
+  "seed": 20260712,
+  "ngram_order": 4,
+  "alpha": 0.1,
+  "include_spaces": false,
+  "search": {
+    "restarts": 30,
+    "iterations": 10000,
+    "patience": 2000,
+    "archive_size": 1000,
+    "frequency_initialization": true,
+    "algorithm": "hill_climb",
+    "initial_temperature": 0.2,
+    "final_temperature": 0.002
+  },
+  "run_provenance": {
+    "derivation": "4-gram model baseline selected from the matching main-experiment trials",
+    "derived_from": "/Users/shenwenjie/Documents/xiaolunwen/results/formal_minimum.csv",
+    "derived_from_sha256": "97fcab478409513639f1eee2482b2acc86228b4d1cffee0366d85be56b2f0df1",
+    "source_metadata": "/Users/shenwenjie/Documents/xiaolunwen/results/formal_minimum.metadata.json",
+    "selection": {
+      "lengths": [
+        100,
+        200,
+        300,
+        500
+      ],
+      "trial_range": [
+        0,
+        299
+      ]
+    }
+  },
+  "run_state": {
+    "status": "completed",
+    "expected_trials": 1200,
+    "completed_trials": 1200,
+    "remaining_trials": 0,
+    "batch_size": null,
+    "started_at": "2026-07-28T11:35:09.284402+00:00",
+    "updated_at": "2026-07-28T11:35:09.284402+00:00",
+    "completed_at": "2026-07-28T11:35:09.284402+00:00",
+    "parallel_fallback": false,
+    "derived_without_recomputation": true
+  }
+}

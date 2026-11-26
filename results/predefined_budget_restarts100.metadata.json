@@ -1,0 +1,170 @@
+{
+  "lengths": [
+    150,
+    200,
+    300
+  ],
+  "trials_per_length": 300,
+  "seed": 20260712,
+  "ngram_order": 4,
+  "alpha": 0.1,
+  "include_spaces": false,
+  "search": {
+    "restarts": 100,
+    "iterations": 10000,
+    "patience": 2000,
+    "archive_size": 1000,
+    "frequency_initialization": true,
+    "algorithm": "hill_climb",
+    "initial_temperature": 0.2,
+    "final_temperature": 0.002
+  },
+  "run_provenance": {
+    "workers_requested": 4,
+    "command": [
+      "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/__main__.py",
+      "run",
+      "--config",
+      "config/predefined_budget_restarts100.json",
+      "--train",
+      "corpus/formal_minimum/train/pg1342_pride_and_prejudice.txt",
+      "corpus/formal_minimum/train/pg1400_great_expectations.txt",
+      "corpus/formal_minimum/train/pg2701_moby_dick.txt",
+      "corpus/formal_minimum/train/pg1661_sherlock_holmes.txt",
+      "corpus/formal_minimum/train/pg84_frankenstein.txt",
+      "corpus/formal_minimum/train/pg345_dracula.txt",
+      "corpus/formal_minimum/train/pg74_tom_sawyer.txt",
+      "corpus/formal_minimum/train/pg1260_jane_eyre.txt",
+      "--test",
+      "corpus/formal_minimum/test/pg35_time_machine.txt",
+      "corpus/formal_minimum/test/pg120_treasure_island.txt",
+      "corpus/formal_minimum/test/pg174_dorian_gray.txt",
+      "corpus/formal_minimum/test/pg55_wizard_of_oz.txt",
+      "--workers",
+      "4",
+      "--batch-size",
+      "100",
+      "--output",
+      "results/predefined_budget_restarts100.csv"
+    ],
+    "runtime": {
+      "python_version": "3.14.4",
+      "platform": "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+      "machine": "arm64",
+      "processor": "arm"
+    },
+    "config": {
+      "path": "/Users/shenwenjie/Documents/xiaolunwen/config/predefined_budget_restarts100.json",
+      "sha256": "2568b95b78e0c06542077f38826701dfa04cb595bbf82a01cb54eb1498e0d234"
+    },
+    "training_documents": [
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg1342_pride_and_prejudice.txt",
+        "sha256": "398e99b0198b4abc0925f177c3d3aafb8250a93d94e25963553b928c5e2ef67c"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg1400_great_expectations.txt",
+        "sha256": "4be86211700483c41726743a6754c220e331f5553ab4b1e0ad41527a6867f609"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg2701_moby_dick.txt",
+        "sha256": "52afe95d351ce146bd99f7cc6d925c0335017efa3a2ec5476d6660b56288bb05"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg1661_sherlock_holmes.txt",
+        "sha256": "127c814ed3e8c8de524b6f61c414d6d7bd48379c7764814fb32d6525cdd65e25"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg84_frankenstein.txt",
+        "sha256": "23704c9d7b5a525362ab057aadbbc54e362d31cb12142784116763fecc42e268"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg345_dracula.txt",
+        "sha256": "5c06dba23994d590dd30c9e101317644257f4b6917a2319d346e630d9a4bd2da"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg74_tom_sawyer.txt",
+        "sha256": "c23ce5bf41bfafea7f5b05f5815351298ba34b1009c08cf7da03b66e88f02277"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/train/pg1260_jane_eyre.txt",
+        "sha256": "880ac5184ea798c2399795c034fe2604ad261672af1fdc79c347aa59188afc4a"
+      }
+    ],
+    "test_documents": [
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/test/pg35_time_machine.txt",
+        "sha256": "50a7c698e4259f9a06c2ec272d564e9d991667cd8910a5b0a1510cf63b348dba"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/test/pg120_treasure_island.txt",
+        "sha256": "3b3c96e335a9057a757d9cc68c137df42084babd70effda43ddd7532be5c13c3"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/test/pg174_dorian_gray.txt",
+        "sha256": "6e024377cea1ca2beebe75f98b76f3bfc1f67d028a5db8042afe7aa32748e13f"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/corpus/formal_minimum/test/pg55_wizard_of_oz.txt",
+        "sha256": "d652e5692514ed5c29f365329b4f5f3ece174495e6c8e2d4dbfd8007afb6ba62"
+      }
+    ],
+    "source_files": [
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/__init__.py",
+        "sha256": "2318c09de032136e09ccb4b3fd68836d66582cbc335ece3752a5acec5bb0079d"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/__main__.py",
+        "sha256": "76fa916e93e0ae1a6c1bb51dcc0bcf289c014e9f760a47165f8a84401ccf41d7"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/analysis.py",
+        "sha256": "67625a8699be9dcc36888d216c4f9acdb9368cf753f72a51f5cab95b3098c141"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/archive.py",
+        "sha256": "ce4275e416e544de49f3c9df9b0ef5ad33f4cae412897fe5ea89bf0cb4e19cb3"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/cipher.py",
+        "sha256": "ea0eb55c48d1b393e3ac002975754d7303a05bbacd04979c473dbf429eac9684"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/cli.py",
+        "sha256": "7ba2e31fd1524d0cd8c04f3ecd6cb49cd500401e90afe3973fdce4aa495ec65f"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/experiment.py",
+        "sha256": "9bc3296a4702d325075922ceb9347803bbfd0a7da70841f2d9ad24191c4744a0"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/language_model.py",
+        "sha256": "b76bb191d4e82a4220661839890f1e7f00910b3300708a1f6097a1c2b46d75b3"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/metrics.py",
+        "sha256": "05cf96a994e8432ed8cace932ea5f01feb5e76a4f11eb9ac7df5bbc4eaa5b7be"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/plotting.py",
+        "sha256": "431bddfbf7ed1d10e3c751a642ad72ad64ae3ee2731ce9183f5c60530d9b265b"
+      },
+      {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/substitution_rank/search.py",
+        "sha256": "3df3322c2ef0ce705243a21ce576a656aca9529746d713965161c2468c6fd768"
+      }
+    ]
+  },
+  "run_state": {
+    "status": "completed",
+    "expected_trials": 900,
+    "completed_trials": 900,
+    "remaining_trials": 0,
+    "batch_size": 100,
+    "started_at": "2026-07-28T11:42:14.249207+00:00",
+    "updated_at": "2026-07-28T12:49:33.286902+00:00",
+    "parallel_fallback": false,
+    "completed_at": "2026-07-28T12:49:33.286910+00:00"
+  }
+}

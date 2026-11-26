@@ -1,0 +1,5 @@
+Christopher Gainor. Not Yet Imagined: A Study of Hubble Space Telescope Operations. NASA, 2020.
+Access for free at https://science.nasa.gov/mission/hubble/multimedia/e-books/not-yet-imagined-a-study-of-hubble-space-telescope-operations/
+NASA freely distributed publication; retain attribution; third-party illustrations excluded from derived text
+
+Derived research corpus: main prose extracted; navigation, images, tables, notes, exercises and ancillary matter excluded; Unicode/whitespace normalized. Read and redistribute with this attribution file.

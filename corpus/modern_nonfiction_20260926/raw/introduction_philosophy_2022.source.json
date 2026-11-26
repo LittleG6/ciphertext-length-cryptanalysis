@@ -1,0 +1,892 @@
+{
+  "downloaded_at": "2026-09-26T08:26:56.188504+00:00",
+  "content_version": "f1c2fbd",
+  "archive_version": "20260604.144757",
+  "selected_pages": [
+    {
+      "id": "5796313c-8206-4685-b4fd-374401b2ab73@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "1-introduction"
+    },
+    {
+      "id": "aef97309-6cc5-4947-b0bf-d0f62ca6b387@",
+      "title": "<span class=\"os-number\">1.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Philosophy?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-1-what-is-philosophy"
+    },
+    {
+      "id": "3967085c-8986-4766-8b97-e820664129b0@",
+      "title": "<span class=\"os-number\">1.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do Philosophers Arrive at Truth?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-2-how-do-philosophers-arrive-at-truth"
+    },
+    {
+      "id": "1cb9fd57-077e-425b-966c-d4b4ba9cc3be@",
+      "title": "<span class=\"os-number\">1.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Socrates as a Paradigmatic Historical Philosopher</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-3-socrates-as-a-paradigmatic-historical-philosopher"
+    },
+    {
+      "id": "210be7bd-12c2-46cc-8944-f0f8fce45a17@",
+      "title": "<span class=\"os-number\">1.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">An Overview of Contemporary Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-4-an-overview-of-contemporary-philosophy"
+    },
+    {
+      "id": "1847b0a0-763b-4763-ac86-c17e70efb05b@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "2-introduction"
+    },
+    {
+      "id": "50690b89-1cc4-4fa3-961c-3204bafe1f27@",
+      "title": "<span class=\"os-number\">2.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Brain Is an Inference Machine</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-1-the-brain-is-an-inference-machine"
+    },
+    {
+      "id": "3e19563e-1abc-4ca3-bba1-4b64fe515b4f@",
+      "title": "<span class=\"os-number\">2.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Overcoming Cognitive Biases and Engaging in Critical Reflection</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-2-overcoming-cognitive-biases-and-engaging-in-critical-reflection"
+    },
+    {
+      "id": "7efee8f2-beea-4aa1-bf11-19be0c7e2e77@",
+      "title": "<span class=\"os-number\">2.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Developing Good Habits of Mind</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-3-developing-good-habits-of-mind"
+    },
+    {
+      "id": "f08e2339-73c8-49d1-b57c-deb5373cc7bd@",
+      "title": "<span class=\"os-number\">2.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Gathering Information, Evaluating Sources, and Understanding Evidence</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-4-gathering-information-evaluating-sources-and-understanding-evidence"
+    },
+    {
+      "id": "1feeebcf-4d33-4ae2-b08b-c0e5dfab6d36@",
+      "title": "<span class=\"os-number\">2.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Reading Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-5-reading-philosophy"
+    },
+    {
+      "id": "3cd60dea-12bb-4cc4-bccf-e56836cefd1b@",
+      "title": "<span class=\"os-number\">2.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Writing Philosophy Papers</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-6-writing-philosophy-papers"
+    },
+    {
+      "id": "d9b47b70-1677-4b73-ad51-8719e9069b02@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "3-introduction"
+    },
+    {
+      "id": "ba121eb1-da99-45d6-b51e-b121651c343f@",
+      "title": "<span class=\"os-number\">3.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Indigenous Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-1-indigenous-philosophy"
+    },
+    {
+      "id": "9a4f6816-3039-443f-9b3d-c84ecd532511@",
+      "title": "<span class=\"os-number\">3.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Classical Indian Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-2-classical-indian-philosophy"
+    },
+    {
+      "id": "4ba1d9cd-6b98-4190-9c10-1746a56cf8d7@",
+      "title": "<span class=\"os-number\">3.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Classical Chinese Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-3-classical-chinese-philosophy"
+    },
+    {
+      "id": "90929242-a00a-4f57-b301-d8e1224fe046@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "4-introduction"
+    },
+    {
+      "id": "4b84cc98-28f7-4672-9d8d-88d7ef18a7f9@",
+      "title": "<span class=\"os-number\">4.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Historiography and the History of Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-1-historiography-and-the-history-of-philosophy"
+    },
+    {
+      "id": "17c61db5-11fa-48ba-89ff-b1173f589b28@",
+      "title": "<span class=\"os-number\">4.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Classical Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-2-classical-philosophy"
+    },
+    {
+      "id": "1eb262e3-d4ef-4c23-a050-f134213bba93@",
+      "title": "<span class=\"os-number\">4.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Jewish, Christian, and Islamic Philosophy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-3-jewish-christian-and-islamic-philosophy"
+    },
+    {
+      "id": "2ef161f6-f767-4478-a452-bfe94fbc4022@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "5-introduction"
+    },
+    {
+      "id": "e37f7f6b-0084-4836-a4fa-ca5fd634cdba@",
+      "title": "<span class=\"os-number\">5.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Philosophical Methods for Discovering Truth</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-1-philosophical-methods-for-discovering-truth"
+    },
+    {
+      "id": "b0f9c507-49c0-4a77-a524-25c520a021eb@",
+      "title": "<span class=\"os-number\">5.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Logical Statements</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-2-logical-statements"
+    },
+    {
+      "id": "eda86b4e-ce0d-4aab-91c0-6607a3c7d7a8@",
+      "title": "<span class=\"os-number\">5.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Arguments</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-3-arguments"
+    },
+    {
+      "id": "bb5b9b30-e078-4328-9708-ccb8e69dba63@",
+      "title": "<span class=\"os-number\">5.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Types of Inferences</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-4-types-of-inferences"
+    },
+    {
+      "id": "1ecedac5-43f3-465e-a7ab-83e36b9225a9@",
+      "title": "<span class=\"os-number\">5.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Informal Fallacies</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-5-informal-fallacies"
+    },
+    {
+      "id": "44c6a620-7a46-4a76-8bc3-34c2ce338f61@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "6-introduction"
+    },
+    {
+      "id": "cd2e04a0-8b3e-4094-8239-6aaa903b1f9b@",
+      "title": "<span class=\"os-number\">6.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Substance</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-1-substance"
+    },
+    {
+      "id": "745489ba-cd23-4cd3-adbe-d904142c2c76@",
+      "title": "<span class=\"os-number\">6.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Self and Identity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-2-self-and-identity"
+    },
+    {
+      "id": "baa679a0-3e85-4020-a7a6-dfef29225e99@",
+      "title": "<span class=\"os-number\">6.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Cosmology and the Existence of God</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-3-cosmology-and-the-existence-of-god"
+    },
+    {
+      "id": "ab47841c-29dd-4fed-a613-d43d890eab27@",
+      "title": "<span class=\"os-number\">6.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Free Will</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-4-free-will"
+    },
+    {
+      "id": "97a21c42-24ec-4a8c-85bb-de4bbdd4ef0f@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "7-introduction"
+    },
+    {
+      "id": "002e7566-d66d-471c-b35a-cde524b1d473@",
+      "title": "<span class=\"os-number\">7.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Epistemology Studies</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-1-what-epistemology-studies"
+    },
+    {
+      "id": "094444fe-c48f-47fb-b4c7-0bebd3599197@",
+      "title": "<span class=\"os-number\">7.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Knowledge</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-2-knowledge"
+    },
+    {
+      "id": "7cbebcf0-82e6-4183-a245-da0cfd4a07e8@",
+      "title": "<span class=\"os-number\">7.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Justification</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-3-justification"
+    },
+    {
+      "id": "64c335e0-bbe5-4c4e-ba29-cd8f5b58b736@",
+      "title": "<span class=\"os-number\">7.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Skepticism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-4-skepticism"
+    },
+    {
+      "id": "2a80d666-3e4d-4691-99ce-46fc49961743@",
+      "title": "<span class=\"os-number\">7.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Applied Epistemology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-5-applied-epistemology"
+    },
+    {
+      "id": "277d32ee-f6eb-4e4c-9663-7d2afb510f19@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "8-introduction"
+    },
+    {
+      "id": "00efe712-b067-4d6c-95ee-4ee2d6f9c4d7@",
+      "title": "<span class=\"os-number\">8.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Fact-Value Distinction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-1-the-fact-value-distinction"
+    },
+    {
+      "id": "0dfe6060-2f92-4bfc-b587-bdd75c9e002b@",
+      "title": "<span class=\"os-number\">8.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Basic Questions about Values</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-2-basic-questions-about-values"
+    },
+    {
+      "id": "a22ff86a-73e3-450a-9f9a-72b591a73940@",
+      "title": "<span class=\"os-number\">8.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Metaethics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-3-metaethics"
+    },
+    {
+      "id": "c3ef0069-3a9a-4416-bb9c-a02f722f84a5@",
+      "title": "<span class=\"os-number\">8.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Well-Being</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-4-well-being"
+    },
+    {
+      "id": "b7543219-e6e8-447d-be8a-0984959c2141@",
+      "title": "<span class=\"os-number\">8.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Aesthetics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-5-aesthetics"
+    },
+    {
+      "id": "b5a7e45a-b038-42e1-86e0-0f0484dea817@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "9-introduction"
+    },
+    {
+      "id": "e3968d01-ef57-4e6f-905b-0d9153de6057@",
+      "title": "<span class=\"os-number\">9.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Requirements of a Normative Moral Theory </span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-1-requirements-of-a-normative-moral-theory"
+    },
+    {
+      "id": "bcf14c26-e33c-46a5-9c36-f922341598ae@",
+      "title": "<span class=\"os-number\">9.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Consequentialism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-2-consequentialism"
+    },
+    {
+      "id": "c60a1ae3-cf35-4b40-9208-3f123f72748e@",
+      "title": "<span class=\"os-number\">9.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Deontology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-3-deontology"
+    },
+    {
+      "id": "b9b463c5-a485-40a0-be6e-53c3077170e9@",
+      "title": "<span class=\"os-number\">9.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Virtue Ethics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-4-virtue-ethics"
+    },
+    {
+      "id": "a6c29dc1-1304-4949-843f-72fecb1393ef@",
+      "title": "<span class=\"os-number\">9.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Daoism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-5-daoism"
+    },
+    {
+      "id": "799ffce9-acb4-406e-ac42-bbbe2d66e59f@",
+      "title": "<span class=\"os-number\">9.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Feminist Theories of Ethics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-6-feminist-theories-of-ethics"
+    },
+    {
+      "id": "0a9aafc3-b81f-4119-baf5-f204b6e7056e@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "10-introduction"
+    },
+    {
+      "id": "a698e866-5321-4c57-8a1e-cc9f6255cf77@",
+      "title": "<span class=\"os-number\">10.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Challenge of Bioethics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-1-the-challenge-of-bioethics"
+    },
+    {
+      "id": "5541f644-3d85-494e-ba7f-03b8b546d633@",
+      "title": "<span class=\"os-number\">10.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Environmental Ethics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-2-environmental-ethics"
+    },
+    {
+      "id": "23845038-1bb7-4b16-87ec-67d710c3d6b5@",
+      "title": "<span class=\"os-number\">10.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Business Ethics and Emerging Technology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-3-business-ethics-and-emerging-technology"
+    },
+    {
+      "id": "c7c376a8-0b75-4dd6-a191-7965905083eb@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "11-introduction"
+    },
+    {
+      "id": "387da6b2-2258-4ef0-814a-d663f78981fd@",
+      "title": "<span class=\"os-number\">11.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Historical Perspectives on Government</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-1-historical-perspectives-on-government"
+    },
+    {
+      "id": "8111980b-02f8-47ca-9355-18b9eff903af@",
+      "title": "<span class=\"os-number\">11.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Forms of Government</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-2-forms-of-government"
+    },
+    {
+      "id": "78646126-912b-4b7a-bf99-e3d14b25fd03@",
+      "title": "<span class=\"os-number\">11.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Legitimacy and Duty</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-3-political-legitimacy-and-duty"
+    },
+    {
+      "id": "1ca3e6ec-374a-43b1-9a6b-35395140cc99@",
+      "title": "<span class=\"os-number\">11.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Ideologies</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-4-political-ideologies"
+    },
+    {
+      "id": "25590bdd-d8cb-41dd-a5d4-5ec245c59212@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "12-introduction"
+    },
+    {
+      "id": "ac97b342-bc8d-46b3-9aaa-bbc83cd5709e@",
+      "title": "<span class=\"os-number\">12.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Enlightenment Social Theory</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-1-enlightenment-social-theory"
+    },
+    {
+      "id": "61bb6dff-0af7-483e-91c2-1f91c49f3911@",
+      "title": "<span class=\"os-number\">12.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Marxist Solution</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-2-the-marxist-solution"
+    },
+    {
+      "id": "85b41e5a-c21e-4e2f-87c3-c31add0e8b14@",
+      "title": "<span class=\"os-number\">12.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Continental Philosophy’s Challenge to Enlightenment Theories</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-3-continental-philosophys-challenge-to-enlightenment-theories"
+    },
+    {
+      "id": "a956f498-d191-41d9-95ec-1fef6aa4f083@",
+      "title": "<span class=\"os-number\">12.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Frankfurt School</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-4-the-frankfurt-school"
+    },
+    {
+      "id": "52252ace-a309-4284-be8d-eda0911a2cf4@",
+      "title": "<span class=\"os-number\">12.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Postmodernism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-5-postmodernism"
+    }
+  ],
+  "excluded_pages": [
+    {
+      "id": "9af381fc-be65-46c4-889a-5b3325b3700e@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Preface</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "preface",
+      "slug": "preface"
+    },
+    {
+      "id": "1c9c1da2-63c2-526b-8881-595d9fed382a@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-summary"
+    },
+    {
+      "id": "bd5ab49c-9640-5809-b1e1-e61315187552@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-key-terms"
+    },
+    {
+      "id": "c9e22841-d6b5-5ab1-9882-73468b0e2a19@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-references"
+    },
+    {
+      "id": "6049fa86-280f-5e76-895d-35437887df5e@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-review-questions"
+    },
+    {
+      "id": "288f9b04-6fae-5ce2-8967-7eabe6c7d740@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-further-reading"
+    },
+    {
+      "id": "3c87db89-2103-5178-b1c2-b9435de12f60@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-summary"
+    },
+    {
+      "id": "c75a9542-59ef-53a9-9918-1c36807cf008@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-key-terms"
+    },
+    {
+      "id": "1d98e4cf-01f5-540a-a5c9-306d6562c40c@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-references"
+    },
+    {
+      "id": "9467b066-40bd-5901-a3d8-5a47e412e0b2@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-review-questions"
+    },
+    {
+      "id": "8da46671-2381-5b99-84c3-b5204c671ca1@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-further-reading"
+    },
+    {
+      "id": "a6d11a7a-82d0-50fd-b54b-03e23bf6c9ec@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-summary"
+    },
+    {
+      "id": "44d953c5-004e-567e-b48f-30547a21a46f@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-key-terms"
+    },
+    {
+      "id": "67d721a5-630d-5ef1-9d67-a5368527491a@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-references"
+    },
+    {
+      "id": "43191a2b-917e-5d83-ae63-04c1941ab214@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-review-questions"
+    },
+    {
+      "id": "152cafac-b5ae-51c5-8d0b-e856292b552d@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-further-reading"
+    },
+    {
+      "id": "ee8686a4-2e9e-54a8-92ce-fd8bffad3dce@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-summary"
+    },
+    {
+      "id": "15a078cf-575d-5b74-956a-1c4cbf3b008f@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-key-terms"
+    },
+    {
+      "id": "8eac0e61-019b-5160-9e44-70e6eb4b18a9@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-references"
+    },
+    {
+      "id": "181f40f0-6cdf-50b9-88fd-34aa7d986157@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-review-questions"
+    },
+    {
+      "id": "a3671cb1-ac12-54b2-b7d7-6accdf3c39b4@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-further-reading"
+    },
+    {
+      "id": "05332409-a0f6-5940-974d-4dab4739235f@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-summary"
+    },
+    {
+      "id": "3ac9fb2a-278f-5f97-8b80-40addbcc405a@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-key-terms"
+    },
+    {
+      "id": "5fa07d52-3ce0-5e6a-8775-ff45f1ffcb49@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-references"
+    },
+    {
+      "id": "c7868fbb-926b-579f-9ca6-ebe527ab51fc@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-review-questions"
+    },
+    {
+      "id": "51eb7651-42c5-5950-991c-a062dfb3410a@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-further-reading"
+    },
+    {
+      "id": "aaedd06f-bbec-5c24-a449-a3f96d643a67@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-summary"
+    },
+    {
+      "id": "5e497c09-b7d6-5819-9518-2d58cccfe3bb@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-key-terms"
+    },
+    {
+      "id": "3d7397e2-2905-5e46-a043-8230b0e85b3c@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-references"
+    },
+    {
+      "id": "df99e9a6-ee95-5369-b736-65a382eb3de2@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-review-questions"
+    },
+    {
+      "id": "561c8680-6f5c-5615-89ad-f35bbf06b548@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-further-reading"
+    },
+    {
+      "id": "831d8195-9e9f-54a6-9a0c-df8c674a76fe@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-summary"
+    },
+    {
+      "id": "80782dc9-a68f-5f4a-9232-5f957f8c6ea7@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-key-terms"
+    },
+    {
+      "id": "96beb0ee-f468-5cd6-a666-20830416f77a@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-references"
+    },
+    {
+      "id": "e1642d00-206d-5a62-bb1a-5acf6dc17ad2@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-review-questions"
+    },
+    {
+      "id": "9071c045-dd62-5392-810c-8e784d163c2a@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-further-reading"
+    },
+    {
+      "id": "fc31d39b-c60d-50ee-b7e6-859c00ef35ca@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-summary"
+    },
+    {
+      "id": "b0b2670a-a0b1-50ad-aff8-92f6c34a8c3a@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-key-terms"
+    },
+    {
+      "id": "f16aef5e-4c72-5ead-a95b-4d9ef8b098ef@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-references"
+    },
+    {
+      "id": "5d1f1151-c96a-5fc3-a646-8bf537d94f27@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-review-questions"
+    },
+    {
+      "id": "82888ee4-ed19-5d3e-8a73-efc6f08cd9ac@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-further-reading"
+    },
+    {
+      "id": "785b72e6-4065-5e50-a389-d94e810eb555@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-summary"
+    },
+    {
+      "id": "7234a89a-9fd7-5d57-80e9-5cd7f78ad72a@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-key-terms"
+    },
+    {
+      "id": "e948d22c-024d-5416-b3ca-835f3c48300f@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-references"
+    },
+    {
+      "id": "c67bf812-2939-5f0d-8a55-86165a7d5360@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-review-questions"
+    },
+    {
+      "id": "06ebd8fd-260e-5a10-8627-4d528e70b90e@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-further-reading"
+    },
+    {
+      "id": "d1ab05cf-8047-52d5-ba57-492e4d1e1b09@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-summary"
+    },
+    {
+      "id": "eb93217c-c048-5c3c-8486-c0207e5b667a@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-key-terms"
+    },
+    {
+      "id": "12a8f981-3b45-50c3-a6b2-8224e47980db@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-references"
+    },
+    {
+      "id": "ebdc9a66-0293-5376-8915-d1df5ed1ab07@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-review-questions"
+    },
+    {
+      "id": "c54a8eaf-d600-59bd-abd1-1551301a1bfb@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-further-reading"
+    },
+    {
+      "id": "be33824d-da86-571a-9712-004ae9a1a0e5@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-summary"
+    },
+    {
+      "id": "0e10b676-c4ea-5533-83d7-690604b6f207@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-key-terms"
+    },
+    {
+      "id": "c6c66a7f-a095-551f-a456-05c806800b7a@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-references"
+    },
+    {
+      "id": "5b3b2a18-62b7-5876-bd9b-afced74fbab0@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-review-questions"
+    },
+    {
+      "id": "3847c81e-ac67-5030-aa8c-cd8ea084438b@f1c2fbd",
+      "title": "<span class=\"os-text\">Further Reading</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-further-reading"
+    },
+    {
+      "id": "ece8458e-3b8e-55f6-b907-b303e64bf0f3@f1c2fbd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-summary"
+    },
+    {
+      "id": "f0fc7d94-0e65-599a-992e-b3a45329d1c8@f1c2fbd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-key-terms"
+    },
+    {
+      "id": "77af9745-8f8f-5b53-a1b2-75e9b8ff27ed@f1c2fbd",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-references"
+    },
+    {
+      "id": "205fde0b-2715-51fd-afbc-3abea77affc8@f1c2fbd",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-review-questions"
+    },
+    {
+      "id": "f928e742-901f-5313-b7a1-8f15732acf64@f1c2fbd",
+      "title": "<span class=\"os-text\">Index</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "index",
+      "slug": "index"
+    }
+  ],
+  "source_url_template": "https://openstax.org/books/introduction-philosophy/pages/{slug}"
+}

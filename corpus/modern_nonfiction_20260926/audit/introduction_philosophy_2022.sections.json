@@ -1,0 +1,457 @@
+[
+  {
+    "source_member": "1-introduction.html",
+    "source_sha256": "10e8fcb77337095bb124f116ad6665193681c75ba6984ddc1e2c90634a68242a",
+    "paragraphs": 2,
+    "letter_start": 0,
+    "letter_end": 891
+  },
+  {
+    "source_member": "1-1-what-is-philosophy.html",
+    "source_sha256": "763efaea5736d69d69cafbedda5792a49fe980e8200a828158006acf343b03a8",
+    "paragraphs": 20,
+    "letter_start": 891,
+    "letter_end": 19711
+  },
+  {
+    "source_member": "1-2-how-do-philosophers-arrive-at-truth.html",
+    "source_sha256": "c8dedc31ce5e36a7c0d7debcd1fa60c52e25f28730935a6a9ddf30af3b8c2c26",
+    "paragraphs": 34,
+    "letter_start": 19711,
+    "letter_end": 43463
+  },
+  {
+    "source_member": "1-3-socrates-as-a-paradigmatic-historical-philosopher.html",
+    "source_sha256": "751f2778eff142b2340ba1d1c6e8eaae5faf85a78bf135fb8f982f3731bf068b",
+    "paragraphs": 21,
+    "letter_start": 43463,
+    "letter_end": 59013
+  },
+  {
+    "source_member": "1-4-an-overview-of-contemporary-philosophy.html",
+    "source_sha256": "65fa7a8606f40df8debb3ee35e506554e2a036decb46fc0ced26c1c6aa88b6ca",
+    "paragraphs": 11,
+    "letter_start": 59013,
+    "letter_end": 65693
+  },
+  {
+    "source_member": "2-introduction.html",
+    "source_sha256": "0bc4cd130392248df6a7a8cc72dda5ecbf7c356d3ce064f410fb60775939ee10",
+    "paragraphs": 3,
+    "letter_start": 65693,
+    "letter_end": 66757
+  },
+  {
+    "source_member": "2-1-the-brain-is-an-inference-machine.html",
+    "source_sha256": "bc53e542b4277a6aec5755ad5d5156d2aec22c57394ebfa492e747b068b5ac0c",
+    "paragraphs": 26,
+    "letter_start": 66757,
+    "letter_end": 83867
+  },
+  {
+    "source_member": "2-2-overcoming-cognitive-biases-and-engaging-in-critical-reflection.html",
+    "source_sha256": "d8ea510baa6a8d689667975952f083c83f2b78d601d4459ae13407ade6e30f1c",
+    "paragraphs": 21,
+    "letter_start": 83867,
+    "letter_end": 95953
+  },
+  {
+    "source_member": "2-3-developing-good-habits-of-mind.html",
+    "source_sha256": "84468d6bee5e652ef054445d03678a5f88d01ca961bdc6d0e55cd63c5c18c23d",
+    "paragraphs": 12,
+    "letter_start": 95953,
+    "letter_end": 103581
+  },
+  {
+    "source_member": "2-4-gathering-information-evaluating-sources-and-understanding-evidence.html",
+    "source_sha256": "d3eec45a6e9a7ea6142d215ad55d947fe2baaa1d3f105e5fe4699be5887dd7af",
+    "paragraphs": 10,
+    "letter_start": 103581,
+    "letter_end": 109845
+  },
+  {
+    "source_member": "2-5-reading-philosophy.html",
+    "source_sha256": "3bd86bc1f6de3e015b344905d7e202886667f4bba6a69595dd5e4d374241d291",
+    "paragraphs": 21,
+    "letter_start": 109845,
+    "letter_end": 120597
+  },
+  {
+    "source_member": "2-6-writing-philosophy-papers.html",
+    "source_sha256": "d248cdc15d88567324b776507fd15a66edae6ee23719e3fefa079584dd1bc124",
+    "paragraphs": 11,
+    "letter_start": 120597,
+    "letter_end": 125927
+  },
+  {
+    "source_member": "3-introduction.html",
+    "source_sha256": "6b7d4cd4996ea3b0c3f20926bcbeb37ffcf5b0e487367c01b111d8ac5ef5501a",
+    "paragraphs": 3,
+    "letter_start": 125927,
+    "letter_end": 128577
+  },
+  {
+    "source_member": "3-1-indigenous-philosophy.html",
+    "source_sha256": "51ce27b65effd7fc608c08be96cfec952b6365cdb5f340a56146865b741d8389",
+    "paragraphs": 28,
+    "letter_start": 128577,
+    "letter_end": 147039
+  },
+  {
+    "source_member": "3-2-classical-indian-philosophy.html",
+    "source_sha256": "54a0fe68d1f3f42f273d47dd17ccb0055d965b0f6dccc1b64f56a9cfa4bd94ab",
+    "paragraphs": 22,
+    "letter_start": 147039,
+    "letter_end": 157129
+  },
+  {
+    "source_member": "3-3-classical-chinese-philosophy.html",
+    "source_sha256": "004c244d2cf047ecfc7fdb2ceae3e50343a1b01ef8eb0f148a49acc094c72577",
+    "paragraphs": 46,
+    "letter_start": 157129,
+    "letter_end": 187748
+  },
+  {
+    "source_member": "4-introduction.html",
+    "source_sha256": "fae8a61cafa14508a69def9a6ea50ba966137c1755dda7eecf1a0bbcbeff4656",
+    "paragraphs": 2,
+    "letter_start": 187748,
+    "letter_end": 188460
+  },
+  {
+    "source_member": "4-1-historiography-and-the-history-of-philosophy.html",
+    "source_sha256": "4d11e35b56b196312d0f80f196820556ad730d75808a2e6e6323505784fbdf81",
+    "paragraphs": 10,
+    "letter_start": 188460,
+    "letter_end": 195551
+  },
+  {
+    "source_member": "4-2-classical-philosophy.html",
+    "source_sha256": "7a568974fd269f6fffb79aa3fc4c1383461474f0103261f0d86170f38f31ed9b",
+    "paragraphs": 39,
+    "letter_start": 195551,
+    "letter_end": 219406
+  },
+  {
+    "source_member": "4-3-jewish-christian-and-islamic-philosophy.html",
+    "source_sha256": "1da45b363e9dd2e55812ae2586b34a3ca0e4be1e0e2e47afc0df496d055d5190",
+    "paragraphs": 50,
+    "letter_start": 219406,
+    "letter_end": 249231
+  },
+  {
+    "source_member": "5-introduction.html",
+    "source_sha256": "7d36a7729934df0335291660da3026311f0e720bcc73fda36ad28f5644a912fc",
+    "paragraphs": 1,
+    "letter_start": 249231,
+    "letter_end": 249682
+  },
+  {
+    "source_member": "5-1-philosophical-methods-for-discovering-truth.html",
+    "source_sha256": "c7042d4a0f569ce4555c516761802d05b22191ad7aa7c8b465cf021a75be3563",
+    "paragraphs": 30,
+    "letter_start": 249682,
+    "letter_end": 266159
+  },
+  {
+    "source_member": "5-2-logical-statements.html",
+    "source_sha256": "57179368e2ac2f5bcc39325246e5978db75d96d86904f85b216440169acf4ffe",
+    "paragraphs": 15,
+    "letter_start": 266159,
+    "letter_end": 272603
+  },
+  {
+    "source_member": "5-3-arguments.html",
+    "source_sha256": "d9cee8caa6cf40d96cc70ba69353a3329bee4e3c26f035ecfab6b53b93836fbf",
+    "paragraphs": 11,
+    "letter_start": 272603,
+    "letter_end": 277444
+  },
+  {
+    "source_member": "5-4-types-of-inferences.html",
+    "source_sha256": "13d03be66802be6979d7a9128f87ac5a94c1ad8e3dfa8c96ea11eb7baee52e30",
+    "paragraphs": 48,
+    "letter_start": 277444,
+    "letter_end": 295214
+  },
+  {
+    "source_member": "5-5-informal-fallacies.html",
+    "source_sha256": "2bc6f0e8fb08f5d56c6462e29e209594cbfa71a20664fd8e0d0faa708f9cb8a2",
+    "paragraphs": 50,
+    "letter_start": 295214,
+    "letter_end": 313033
+  },
+  {
+    "source_member": "6-introduction.html",
+    "source_sha256": "6be92eae7611eead020872d90d72d1adaa1ec7bb6e81600fd4df8a8cef86d91a",
+    "paragraphs": 6,
+    "letter_start": 313033,
+    "letter_end": 314430
+  },
+  {
+    "source_member": "6-1-substance.html",
+    "source_sha256": "4fad66f7924a05ce8062b3163ac7ed6c70d4f5fab33a34ac7fb3aeda720ba4b6",
+    "paragraphs": 27,
+    "letter_start": 314430,
+    "letter_end": 326937
+  },
+  {
+    "source_member": "6-2-self-and-identity.html",
+    "source_sha256": "4a7f533dcdf5a0ce6673dfd75b355a7064cfb509aa683d0ff395ad78e9f9fbd7",
+    "paragraphs": 39,
+    "letter_start": 326937,
+    "letter_end": 342803
+  },
+  {
+    "source_member": "6-3-cosmology-and-the-existence-of-god.html",
+    "source_sha256": "3148b72a90ffe1a853606e135b865763a5480bf146fea2aa4781085db2439feb",
+    "paragraphs": 26,
+    "letter_start": 342803,
+    "letter_end": 352143
+  },
+  {
+    "source_member": "6-4-free-will.html",
+    "source_sha256": "c9b951133e70baabcba1af443bbffdbc3139f4152e23b23d1fe67bc5ff1b273a",
+    "paragraphs": 16,
+    "letter_start": 352143,
+    "letter_end": 358041
+  },
+  {
+    "source_member": "7-introduction.html",
+    "source_sha256": "a5daac0bd68c78fc4f330bc863e5b625c15b7483c231c34bd9dfbd7e88297b6b",
+    "paragraphs": 1,
+    "letter_start": 358041,
+    "letter_end": 358596
+  },
+  {
+    "source_member": "7-1-what-epistemology-studies.html",
+    "source_sha256": "1fe700307a80631a76076dfdd924fe234a41db9fcce6934e6b453a9b4659095d",
+    "paragraphs": 25,
+    "letter_start": 358596,
+    "letter_end": 373810
+  },
+  {
+    "source_member": "7-2-knowledge.html",
+    "source_sha256": "6c8e562a9cf3fbebf9b83424f200a7c034090806c9a4c5aff5259e6424508951",
+    "paragraphs": 19,
+    "letter_start": 373810,
+    "letter_end": 383318
+  },
+  {
+    "source_member": "7-3-justification.html",
+    "source_sha256": "dd827ba64563b1bd0563a5914eb0f802257e95a83967413eab05b9b1d6979f81",
+    "paragraphs": 28,
+    "letter_start": 383318,
+    "letter_end": 402099
+  },
+  {
+    "source_member": "7-4-skepticism.html",
+    "source_sha256": "f485d93aba00465c2197f05e237fa4098ef16872100d8689a14dd628cd4e65df",
+    "paragraphs": 21,
+    "letter_start": 402099,
+    "letter_end": 413863
+  },
+  {
+    "source_member": "7-5-applied-epistemology.html",
+    "source_sha256": "e5076d3762af24619566c55e8abeb9cb7b9c26567d269d1efcaab2b3218ce9a0",
+    "paragraphs": 18,
+    "letter_start": 413863,
+    "letter_end": 426623
+  },
+  {
+    "source_member": "8-introduction.html",
+    "source_sha256": "cde5dd2f365d674a1332761c357a678f8456a1a91836bd3e1ab1c441da474fc7",
+    "paragraphs": 2,
+    "letter_start": 426623,
+    "letter_end": 427770
+  },
+  {
+    "source_member": "8-1-the-fact-value-distinction.html",
+    "source_sha256": "edf80ace108d5427afe36a8cfd3cfcdb1ef662a1c9247d11e207baff7409cefd",
+    "paragraphs": 20,
+    "letter_start": 427770,
+    "letter_end": 435939
+  },
+  {
+    "source_member": "8-2-basic-questions-about-values.html",
+    "source_sha256": "c7964cfbee72df4e3c93bc002cd17e261b852fe03d5d8dbef8dbcc212d014b04",
+    "paragraphs": 14,
+    "letter_start": 435939,
+    "letter_end": 442469
+  },
+  {
+    "source_member": "8-3-metaethics.html",
+    "source_sha256": "2f2e7b32b12c02154c68f3792836bacc6ab0f3235b579dfcaa0559bda5f54d55",
+    "paragraphs": 32,
+    "letter_start": 442469,
+    "letter_end": 456483
+  },
+  {
+    "source_member": "8-4-well-being.html",
+    "source_sha256": "ea6f83a0a5ba6b4351013a263eb4e9d86e0290873993f0cf4d2db507716d71d7",
+    "paragraphs": 30,
+    "letter_start": 456483,
+    "letter_end": 471749
+  },
+  {
+    "source_member": "8-5-aesthetics.html",
+    "source_sha256": "8f72605d4ac3519c2c4b79fb8ecd5047632f95e4efc32b9c13a252ef46ba8dfe",
+    "paragraphs": 21,
+    "letter_start": 471749,
+    "letter_end": 481910
+  },
+  {
+    "source_member": "9-introduction.html",
+    "source_sha256": "3baa3326b07670023ecb1b0e51fe5d7aaefad35300e0be01bd4465754ba2c471",
+    "paragraphs": 2,
+    "letter_start": 481910,
+    "letter_end": 482750
+  },
+  {
+    "source_member": "9-1-requirements-of-a-normative-moral-theory.html",
+    "source_sha256": "2f874a27a2819318c1a5ab2408fd45687e920313a895bdc1b60e95554bca7024",
+    "paragraphs": 8,
+    "letter_start": 482750,
+    "letter_end": 485716
+  },
+  {
+    "source_member": "9-2-consequentialism.html",
+    "source_sha256": "e518cd4b75bbe79f25b85762504aab3505ae7aa11df43e9dd8c37947b477bfb4",
+    "paragraphs": 30,
+    "letter_start": 485716,
+    "letter_end": 499184
+  },
+  {
+    "source_member": "9-3-deontology.html",
+    "source_sha256": "2917a7817c861c8b612c2f6ec06ccd381da1d49e893f862f27e7f174fb76f8f4",
+    "paragraphs": 31,
+    "letter_start": 499184,
+    "letter_end": 510949
+  },
+  {
+    "source_member": "9-4-virtue-ethics.html",
+    "source_sha256": "ab1e2779db256734a0ead802e42295d3a73e9e1bbbccc65c569d84b0f3b32748",
+    "paragraphs": 31,
+    "letter_start": 510949,
+    "letter_end": 526222
+  },
+  {
+    "source_member": "9-5-daoism.html",
+    "source_sha256": "1e687fff9e58f5c4d1e14492426bdbbb2ecbedb786fe35c1d8c45119d62419ec",
+    "paragraphs": 14,
+    "letter_start": 526222,
+    "letter_end": 535074
+  },
+  {
+    "source_member": "9-6-feminist-theories-of-ethics.html",
+    "source_sha256": "6515c0c4799c99e89e8ccc9108b4d9d76db63cc8a95e8f916b3136edcb7c3660",
+    "paragraphs": 18,
+    "letter_start": 535074,
+    "letter_end": 545186
+  },
+  {
+    "source_member": "10-introduction.html",
+    "source_sha256": "c4eb79d15f180befa81a206c3d9a55ea702072fd873e6aaeb2ccd2a1656fadd3",
+    "paragraphs": 5,
+    "letter_start": 545186,
+    "letter_end": 547699
+  },
+  {
+    "source_member": "10-1-the-challenge-of-bioethics.html",
+    "source_sha256": "3ac5f218d1ce0168e301a491b4a2c8d7eed2fb6c85ff51f761feb44ea60771b3",
+    "paragraphs": 58,
+    "letter_start": 547699,
+    "letter_end": 583984
+  },
+  {
+    "source_member": "10-2-environmental-ethics.html",
+    "source_sha256": "8906a6093b2498fa12828502ecc61dc4ea3a82efcaa0ba910aefea7cab1bf2a1",
+    "paragraphs": 19,
+    "letter_start": 583984,
+    "letter_end": 596820
+  },
+  {
+    "source_member": "10-3-business-ethics-and-emerging-technology.html",
+    "source_sha256": "a2ca658f40140035dba747f740d589538fe4448acc983dd2445fd1fa18f09374",
+    "paragraphs": 21,
+    "letter_start": 596820,
+    "letter_end": 612660
+  },
+  {
+    "source_member": "11-introduction.html",
+    "source_sha256": "ad522b3e1cc3ac2dc7fa1cce5b7b50c889d8653df714c42894294eda8565a639",
+    "paragraphs": 1,
+    "letter_start": 612660,
+    "letter_end": 613660
+  },
+  {
+    "source_member": "11-1-historical-perspectives-on-government.html",
+    "source_sha256": "03591d5445a9eaf364efee9500a93075051304792b0b875ea2ecbb3f9e1da8d8",
+    "paragraphs": 24,
+    "letter_start": 613660,
+    "letter_end": 626619
+  },
+  {
+    "source_member": "11-2-forms-of-government.html",
+    "source_sha256": "f8a61dee857bca0ca6cac38f1803cee0f63c8ae6e85a3dec54638bb120e5a9e7",
+    "paragraphs": 24,
+    "letter_start": 626619,
+    "letter_end": 638642
+  },
+  {
+    "source_member": "11-3-political-legitimacy-and-duty.html",
+    "source_sha256": "50830ae0946b7f860fc799adb757636ff7f5f71dc96e3be248bc16958794e301",
+    "paragraphs": 24,
+    "letter_start": 638642,
+    "letter_end": 652935
+  },
+  {
+    "source_member": "11-4-political-ideologies.html",
+    "source_sha256": "c681fc19d84f49ba87daa13b8f2ce6e81f53b3e58bffe49bf9328514992c3636",
+    "paragraphs": 34,
+    "letter_start": 652935,
+    "letter_end": 670073
+  },
+  {
+    "source_member": "12-introduction.html",
+    "source_sha256": "cda92dcb4e065dae0128bbd95154faa976a123694905b0698b5cefeaf9cf5d75",
+    "paragraphs": 5,
+    "letter_start": 670073,
+    "letter_end": 672634
+  },
+  {
+    "source_member": "12-1-enlightenment-social-theory.html",
+    "source_sha256": "79611ff0741eca89d8d0b39f340d3ef5dc1f86f8cfcbede0df3236d5f1884dcc",
+    "paragraphs": 12,
+    "letter_start": 672634,
+    "letter_end": 678738
+  },
+  {
+    "source_member": "12-2-the-marxist-solution.html",
+    "source_sha256": "4ea6c4b7061bde75725b799cd36e2c9cca97ebf4ee2c6753d6ce46cdd7d19409",
+    "paragraphs": 18,
+    "letter_start": 678738,
+    "letter_end": 689063
+  },
+  {
+    "source_member": "12-3-continental-philosophys-challenge-to-enlightenment-theories.html",
+    "source_sha256": "2ca570f754f03d229b61a7733f7a0dec1204fd5a05243a773198b9921900c99b",
+    "paragraphs": 15,
+    "letter_start": 689063,
+    "letter_end": 698730
+  },
+  {
+    "source_member": "12-4-the-frankfurt-school.html",
+    "source_sha256": "4d7f68e816d63e5ed1c22e836f093d6bcd8facfa24f65724d29df0a3286c7fe6",
+    "paragraphs": 16,
+    "letter_start": 698730,
+    "letter_end": 707927
+  },
+  {
+    "source_member": "12-5-postmodernism.html",
+    "source_sha256": "21aa7b9368288e00e29f038209b9cbc30808d4045e7585ed397b453225ca91bd",
+    "paragraphs": 23,
+    "letter_start": 707927,
+    "letter_end": 722700
+  }
+]

@@ -1,0 +1,1221 @@
+{
+  "downloaded_at": "2026-09-26T08:26:27.963975+00:00",
+  "content_version": "1550a68",
+  "archive_version": "20260604.144757",
+  "selected_pages": [
+    {
+      "id": "17a1cd15-c415-4a8f-a4e1-87274c1f0f06@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "1-introduction"
+    },
+    {
+      "id": "55eee94a-ae76-47ca-b2af-7d810e9509e6@",
+      "title": "<span class=\"os-number\">1.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Defining Politics: Who Gets What, When, Where, How, and Why?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-1-defining-politics-who-gets-what-when-where-how-and-why"
+    },
+    {
+      "id": "2d448fb9-9c9e-415a-b801-3a51c66b48b5@",
+      "title": "<span class=\"os-number\">1.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Public Policy, Public Interest, and Power</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-2-public-policy-public-interest-and-power"
+    },
+    {
+      "id": "89fe56e3-f237-4084-8042-bf314112abac@",
+      "title": "<span class=\"os-number\">1.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Science: The Systematic Study of Politics</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-3-political-science-the-systematic-study-of-politics"
+    },
+    {
+      "id": "33e3047b-ad8c-4251-b19b-ac8a7def6572@",
+      "title": "<span class=\"os-number\">1.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Normative Political Science</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-4-normative-political-science"
+    },
+    {
+      "id": "fd75dd37-853f-49fa-b3b1-c35c57df96ae@",
+      "title": "<span class=\"os-number\">1.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Empirical Political Science</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-5-empirical-political-science"
+    },
+    {
+      "id": "b4f0fda9-0e20-4789-8165-e8c1ab11118f@",
+      "title": "<span class=\"os-number\">1.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Individuals, Groups, Institutions, and International Relations</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-6-individuals-groups-institutions-and-international-relations"
+    },
+    {
+      "id": "c99a970d-3434-4920-8977-d26c8d8fa239@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "2-introduction"
+    },
+    {
+      "id": "f28c3d79-632e-4b9b-bee3-7c196a316101@",
+      "title": "<span class=\"os-number\">2.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Goals Should We Seek in Politics?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-1-what-goals-should-we-seek-in-politics"
+    },
+    {
+      "id": "c73002bc-69fe-447b-baec-1f4efa285d64@",
+      "title": "<span class=\"os-number\">2.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Why Do Humans Make the Political Choices That They Do?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-2-why-do-humans-make-the-political-choices-that-they-do"
+    },
+    {
+      "id": "52d6c10b-8051-4461-88aa-5540f77b76ec@",
+      "title": "<span class=\"os-number\">2.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Human Behavior Is Partially Predictable</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-3-human-behavior-is-partially-predictable"
+    },
+    {
+      "id": "ee3c0f47-fc34-4f2e-9545-6a114b759b6c@",
+      "title": "<span class=\"os-number\">2.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Importance of Context for Political Decisions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-4-the-importance-of-context-for-political-decisions"
+    },
+    {
+      "id": "8e6bb0c8-5e54-4fe8-b293-7386c7652d91@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "3-introduction"
+    },
+    {
+      "id": "e0663e16-259a-4bc7-a334-5269ab47171f@",
+      "title": "<span class=\"os-number\">3.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Classical Origins of Western Political Ideologies</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-1-the-classical-origins-of-western-political-ideologies"
+    },
+    {
+      "id": "350d66d3-7303-4496-afaa-631105da7e65@",
+      "title": "<span class=\"os-number\">3.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Laws of Nature and the Social Contract</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-2-the-laws-of-nature-and-the-social-contract"
+    },
+    {
+      "id": "53586803-6f76-4e76-82c1-06fec2de70e0@",
+      "title": "<span class=\"os-number\">3.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Development of Varieties of Liberalism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-3-the-development-of-varieties-of-liberalism"
+    },
+    {
+      "id": "30df8281-be23-44bb-a9d5-a414b8216a50@",
+      "title": "<span class=\"os-number\">3.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Nationalism, Communism, Fascism, and Authoritarianism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-4-nationalism-communism-fascism-and-authoritarianism"
+    },
+    {
+      "id": "b8d09049-6381-4839-9eb1-bcad72bf57c6@",
+      "title": "<span class=\"os-number\">3.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Contemporary Democratic Liberalism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-5-contemporary-democratic-liberalism"
+    },
+    {
+      "id": "7b5a04f7-f624-4522-9fd9-50ee6671163a@",
+      "title": "<span class=\"os-number\">3.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Contemporary Ideologies Further to the Political Left</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-6-contemporary-ideologies-further-to-the-political-left"
+    },
+    {
+      "id": "524cbaf7-7c2f-4e0c-9575-37217c0028b5@",
+      "title": "<span class=\"os-number\">3.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Contemporary Ideologies Further to the Political Right</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-7-contemporary-ideologies-further-to-the-political-right"
+    },
+    {
+      "id": "eb740205-36b2-4043-890c-047fffbf74b9@",
+      "title": "<span class=\"os-number\">3.8</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Ideologies That Reject Political Ideology: Scientific Socialism, Burkeanism, and Religious Extremism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-8-political-ideologies-that-reject-political-ideology-scientific-socialism-burkeanism-and-religious-extremism"
+    },
+    {
+      "id": "b5d538f8-0c86-4d41-adc6-b2c5fb716f25@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "4-introduction"
+    },
+    {
+      "id": "2366469e-b2e4-42e6-8707-9324903a85ee@",
+      "title": "<span class=\"os-number\">4.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Freedom of the Individual</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-1-the-freedom-of-the-individual"
+    },
+    {
+      "id": "b4d6aa54-d4ba-45ef-b327-7dc27e712683@",
+      "title": "<span class=\"os-number\">4.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Constitutions and Individual Liberties</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-2-constitutions-and-individual-liberties"
+    },
+    {
+      "id": "db8c95b4-0183-48d6-9d35-11bd53f8fba5@",
+      "title": "<span class=\"os-number\">4.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Right to Privacy, Self-Determination, and the Freedom of Ideas</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-3-the-right-to-privacy-self-determination-and-the-freedom-of-ideas"
+    },
+    {
+      "id": "a6f9c81e-9afe-411f-95bc-8a66ddfc1547@",
+      "title": "<span class=\"os-number\">4.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Freedom of Movement</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-4-freedom-of-movement"
+    },
+    {
+      "id": "8767d8df-1401-4a9a-9a63-6b5ae152f083@",
+      "title": "<span class=\"os-number\">4.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Rights of the Accused</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-5-the-rights-of-the-accused"
+    },
+    {
+      "id": "e8d05162-ac12-4796-bc93-2c9170d01803@",
+      "title": "<span class=\"os-number\">4.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Right to a Healthy Environment</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-6-the-right-to-a-healthy-environment"
+    },
+    {
+      "id": "50967adb-1e10-4207-a8c4-34e1d2df26d7@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "5-introduction"
+    },
+    {
+      "id": "980776ef-f303-4a11-af06-2ef2aa4fce56@",
+      "title": "<span class=\"os-number\">5.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Political Participation?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-1-what-is-political-participation"
+    },
+    {
+      "id": "f3b9bdc5-7ba5-41ca-b153-aed1c70ea47a@",
+      "title": "<span class=\"os-number\">5.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Limits Voter Participation in the United States?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-2-what-limits-voter-participation-in-the-united-states"
+    },
+    {
+      "id": "1893b1bb-e678-46f3-b7ba-1e0f7415622f@",
+      "title": "<span class=\"os-number\">5.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do Individuals Participate Other Than Voting?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-3-how-do-individuals-participate-other-than-voting"
+    },
+    {
+      "id": "a8069eb3-babe-41b0-8cf1-b0fdcac4e4aa@",
+      "title": "<span class=\"os-number\">5.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Public Opinion and Where Does It Come From?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-4-what-is-public-opinion-and-where-does-it-come-from"
+    },
+    {
+      "id": "c13d8d5c-5ccf-4df3-9a20-3f8af87f3274@",
+      "title": "<span class=\"os-number\">5.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do We Measure Public Opinion?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-5-how-do-we-measure-public-opinion"
+    },
+    {
+      "id": "0cbcb366-49d6-4e1e-8edc-7a43f85ceb55@",
+      "title": "<span class=\"os-number\">5.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Why Is Public Opinion Important?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-6-why-is-public-opinion-important"
+    },
+    {
+      "id": "8da270e1-1e60-4e26-9d62-7ba1b2d897a9@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "6-introduction"
+    },
+    {
+      "id": "5c5a1b24-d5bd-48fc-bdf1-5d94c002202a@",
+      "title": "<span class=\"os-number\">6.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Socialization: The Ways People Become Political</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-1-political-socialization-the-ways-people-become-political"
+    },
+    {
+      "id": "32b9bdf2-f5e3-434a-a3b6-38cd30a7c44a@",
+      "title": "<span class=\"os-number\">6.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Culture: How People Express Their Political Identity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-2-political-culture-how-people-express-their-political-identity"
+    },
+    {
+      "id": "b9ea8056-f661-4aa0-a5d2-a8c36aa1d5b1@",
+      "title": "<span class=\"os-number\">6.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Collective Dilemmas: Making Group Decisions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-3-collective-dilemmas-making-group-decisions"
+    },
+    {
+      "id": "f5614418-dc2d-4a3f-9747-b2dddaeac242@",
+      "title": "<span class=\"os-number\">6.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Collective Action Problems: The Problem of Incentives</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-4-collective-action-problems-the-problem-of-incentives"
+    },
+    {
+      "id": "148667ab-0be8-4e1a-94de-2f5e518ab92e@",
+      "title": "<span class=\"os-number\">6.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Resolving Collective Action Problems</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-5-resolving-collective-action-problems"
+    },
+    {
+      "id": "d8e1e6e5-cbc6-414f-b0e0-fed93231fa10@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "7-introduction"
+    },
+    {
+      "id": "01c17c99-e4eb-4d5e-9b67-f70eca9e7522@",
+      "title": "<span class=\"os-number\">7.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Civil Rights and Constitutionalism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-1-civil-rights-and-constitutionalism"
+    },
+    {
+      "id": "f10d2509-9bc8-4624-b032-bda4a4213fa3@",
+      "title": "<span class=\"os-number\">7.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Culture and Majority-Minority Relations</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-2-political-culture-and-majority-minority-relations"
+    },
+    {
+      "id": "26a6b6b5-ea98-4485-acd8-796ed4563b86@",
+      "title": "<span class=\"os-number\">7.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Civil Rights Abuses</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-3-civil-rights-abuses"
+    },
+    {
+      "id": "0e4c8b82-b7a9-4747-ae71-43f9b78696e0@",
+      "title": "<span class=\"os-number\">7.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Civil Rights Movements</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-4-civil-rights-movements"
+    },
+    {
+      "id": "9ad2e619-b2dc-4cf4-92a7-9e60da52feb3@",
+      "title": "<span class=\"os-number\">7.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do Governments Bring About Civil Rights Change?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-5-how-do-governments-bring-about-civil-rights-change"
+    },
+    {
+      "id": "9222487e-75af-4be6-a723-29cf7f2eef15@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "8-introduction"
+    },
+    {
+      "id": "72f45726-f685-4ee6-9c51-43a0a013ca4d@",
+      "title": "<span class=\"os-number\">8.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is an Interest Group?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-1-what-is-an-interest-group"
+    },
+    {
+      "id": "d6a92cde-0c4d-4bcf-9e4e-bcb5ef32e512@",
+      "title": "<span class=\"os-number\">8.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Are the Pros and Cons of Interest Groups?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-2-what-are-the-pros-and-cons-of-interest-groups"
+    },
+    {
+      "id": "a84b4d39-7c4f-4c80-8a35-79d5d63affc8@",
+      "title": "<span class=\"os-number\">8.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Political Parties</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-3-political-parties"
+    },
+    {
+      "id": "fb12095f-95b8-4ba4-a644-28108bbd71af@",
+      "title": "<span class=\"os-number\">8.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Are the Limits of Parties?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-4-what-are-the-limits-of-parties"
+    },
+    {
+      "id": "07861c84-1c1b-4c72-82c5-c53749a0c430@",
+      "title": "<span class=\"os-number\">8.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Are Elections and Who Participates?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-5-what-are-elections-and-who-participates"
+    },
+    {
+      "id": "76082bc1-5087-4023-848a-0e1759154b26@",
+      "title": "<span class=\"os-number\">8.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do People Participate in Elections?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-6-how-do-people-participate-in-elections"
+    },
+    {
+      "id": "f7b7710a-4e8e-400d-a0cb-fc1e6b21ca40@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "9-introduction"
+    },
+    {
+      "id": "81be6e4a-2f32-4bd9-82b5-df3befd51a99@",
+      "title": "<span class=\"os-number\">9.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Do Legislatures Do?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-1-what-do-legislatures-do"
+    },
+    {
+      "id": "68290e2f-50d9-45b3-8f15-158ce7b00232@",
+      "title": "<span class=\"os-number\">9.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is the Difference between Parliamentary and Presidential Systems?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-2-what-is-the-difference-between-parliamentary-and-presidential-systems"
+    },
+    {
+      "id": "2b760601-9848-457b-8543-c572f061b6e9@",
+      "title": "<span class=\"os-number\">9.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is the Difference between Unicameral and Bicameral Systems?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-3-what-is-the-difference-between-unicameral-and-bicameral-systems"
+    },
+    {
+      "id": "4970bd6c-6625-4b40-b171-71a4c0ede596@",
+      "title": "<span class=\"os-number\">9.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Decline of Legislative Influence</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-4-the-decline-of-legislative-influence"
+    },
+    {
+      "id": "f2d8a6a3-f5ee-41c0-8467-bb22e3703b8c@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "10-introduction"
+    },
+    {
+      "id": "a0a966af-a16e-43fa-8240-5bb3171c2905@",
+      "title": "<span class=\"os-number\">10.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Democracies: Parliamentary, Presidential, and Semi-Presidential Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-1-democracies-parliamentary-presidential-and-semi-presidential-regimes"
+    },
+    {
+      "id": "5d7ab428-e67a-4228-ae11-c8cc450ec484@",
+      "title": "<span class=\"os-number\">10.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Executive in Presidential Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-2-the-executive-in-presidential-regimes"
+    },
+    {
+      "id": "c109cf0d-561e-430f-9c2b-056fe1bd494d@",
+      "title": "<span class=\"os-number\">10.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Executive in Parliamentary Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-3-the-executive-in-parliamentary-regimes"
+    },
+    {
+      "id": "1a12571a-8b97-4116-9052-67da75bb895b@",
+      "title": "<span class=\"os-number\">10.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Advantages, Disadvantages, and Challenges of Presidential and Parliamentary Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-4-advantages-disadvantages-and-challenges-of-presidential-and-parliamentary-regimes"
+    },
+    {
+      "id": "bb3f6504-785f-4c0a-83f8-2607cdfc8422@",
+      "title": "<span class=\"os-number\">10.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Semi-Presidential Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-5-semi-presidential-regimes"
+    },
+    {
+      "id": "7591403b-2595-449f-9360-99289e7fec12@",
+      "title": "<span class=\"os-number\">10.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do Cabinets Function in Presidential and Parliamentary Regimes?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-6-how-do-cabinets-function-in-presidential-and-parliamentary-regimes"
+    },
+    {
+      "id": "25dff5e8-e67c-4c57-83de-5de610147079@",
+      "title": "<span class=\"os-number\">10.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Are the Purpose and Function of Bureaucracies?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-7-what-are-the-purpose-and-function-of-bureaucracies"
+    },
+    {
+      "id": "db0fc97a-e822-4512-a8ec-d09a1d4f1f03@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "11-introduction"
+    },
+    {
+      "id": "60fc8971-b4da-4cc3-b5a4-a77b3ca860a1@",
+      "title": "<span class=\"os-number\">11.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is the Judiciary?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-1-what-is-the-judiciary"
+    },
+    {
+      "id": "c3456f52-48ed-41b6-b437-ecab91383b8f@",
+      "title": "<span class=\"os-number\">11.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Does the Judiciary Take Action?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-2-how-does-the-judiciary-take-action"
+    },
+    {
+      "id": "921b6cf2-071b-41c5-b4d5-b513d417ffea@",
+      "title": "<span class=\"os-number\">11.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Types of Legal Systems around the World</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-3-types-of-legal-systems-around-the-world"
+    },
+    {
+      "id": "e8d4f0f5-3b57-45d3-a081-1cb1acbf31d2@",
+      "title": "<span class=\"os-number\">11.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Criminal versus Civil Laws</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-4-criminal-versus-civil-laws"
+    },
+    {
+      "id": "8f511a86-0d40-4bdc-bd2f-2b8a7f77f058@",
+      "title": "<span class=\"os-number\">11.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Due Process and Judicial Fairness</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-5-due-process-and-judicial-fairness"
+    },
+    {
+      "id": "578ead6a-8bd2-44e2-9ccf-981e9b8a60dc@",
+      "title": "<span class=\"os-number\">11.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Judicial Review versus Executive Sovereignty</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-6-judicial-review-versus-executive-sovereignty"
+    },
+    {
+      "id": "01ff36ec-3515-4936-8902-1b5451333476@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "12-introduction"
+    },
+    {
+      "id": "2888c474-1f73-49c1-aa83-97498be657f5@",
+      "title": "<span class=\"os-number\">12.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Media as a Political Institution: Why Does It Matter?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-1-the-media-as-a-political-institution-why-does-it-matter"
+    },
+    {
+      "id": "e78bef85-8aee-4380-a6e7-3dc411f87eb6@",
+      "title": "<span class=\"os-number\">12.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Types of Media and the Changing Media Landscape</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-2-types-of-media-and-the-changing-media-landscape"
+    },
+    {
+      "id": "51f2c003-4f12-4969-abe1-5bbf47a3c794@",
+      "title": "<span class=\"os-number\">12.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do Media and Elections Interact?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-3-how-do-media-and-elections-interact"
+    },
+    {
+      "id": "991511f3-c572-4af1-b4cf-1490e696da7f@",
+      "title": "<span class=\"os-number\">12.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Internet and Social Media</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-4-the-internet-and-social-media"
+    },
+    {
+      "id": "4a3c0f29-d809-42bb-8ee4-d99ce7fafa35@",
+      "title": "<span class=\"os-number\">12.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Declining Global Trust in the Media</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-5-declining-global-trust-in-the-media"
+    },
+    {
+      "id": "38dd82be-7bba-4393-9806-116022ba5a81@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "13-introduction"
+    },
+    {
+      "id": "a3656e40-54ad-474e-aa61-7686ec6098c8@",
+      "title": "<span class=\"os-number\">13.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Contemporary Government Regimes: Power, Legitimacy, and Authority</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-1-contemporary-government-regimes-power-legitimacy-and-authority"
+    },
+    {
+      "id": "da60cfec-d517-43aa-9248-d1b6c4eb8b90@",
+      "title": "<span class=\"os-number\">13.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Categorizing Contemporary Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-2-categorizing-contemporary-regimes"
+    },
+    {
+      "id": "89e86e41-1e73-4043-839a-4d3bffd3a8e0@",
+      "title": "<span class=\"os-number\">13.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Recent Trends: Illiberal Representative Regimes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-3-recent-trends-illiberal-representative-regimes"
+    },
+    {
+      "id": "0bd990e3-d8ef-444a-a124-8b64841bdb8f@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "14-introduction"
+    },
+    {
+      "id": "21274ff8-2e90-4731-9876-53b82b912cd3@",
+      "title": "<span class=\"os-number\">14.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Power, and How Do We Measure It?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-1-what-is-power-and-how-do-we-measure-it"
+    },
+    {
+      "id": "7d7b0973-2662-4e61-be8f-bf2b6aa58af5@",
+      "title": "<span class=\"os-number\">14.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Understanding the Different Types of Actors in the International System</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-2-understanding-the-different-types-of-actors-in-the-international-system"
+    },
+    {
+      "id": "4f423224-ea40-4958-b70e-5544d8c92de3@",
+      "title": "<span class=\"os-number\">14.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Sovereignty and Anarchy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-3-sovereignty-and-anarchy"
+    },
+    {
+      "id": "9be834ae-a290-4a2f-9266-5c3c46dadcc7@",
+      "title": "<span class=\"os-number\">14.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Using Levels of Analysis to Understand Conflict</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-4-using-levels-of-analysis-to-understand-conflict"
+    },
+    {
+      "id": "b95b388d-c605-42f5-b063-0964ee0ecb50@",
+      "title": "<span class=\"os-number\">14.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Realist Worldview</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-5-the-realist-worldview"
+    },
+    {
+      "id": "f06136d1-bd5a-4cb0-8117-644b795a8b4f@",
+      "title": "<span class=\"os-number\">14.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Liberal and Social Worldview</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-6-the-liberal-and-social-worldview"
+    },
+    {
+      "id": "a3e2af2f-ea72-4952-ab9a-6e9fe8dc9f83@",
+      "title": "<span class=\"os-number\">14.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Critical Worldviews</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-7-critical-worldviews"
+    },
+    {
+      "id": "6704cc33-473c-4b16-8ebe-3aee49664d79@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "15-introduction"
+    },
+    {
+      "id": "ecddcd5e-17b3-4a18-bcbc-006cdd6db1f5@",
+      "title": "<span class=\"os-number\">15.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Problem of Global Governance</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-1-the-problem-of-global-governance"
+    },
+    {
+      "id": "b7ea10c8-b12b-437c-b420-04ad65a02ca9@",
+      "title": "<span class=\"os-number\">15.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">International Law</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-2-international-law"
+    },
+    {
+      "id": "6bf523df-aa8e-41cc-bdcc-78fd895a8a6f@",
+      "title": "<span class=\"os-number\">15.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The United Nations and Global Intergovernmental Organizations (IGOs)</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-3-the-united-nations-and-global-intergovernmental-organizations-igos"
+    },
+    {
+      "id": "9b9b20e7-e2d2-4d01-9e40-453f5a9db8b2@",
+      "title": "<span class=\"os-number\">15.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">How Do Regional IGOs Contribute to Global Governance?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-4-how-do-regional-igos-contribute-to-global-governance"
+    },
+    {
+      "id": "d3276f8e-ae25-4bd4-ab99-272dc4f5748d@",
+      "title": "<span class=\"os-number\">15.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Non-state Actors: Nongovernmental Organizations (NGOs)</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-5-non-state-actors-nongovernmental-organizations-ngos"
+    },
+    {
+      "id": "50c33a69-340c-41c4-afb2-6552360c9c29@",
+      "title": "<span class=\"os-number\">15.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Non-state Actors beyond NGOs</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-6-non-state-actors-beyond-ngos"
+    },
+    {
+      "id": "ca5fd8f3-ab1c-4117-8c44-ccc9455dc1cf@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "16-introduction"
+    },
+    {
+      "id": "c928c980-b11f-4060-bf24-4fa1ef9c67d7@",
+      "title": "<span class=\"os-number\">16.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Origins of International Political Economy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-1-the-origins-of-international-political-economy"
+    },
+    {
+      "id": "ed931496-47ee-4c51-9b31-4812ef731f51@",
+      "title": "<span class=\"os-number\">16.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Advent of the Liberal Economy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-2-the-advent-of-the-liberal-economy"
+    },
+    {
+      "id": "0863f292-d17e-4bf9-8a37-41bb11ef36a9@",
+      "title": "<span class=\"os-number\">16.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Bretton Woods Institutions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-3-the-bretton-woods-institutions"
+    },
+    {
+      "id": "2485fe75-a0fd-4d9d-950c-35042d164b2b@",
+      "title": "<span class=\"os-number\">16.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Post–Cold War Period and Modernization Theory</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-4-the-post-cold-war-period-and-modernization-theory"
+    },
+    {
+      "id": "7ab3c906-50a2-49a4-8c5b-25c6c5e45a62@",
+      "title": "<span class=\"os-number\">16.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">From the 1990s to the 2020s: Current Issues in IPE</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-5-from-the-1990s-to-the-2020s-current-issues-in-ipe"
+    },
+    {
+      "id": "aa390d0a-02d8-41d9-8577-659e178d5ca6@",
+      "title": "<span class=\"os-number\">16.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Considering Poverty, Inequality, and the Environmental Crisis</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-6-considering-poverty-inequality-and-the-environmental-crisis"
+    }
+  ],
+  "excluded_pages": [
+    {
+      "id": "5bd78630-1d4d-44b2-9fa3-5dad077d4fcc@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Preface</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "preface",
+      "slug": "preface"
+    },
+    {
+      "id": "47f81f75-35d4-555c-b18d-0b3c70fa8e7d@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-summary"
+    },
+    {
+      "id": "d42ac124-3891-5292-b425-563b56bd0ef9@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-key-terms"
+    },
+    {
+      "id": "a2d78543-5beb-51d1-9ccb-d3e25bd437eb@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-review-questions"
+    },
+    {
+      "id": "f48ba6ed-4313-51a5-98d1-2c0cc15d8542@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-suggested-readings"
+    },
+    {
+      "id": "ca1d3d50-b45f-525a-8550-c3564fecf4c4@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-summary"
+    },
+    {
+      "id": "f0d79298-6616-5e36-ace7-c930f8d98dc7@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-key-terms"
+    },
+    {
+      "id": "de32aaec-0624-5ea4-873b-c34b7f4271fc@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-review-questions"
+    },
+    {
+      "id": "931d296f-c9ca-5b5c-95ab-50efa81961f1@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-suggested-readings"
+    },
+    {
+      "id": "c514b643-4fe9-51ff-984b-9b7d6678f5ea@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-summary"
+    },
+    {
+      "id": "271c4cee-df16-5a5d-aa18-2cf281117acc@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-key-terms"
+    },
+    {
+      "id": "66950830-3e13-5969-bb8e-b85454cb4bb6@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-review-questions"
+    },
+    {
+      "id": "c1baa3e2-3f95-50d3-a8f9-b2bc0fece4f0@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-suggested-readings"
+    },
+    {
+      "id": "91de4f42-ce74-541d-83ef-284a33729475@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-summary"
+    },
+    {
+      "id": "1ec44318-8e23-5d58-8863-cef6c6f5e7af@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-key-terms"
+    },
+    {
+      "id": "ba3a466a-1f0b-56cb-b015-c7ad050183b8@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-review-questions"
+    },
+    {
+      "id": "e725e9b8-4728-5dcb-a9b1-64d4b11b521e@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-suggested-readings"
+    },
+    {
+      "id": "d335cbc9-89a0-5cd4-9d05-c14996f95a33@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-summary"
+    },
+    {
+      "id": "0036fac1-2849-5816-be54-1dc014c4b14d@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-key-terms"
+    },
+    {
+      "id": "bb58e3e7-4aa6-5dd0-9e23-09256f897c74@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-review-questions"
+    },
+    {
+      "id": "8b9ea8b1-5421-586e-a6a5-336151fbe733@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-suggested-readings"
+    },
+    {
+      "id": "da723d55-b617-54f6-8ab3-bcc1e5c04e4c@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-summary"
+    },
+    {
+      "id": "bb5fef92-9f7e-52d2-a1f8-cc74559c3c70@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-key-terms"
+    },
+    {
+      "id": "5acaa138-9323-59db-9382-035d2e7ab22b@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-review-questions"
+    },
+    {
+      "id": "f87e96d3-22a3-58b0-acb8-922dde6f0580@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-suggested-readings"
+    },
+    {
+      "id": "db23ce79-7b29-5d76-847a-4ea69509df12@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-summary"
+    },
+    {
+      "id": "b472eabd-fb7c-585b-85b7-8278dd860456@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-key-terms"
+    },
+    {
+      "id": "6c85a05e-bf89-5f27-adc3-37f1f140e287@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-review-questions"
+    },
+    {
+      "id": "c4a7f01e-b01a-5eb7-ba2a-d7e988832f21@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-suggested-readings"
+    },
+    {
+      "id": "bb01c55f-82b3-56e1-8f5c-277995d8f38a@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-summary"
+    },
+    {
+      "id": "6e836336-32fd-53a8-b9f5-6489044a8043@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-key-terms"
+    },
+    {
+      "id": "84895306-8f40-500b-8289-8923177702eb@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-review-questions"
+    },
+    {
+      "id": "0d8c9557-9a9e-510c-9cdb-dbafe728dab1@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-suggested-readings"
+    },
+    {
+      "id": "aa8ed5d9-b318-585c-965d-ca15c4b216b4@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-summary"
+    },
+    {
+      "id": "95295e4a-c839-5e6c-9cc6-1950a31794fd@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-key-terms"
+    },
+    {
+      "id": "e05812dc-70ba-589c-b281-9aacecc99054@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-review-questions"
+    },
+    {
+      "id": "7e725d04-459c-5f8b-97c2-5092499c481d@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-suggested-readings"
+    },
+    {
+      "id": "eaddfd87-ed0b-55a6-8a45-4ce0560fc80c@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-summary"
+    },
+    {
+      "id": "27db7f3c-200f-5996-bb66-7c2fa92602cb@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-key-terms"
+    },
+    {
+      "id": "0a9c0eb6-3df1-59ec-9818-b98943ea2f71@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-review-questions"
+    },
+    {
+      "id": "4023b247-e083-553e-b365-c024281b84a3@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-suggested-readings"
+    },
+    {
+      "id": "95bb378b-bada-5f9e-87f8-7eae0c6b980c@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-summary"
+    },
+    {
+      "id": "98145add-122e-52d1-bd1e-0db0af6e0b37@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-key-terms"
+    },
+    {
+      "id": "6fc38753-fcd4-592a-95b1-060b6956a7e0@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-review-questions"
+    },
+    {
+      "id": "8adc472e-1b66-5cb4-8a59-de87fc7d4c6d@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-suggested-readings"
+    },
+    {
+      "id": "198e3b7d-db18-5289-9466-2a25706671f1@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-summary"
+    },
+    {
+      "id": "c76d421d-bb51-59e9-a44d-2f660db11522@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-key-terms"
+    },
+    {
+      "id": "16491eed-77b3-5a3a-ab44-76887f3c36c9@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-review-questions"
+    },
+    {
+      "id": "2b019f32-2e01-5390-be9f-c7d45716be19@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-suggested-readings"
+    },
+    {
+      "id": "13bf5634-08c8-5e86-b8c2-01b8f7d273ae@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-summary"
+    },
+    {
+      "id": "f7d04b6c-19bf-5022-8bbf-6b088015124c@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-key-terms"
+    },
+    {
+      "id": "1b65f434-101c-5141-b5a4-2794bd6cc66d@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-review-questions"
+    },
+    {
+      "id": "64e2a95b-4831-524d-af6a-3b45192a9818@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-suggested-readings"
+    },
+    {
+      "id": "b2a0c0c7-a8d8-5227-bd56-fe5a36b3ca18@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-summary"
+    },
+    {
+      "id": "020d961d-b454-59bb-88a2-3825326ee96f@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-key-terms"
+    },
+    {
+      "id": "d9b19b9f-af4f-5682-bec9-e50897021775@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-review-questions"
+    },
+    {
+      "id": "e08a5a77-75fa-5c55-acfc-6ef9181d27d7@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-suggested-readings"
+    },
+    {
+      "id": "3bc4190b-b2b5-51b7-a4c7-467534d46a51@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-summary"
+    },
+    {
+      "id": "212403bd-9d94-5145-bca0-e4111ff25b0c@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-key-terms"
+    },
+    {
+      "id": "4e693347-a66c-5ee0-a797-bf2069d31f92@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-review-questions"
+    },
+    {
+      "id": "6a182cd8-b3f4-5573-8f31-82e1c9f80da1@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-suggested-readings"
+    },
+    {
+      "id": "6e98f211-4677-5e91-85d4-4c559378ec84@1550a68",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-summary"
+    },
+    {
+      "id": "2dd73574-530e-53c5-83c2-7c915af4f66d@1550a68",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-key-terms"
+    },
+    {
+      "id": "e1379004-9419-581c-b100-a2561a9b84d4@1550a68",
+      "title": "<span class=\"os-text\">Review Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-review-questions"
+    },
+    {
+      "id": "2ecd6a55-f73c-5b25-8b19-1cf1d8891830@1550a68",
+      "title": "<span class=\"os-text\">Suggested Readings</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-suggested-readings"
+    },
+    {
+      "id": "71639b04-c328-5acd-afb5-2a9fa010a3bd@1550a68",
+      "title": "<span class=\"os-text\">References</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "references"
+    },
+    {
+      "id": "1e522abb-62c2-5ef1-950b-9554d5544287@1550a68",
+      "title": "<span class=\"os-text\">Index</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "index",
+      "slug": "index"
+    }
+  ],
+  "source_url_template": "https://openstax.org/books/introduction-political-science/pages/{slug}"
+}

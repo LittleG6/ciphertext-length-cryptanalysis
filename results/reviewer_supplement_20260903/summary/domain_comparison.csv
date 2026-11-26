@@ -1,0 +1,7 @@
+length,metric,fiction_trials,nonfiction_trials,fiction_rate,nonfiction_rate,difference_nonfiction_minus_fiction,difference_low,difference_high,interval_method
+100,hit@1,500,500,0.308,0.338,0.030000000000000027,-0.027936217120048422,0.08793621712004848,independent Wald 95% CI; domain samples are not treated as paired
+100,hit@10,500,500,0.446,0.458,0.01200000000000001,-0.049688757210146706,0.07368875721014673,independent Wald 95% CI; domain samples are not treated as paired
+200,hit@1,500,500,0.834,0.888,0.05400000000000005,0.011247618699231958,0.09675238130076813,independent Wald 95% CI; domain samples are not treated as paired
+200,hit@10,500,500,0.958,0.974,0.016000000000000014,-0.006443085362075631,0.03844308536207566,independent Wald 95% CI; domain samples are not treated as paired
+500,hit@1,500,500,0.902,0.968,0.06599999999999995,0.03571592423916818,0.09628407576083171,independent Wald 95% CI; domain samples are not treated as paired
+500,hit@10,500,500,0.998,1.0,0.0020000000000000018,-0.0019160060791846263,0.00591600607918463,independent Wald 95% CI; domain samples are not treated as paired

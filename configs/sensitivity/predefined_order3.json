@@ -1,0 +1,16 @@
+{
+  "lengths": [100, 200, 300, 500],
+  "trials_per_length": 300,
+  "seed": 20260712,
+  "ngram_order": 3,
+  "alpha": 0.1,
+  "include_spaces": false,
+  "search": {
+    "restarts": 30,
+    "iterations": 10000,
+    "patience": 2000,
+    "archive_size": 1000,
+    "frequency_initialization": true,
+    "algorithm": "hill_climb"
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "source_member": "OEBPS/02-Not-Yet-Imagined_Prologue.xhtml",
+    "source_sha256": "439b9b7d5d1a37a26a310ce92fd7b37142adf6e6b0e8cab991206ad3bb71a718",
+    "paragraphs": 10,
+    "letter_start": 0,
+    "letter_end": 7144
+  },
+  {
+    "source_member": "OEBPS/03-Not-Yet-Imagined_Ch_1.xhtml",
+    "source_sha256": "5394c3e49a893328e3802783c17e9ba6d0f223ddff2c1e139a51d7f287407130",
+    "paragraphs": 57,
+    "letter_start": 7144,
+    "letter_end": 66216
+  },
+  {
+    "source_member": "OEBPS/04-Not-Yet-Imagined_Ch_2.xhtml",
+    "source_sha256": "f8cf0fd1f6475b34f70033782d0c9ec6bade168ab325a0b90c741a8250bad895",
+    "paragraphs": 30,
+    "letter_start": 66216,
+    "letter_end": 93493
+  },
+  {
+    "source_member": "OEBPS/05-Not-Yet-Imagined_Ch_3.xhtml",
+    "source_sha256": "927548187147157f56965d08f9766d3145faff6b7aa5b71d4cb90356776dfa00",
+    "paragraphs": 58,
+    "letter_start": 93493,
+    "letter_end": 151289
+  },
+  {
+    "source_member": "OEBPS/06-Not-Yet-Imagined_Ch_4.xhtml",
+    "source_sha256": "b6b293dcbccb5782fb0a21d19e5d98b48bf294a036104aa143bad806ef83409d",
+    "paragraphs": 38,
+    "letter_start": 151289,
+    "letter_end": 188554
+  },
+  {
+    "source_member": "OEBPS/07-Not-Yet-Imagined_Ch_5.xhtml",
+    "source_sha256": "1f9f2c3aa62aeb879802664083282b38955d89d3eaef388131789a28d4477d59",
+    "paragraphs": 40,
+    "letter_start": 188554,
+    "letter_end": 228493
+  },
+  {
+    "source_member": "OEBPS/08-Not-Yet-Imagined_Ch_6.xhtml",
+    "source_sha256": "ca0fb71907f17aa853a1325d1b8f96d3e61f67dab82678fb8a23961d800729fb",
+    "paragraphs": 44,
+    "letter_start": 228493,
+    "letter_end": 273733
+  },
+  {
+    "source_member": "OEBPS/09-Not-Yet-Imagined_Ch_7.xhtml",
+    "source_sha256": "509ada1711da5f95aa6508dc130a3c29a12ade228fec32790b45f90dc3570587",
+    "paragraphs": 55,
+    "letter_start": 273733,
+    "letter_end": 325633
+  },
+  {
+    "source_member": "OEBPS/10-Not-Yet-Imagined_Ch_8.xhtml",
+    "source_sha256": "edcec086ffa3d53e095fc4ad171a96a1cb77cb67f54a908fc20ac8e5151bf1b5",
+    "paragraphs": 49,
+    "letter_start": 325633,
+    "letter_end": 377723
+  },
+  {
+    "source_member": "OEBPS/11-Not-Yet-Imagined_Ch_9B.xhtml",
+    "source_sha256": "13b46987aee4913fe03daf2a2c1fca96dd43278da47e9dd871c86f96999d8769",
+    "paragraphs": 72,
+    "letter_start": 377723,
+    "letter_end": 442688
+  },
+  {
+    "source_member": "OEBPS/12-Not-Yet-Imagined_ConcC.xhtml",
+    "source_sha256": "4d1d997b7846f0383ad8a03738b16a2b83e49c3b64ff74ab1cf07ada1b3ea85d",
+    "paragraphs": 29,
+    "letter_start": 442688,
+    "letter_end": 464343
+  }
+]

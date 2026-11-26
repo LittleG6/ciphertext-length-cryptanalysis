@@ -1,0 +1,842 @@
+[
+  {
+    "source_member": "1-introduction.html",
+    "source_sha256": "fabb04661270ce03a476104023eada2b727a1ad9088fa19523733d961b5c4879",
+    "paragraphs": 7,
+    "letter_start": 0,
+    "letter_end": 2171
+  },
+  {
+    "source_member": "1-1-the-study-of-humanity-or-anthropology-is-vast.html",
+    "source_sha256": "82c185f8e18553c293a4a6fd710fdb8b3998958dab1737c072cfa629688e7160",
+    "paragraphs": 29,
+    "letter_start": 2171,
+    "letter_end": 17306
+  },
+  {
+    "source_member": "1-2-the-four-field-approach-four-approaches-within-the-guiding-narrative.html",
+    "source_sha256": "f5caa1a72cf889f88a5562e5810df491372082becc89343d4c675f32d522a684",
+    "paragraphs": 29,
+    "letter_start": 17306,
+    "letter_end": 35687
+  },
+  {
+    "source_member": "1-3-overcoming-ethnocentrism.html",
+    "source_sha256": "a734353f780afa59566f22cbac835c58bfe6e3ab02e4227a21693fdf77857877",
+    "paragraphs": 9,
+    "letter_start": 35687,
+    "letter_end": 41348
+  },
+  {
+    "source_member": "1-4-western-bias-in-our-assumptions-about-humanity.html",
+    "source_sha256": "dafcc4a8dba8321767b86c769bf4c44592673c2e053ed386071b31d61dcf860a",
+    "paragraphs": 17,
+    "letter_start": 41348,
+    "letter_end": 51301
+  },
+  {
+    "source_member": "1-5-holism-anthropologys-distinctive-approach.html",
+    "source_sha256": "5344a9bdc042ff9288981e322967f44763c3459776f34b672e2da81dbab73843",
+    "paragraphs": 17,
+    "letter_start": 51301,
+    "letter_end": 60859
+  },
+  {
+    "source_member": "1-6-cross-cultural-comparison-and-cultural-relativism.html",
+    "source_sha256": "52597d36e5a0ba3a0e23ed5c1c16fa0a9731fbd4dafee5bcb17a70724c30e9ab",
+    "paragraphs": 11,
+    "letter_start": 60859,
+    "letter_end": 66804
+  },
+  {
+    "source_member": "1-7-reaching-for-an-insiders-point-of-view.html",
+    "source_sha256": "fc0985408f4f6881b4fb495280afc892741786de825571328f5fda11fed3b004",
+    "paragraphs": 19,
+    "letter_start": 66804,
+    "letter_end": 76792
+  },
+  {
+    "source_member": "2-introduction.html",
+    "source_sha256": "c3bc53c48c6d95e535b622727addc915323b5677fc946ca9d0fae4c268c279a7",
+    "paragraphs": 1,
+    "letter_start": 76792,
+    "letter_end": 77341
+  },
+  {
+    "source_member": "2-1-archaeological-research-methods.html",
+    "source_sha256": "8ec279402adcb8909d8e996f1c9cf76a360d1a194aa48a7fcad6060e2c00f9ed",
+    "paragraphs": 17,
+    "letter_start": 77341,
+    "letter_end": 87144
+  },
+  {
+    "source_member": "2-2-conservation-and-naturalism.html",
+    "source_sha256": "bbe6644a4d93b5847b640fc04f2e855c1e224ad614e5353d9163a5d81368af21",
+    "paragraphs": 15,
+    "letter_start": 87144,
+    "letter_end": 97599
+  },
+  {
+    "source_member": "2-3-ethnography-and-ethnology.html",
+    "source_sha256": "a9d8f0f3da82b5eda1e9a44d0d54f5ba40c9e1dbdee1ed06010ea18fedd68119",
+    "paragraphs": 9,
+    "letter_start": 97599,
+    "letter_end": 103921
+  },
+  {
+    "source_member": "2-4-participant-observation-and-interviewing.html",
+    "source_sha256": "db6fdb96f1dfca406f6f8a23ce4bd26a3fe8ec74e3b01b8addca79adea25fa0a",
+    "paragraphs": 10,
+    "letter_start": 103921,
+    "letter_end": 111963
+  },
+  {
+    "source_member": "2-5-quantitative-and-qualitative-analysis.html",
+    "source_sha256": "8909cb966b86fdee8fd2e3c090f1ff18ed6ed628a7bff4659e267f67c8e3182c",
+    "paragraphs": 6,
+    "letter_start": 111963,
+    "letter_end": 116339
+  },
+  {
+    "source_member": "2-6-collections.html",
+    "source_sha256": "5ffa92c212d108db157e4242b49811ce0d1261d10ad541acb6ef10f5f4de06e9",
+    "paragraphs": 28,
+    "letter_start": 116339,
+    "letter_end": 130316
+  },
+  {
+    "source_member": "3-introduction.html",
+    "source_sha256": "a3cf5cb73e8dc84690a733fb5dd4c96922a61eb1dbdd97e308f3a6170f52a2b3",
+    "paragraphs": 2,
+    "letter_start": 130316,
+    "letter_end": 131392
+  },
+  {
+    "source_member": "3-1-the-homeyness-of-culture.html",
+    "source_sha256": "e9f4b81f7b2a6cc5a2e2e3a055b91f917ca25a05aa938a2f4ed89a8661dc0fc7",
+    "paragraphs": 8,
+    "letter_start": 131392,
+    "letter_end": 136066
+  },
+  {
+    "source_member": "3-2-the-winkiness-of-culture.html",
+    "source_sha256": "57fa09eb02203b963edbaeaab45cf92bd20eef704ee7a38e33066a6a8e237911",
+    "paragraphs": 13,
+    "letter_start": 136066,
+    "letter_end": 142461
+  },
+  {
+    "source_member": "3-3-the-elements-of-culture.html",
+    "source_sha256": "f54423786a60fb8ee87d24018bbfe9226769af21f8c2bcc8d66e23de5968dfb1",
+    "paragraphs": 26,
+    "letter_start": 142461,
+    "letter_end": 156894
+  },
+  {
+    "source_member": "3-4-the-aggregates-of-culture.html",
+    "source_sha256": "47a02b9161de50de8d055cf657609861e4bfcb2345d57b502a50d892074921b8",
+    "paragraphs": 15,
+    "letter_start": 156894,
+    "letter_end": 164567
+  },
+  {
+    "source_member": "3-5-modes-of-cultural-analysis.html",
+    "source_sha256": "da8daaaeca4ad40d120938b0990cc6cff4bc77557d6b1aaaf1b17d12b9b2a2df",
+    "paragraphs": 14,
+    "letter_start": 164567,
+    "letter_end": 173865
+  },
+  {
+    "source_member": "3-6-the-paradoxes-of-culture.html",
+    "source_sha256": "0893b356b49afaf303a95fba13cd52e2224de085624d16d25e4cba755884185e",
+    "paragraphs": 39,
+    "letter_start": 173865,
+    "letter_end": 192795
+  },
+  {
+    "source_member": "4-introduction.html",
+    "source_sha256": "2ade6fec8c733be8134004e8e7d71d8b60d571de89cd3a5cedebd2d28b9ef271",
+    "paragraphs": 1,
+    "letter_start": 192795,
+    "letter_end": 193735
+  },
+  {
+    "source_member": "4-1-what-is-biological-anthropology.html",
+    "source_sha256": "766335012fe3c7069b3cd069463e50df5a362d5348396b00f34352040d05d1f2",
+    "paragraphs": 8,
+    "letter_start": 193735,
+    "letter_end": 198337
+  },
+  {
+    "source_member": "4-2-whats-in-a-name-the-science-of-taxonomy.html",
+    "source_sha256": "aa50b13053f22b66f414c85f7064770b8d1f046b2eadef7da6da8e9ac7c07e02",
+    "paragraphs": 11,
+    "letter_start": 198337,
+    "letter_end": 204594
+  },
+  {
+    "source_member": "4-3-its-all-in-the-genes-the-foundation-of-evolution.html",
+    "source_sha256": "55e8858532d5722a3fb5f70aa67fb76299a86523d46ed27c6d113d9c2be71024",
+    "paragraphs": 13,
+    "letter_start": 204594,
+    "letter_end": 213006
+  },
+  {
+    "source_member": "4-4-evolution-in-action-past-and-present.html",
+    "source_sha256": "951fd047cef1d4ef7316d344df98b9c7656470142fe9fafb9ddd8dddc5f184e6",
+    "paragraphs": 38,
+    "letter_start": 213006,
+    "letter_end": 236556
+  },
+  {
+    "source_member": "4-5-what-is-a-primate.html",
+    "source_sha256": "7e58f829b752e858b1b8a3db4e3808b55961c1fe1ecd7d46f9ebb6136b448e9c",
+    "paragraphs": 13,
+    "letter_start": 236556,
+    "letter_end": 243186
+  },
+  {
+    "source_member": "4-6-origin-of-and-classification-of-primates.html",
+    "source_sha256": "54137b5cb6593bca0761be0e0b432df86a5b183251d9f56fbd7474385f632611",
+    "paragraphs": 13,
+    "letter_start": 243186,
+    "letter_end": 252199
+  },
+  {
+    "source_member": "4-7-our-ancient-past-the-earliest-hominins.html",
+    "source_sha256": "d34a10093318cec741e4210a2e8f37c82aeca17aca365ce4bf01e29aa90c1404",
+    "paragraphs": 21,
+    "letter_start": 252199,
+    "letter_end": 265495
+  },
+  {
+    "source_member": "5-introduction.html",
+    "source_sha256": "47ddc08256d291d398ca398ceb2466541eb8c1e5de1b521cb16e2f3451c580c1",
+    "paragraphs": 1,
+    "letter_start": 265495,
+    "letter_end": 265929
+  },
+  {
+    "source_member": "5-1-defining-the-genus-homo.html",
+    "source_sha256": "32765f7d987c8f3e6c264eba0173acd6169a50d3f38c6f87aa6e228df4360c56",
+    "paragraphs": 11,
+    "letter_start": 265929,
+    "letter_end": 273335
+  },
+  {
+    "source_member": "5-2-tools-and-brains-homo-habilis-homo-ergaster-and-homo-erectus.html",
+    "source_sha256": "25c8c9f7212989844e0c2aa2745a9c354eb76b6b1b667d70808024d2f295cc6a",
+    "paragraphs": 14,
+    "letter_start": 273335,
+    "letter_end": 281268
+  },
+  {
+    "source_member": "5-3-the-emergence-of-us-the-archaic-homo.html",
+    "source_sha256": "a01e688ee5e77c8cb25acb5c622fd3fe82196389a666d2536ddbe6e008de0529",
+    "paragraphs": 50,
+    "letter_start": 281268,
+    "letter_end": 311707
+  },
+  {
+    "source_member": "5-4-tracking-genomes-our-human-story-unfolds.html",
+    "source_sha256": "f7f76a8f66791419e04e6bc99845c3751f1791f2cc46b49678e2c7da72cbe649",
+    "paragraphs": 18,
+    "letter_start": 311707,
+    "letter_end": 319996
+  },
+  {
+    "source_member": "6-introduction.html",
+    "source_sha256": "5426936a4cb8eb5fed59df34132df82567f6d293dc15ae7960a17f2a5467ab0b",
+    "paragraphs": 7,
+    "letter_start": 319996,
+    "letter_end": 323372
+  },
+  {
+    "source_member": "6-1-the-emergence-and-development-of-language.html",
+    "source_sha256": "b529f4c0dbd7495441140345a3db911a6441a8797fb34a00810cc67857734853",
+    "paragraphs": 28,
+    "letter_start": 323372,
+    "letter_end": 339355
+  },
+  {
+    "source_member": "6-2-language-and-the-mind.html",
+    "source_sha256": "da62ff66288481cf157f332e20116ed9648940775340943d1e1511492a85cbcf",
+    "paragraphs": 34,
+    "letter_start": 339355,
+    "letter_end": 356194
+  },
+  {
+    "source_member": "6-3-language-community-and-culture.html",
+    "source_sha256": "61041b76506a96b12378bbbc4387e7119d8b2d92c2c4f5b5c36dd127ab77f2cc",
+    "paragraphs": 13,
+    "letter_start": 356194,
+    "letter_end": 363856
+  },
+  {
+    "source_member": "6-4-performativity-and-ritual.html",
+    "source_sha256": "06e0f4f42e7cfd80a87f1c487d472c9549dd2ef02dbada67112d9fdef3ed4873",
+    "paragraphs": 21,
+    "letter_start": 363856,
+    "letter_end": 373045
+  },
+  {
+    "source_member": "6-5-language-and-power.html",
+    "source_sha256": "8357aa2e1f6e11d6551dcfc12ced10e630ca8bc835e2e386005a51deef60ed97",
+    "paragraphs": 36,
+    "letter_start": 373045,
+    "letter_end": 393108
+  },
+  {
+    "source_member": "7-introduction.html",
+    "source_sha256": "e669ebd33ab5b357b16628b56a903b5fdbb271364dcfa6ad5d976ca500593bda",
+    "paragraphs": 5,
+    "letter_start": 393108,
+    "letter_end": 395634
+  },
+  {
+    "source_member": "7-1-economies-two-ways-to-study-them.html",
+    "source_sha256": "cd2d4ddee9897d171fbab93fda714ec488746eb6ef2da45f8138b49738242ace",
+    "paragraphs": 9,
+    "letter_start": 395634,
+    "letter_end": 399268
+  },
+  {
+    "source_member": "7-2-modes-of-subsistence.html",
+    "source_sha256": "43727f877388b60f3c9a76f4641573857478a9572ff05207620c2d24fc897ab7",
+    "paragraphs": 2,
+    "letter_start": 399268,
+    "letter_end": 400655
+  },
+  {
+    "source_member": "7-3-gathering-and-hunting.html",
+    "source_sha256": "0ef36d99268efe698b984990413c660f1b72c73c811407493405b614eea4eef8",
+    "paragraphs": 21,
+    "letter_start": 400655,
+    "letter_end": 413606
+  },
+  {
+    "source_member": "7-4-pastoralism.html",
+    "source_sha256": "83cdf6338f453fcb7be3e9f64ee9367d090730dcd6a7c04cf75170354b80abfd",
+    "paragraphs": 21,
+    "letter_start": 413606,
+    "letter_end": 426382
+  },
+  {
+    "source_member": "7-5-plant-cultivation-horticulture-and-agriculture.html",
+    "source_sha256": "3101c65faa4f5bf10a6f47c70fe87a30c56464c9a25b40b6c2d2e8da387a9b91",
+    "paragraphs": 38,
+    "letter_start": 426382,
+    "letter_end": 449447
+  },
+  {
+    "source_member": "7-6-exchange-value-and-consumption.html",
+    "source_sha256": "20de40605b7f71e2f94d15f2dce51ca32a043601c731ccf91ef41f33b7994c32",
+    "paragraphs": 19,
+    "letter_start": 449447,
+    "letter_end": 463245
+  },
+  {
+    "source_member": "7-7-industrialism-and-postmodernity.html",
+    "source_sha256": "5300bdc5559a3368925da060334170de315c9c100bddea39f5961084c7c08e16",
+    "paragraphs": 33,
+    "letter_start": 463245,
+    "letter_end": 483272
+  },
+  {
+    "source_member": "8-introduction.html",
+    "source_sha256": "40221e4fcaf9eb7e3080e3baed5c88b69c637abace89fd483acc578e835b3ac1",
+    "paragraphs": 5,
+    "letter_start": 483272,
+    "letter_end": 485577
+  },
+  {
+    "source_member": "8-1-colonialism-and-the-categorization-of-political-systems.html",
+    "source_sha256": "f6b0d8e22d676e9791fa4fe3a3df3ed90171fc8f9f1ce5a7b355d56fb8065502",
+    "paragraphs": 8,
+    "letter_start": 485577,
+    "letter_end": 491357
+  },
+  {
+    "source_member": "8-2-acephalous-societies-bands-and-tribes.html",
+    "source_sha256": "a3f3705e0d26a219f59d5e7d87f80745f40aaf7cc835c5f2681676363a64d964",
+    "paragraphs": 18,
+    "letter_start": 491357,
+    "letter_end": 503248
+  },
+  {
+    "source_member": "8-3-centralized-societies-chiefdoms-and-states.html",
+    "source_sha256": "f1e319147bb73757a9994247630a5795053c89952d8e8e022ee3614f4df43ffd",
+    "paragraphs": 30,
+    "letter_start": 503248,
+    "letter_end": 520934
+  },
+  {
+    "source_member": "8-4-modern-nation-states.html",
+    "source_sha256": "62732c05962c2a5f83b07e29c5ece391feedadf569d2c73af30bb118264fb143",
+    "paragraphs": 36,
+    "letter_start": 520934,
+    "letter_end": 542530
+  },
+  {
+    "source_member": "8-5-resistance-revolution-and-social-movements.html",
+    "source_sha256": "a7f3d0ff942013200f53956955ce6966566f96a88c088c2d010ac2a2630ca9bf",
+    "paragraphs": 10,
+    "letter_start": 542530,
+    "letter_end": 549475
+  },
+  {
+    "source_member": "9-introduction.html",
+    "source_sha256": "4bab3f67453190402e97efd745dc932d5bc7e4a8a7152538e2492abc342e1259",
+    "paragraphs": 1,
+    "letter_start": 549475,
+    "letter_end": 550062
+  },
+  {
+    "source_member": "9-1-theories-of-inequity-and-inequality.html",
+    "source_sha256": "bca9e9a6b8a863acfeb9f3617a89f01a6e87c3b61cffeed84b7bdab821c9d016",
+    "paragraphs": 33,
+    "letter_start": 550062,
+    "letter_end": 572647
+  },
+  {
+    "source_member": "9-2-systems-of-inequality.html",
+    "source_sha256": "6aa3936eeb67f0e80299196be0b489de326ec3a6ef8f23b70589aef49e4b5246",
+    "paragraphs": 25,
+    "letter_start": 572647,
+    "letter_end": 588742
+  },
+  {
+    "source_member": "9-3-intersections-of-inequality.html",
+    "source_sha256": "c5639897757c2b3b76abb638540354af566a1a322497c27edfab68f94933046c",
+    "paragraphs": 16,
+    "letter_start": 588742,
+    "letter_end": 600451
+  },
+  {
+    "source_member": "9-4-studying-in-addressing-inequities-within-anthropology.html",
+    "source_sha256": "90872d840ea9aecb48010d603cb81cb4e142a1fb35292762d26d3b3d91d56a86",
+    "paragraphs": 17,
+    "letter_start": 600451,
+    "letter_end": 606098
+  },
+  {
+    "source_member": "10-introduction.html",
+    "source_sha256": "60ba6e4ebff0687cc3c44fca7bc9c9ce48736c1601617c0cf0e9fee1f5244419",
+    "paragraphs": 2,
+    "letter_start": 606098,
+    "letter_end": 607268
+  },
+  {
+    "source_member": "10-1-peopling-of-the-world.html",
+    "source_sha256": "1c54186cffb29c4cb55288e54a35c30d664139221f1f0f660a1ff16676410589",
+    "paragraphs": 10,
+    "letter_start": 607268,
+    "letter_end": 613246
+  },
+  {
+    "source_member": "10-2-early-global-movements-and-cultural-hybridity.html",
+    "source_sha256": "decfb7ae16d32f86ef46d0222179577d0863c62b821f11f0d6a9d769e1f6f040",
+    "paragraphs": 26,
+    "letter_start": 613246,
+    "letter_end": 636013
+  },
+  {
+    "source_member": "10-3-peasantry-and-urbanization.html",
+    "source_sha256": "0a9a4e9a09aa93eaa8e1c8179bf25e5498d4e4cd57f3186d62c669647074e423",
+    "paragraphs": 7,
+    "letter_start": 636013,
+    "letter_end": 641766
+  },
+  {
+    "source_member": "10-4-inequality-along-the-margins.html",
+    "source_sha256": "9995d8143fb84f11f0b66e1841df0f5cf9c00b093728b2241ed0da039e649062",
+    "paragraphs": 17,
+    "letter_start": 641766,
+    "letter_end": 655425
+  },
+  {
+    "source_member": "11-introduction.html",
+    "source_sha256": "ef65606b46b0abf513c5bb45a877dde98f6eaae7ec70bd0725cd573fa95063dc",
+    "paragraphs": 1,
+    "letter_start": 655425,
+    "letter_end": 655917
+  },
+  {
+    "source_member": "11-1-what-is-kinship.html",
+    "source_sha256": "2472adbc5f0c80f8a6fda5cd636d9b41528da81cadd2d2045abd4aeaa443ae5c",
+    "paragraphs": 7,
+    "letter_start": 655917,
+    "letter_end": 662006
+  },
+  {
+    "source_member": "11-2-defining-family-and-household.html",
+    "source_sha256": "423e6bb4d7a3fead51f5f8598a8a66888dd7ef72d76745bbd194e6ac0fd507cb",
+    "paragraphs": 21,
+    "letter_start": 662006,
+    "letter_end": 674319
+  },
+  {
+    "source_member": "11-3-reckoning-kinship-across-cultures.html",
+    "source_sha256": "6ef4686dbe8bc644b8ffe19dd3d049f68da79bc7df8b071334b86625f3ae1d38",
+    "paragraphs": 16,
+    "letter_start": 674319,
+    "letter_end": 682924
+  },
+  {
+    "source_member": "11-4-marriage-and-families-across-cultures.html",
+    "source_sha256": "e2eed2819127f9307adb9aaae5d15a1650dae97eae1327bf37c1ffc4e2062e1f",
+    "paragraphs": 26,
+    "letter_start": 682924,
+    "letter_end": 699987
+  },
+  {
+    "source_member": "12-introduction.html",
+    "source_sha256": "e699c34da0cbb5c246f80d96e3ed1a922b4e275c7c402a4a2a487e9d42b7b9b1",
+    "paragraphs": 2,
+    "letter_start": 699987,
+    "letter_end": 700868
+  },
+  {
+    "source_member": "12-1-sex-gender-and-sexuality-in-anthropology.html",
+    "source_sha256": "cbbb2327c9fbb8a8a2e089bb65343b0c57429547e22780fd7a79bb4e65c76ccf",
+    "paragraphs": 32,
+    "letter_start": 700868,
+    "letter_end": 722164
+  },
+  {
+    "source_member": "12-2-performing-gender-categories.html",
+    "source_sha256": "b89c1d4ed51750bc85a9da1eb68a13852b95dba81d46516e2ad0a85df57ba9fd",
+    "paragraphs": 35,
+    "letter_start": 722164,
+    "letter_end": 740494
+  },
+  {
+    "source_member": "12-3-the-power-of-gender-patriarchy-and-matriarchy.html",
+    "source_sha256": "c9a3edd45e732983614f327be9eac601a3732ea9aa4072dab3c2619da47899e9",
+    "paragraphs": 26,
+    "letter_start": 740494,
+    "letter_end": 754407
+  },
+  {
+    "source_member": "12-4-sexuality-and-queer-anthropology.html",
+    "source_sha256": "a1c296cd56d0564e7f216d6422f98c841c1e7cf3502f7023d43ca35ddccf6933",
+    "paragraphs": 25,
+    "letter_start": 754407,
+    "letter_end": 770851
+  },
+  {
+    "source_member": "13-introduction.html",
+    "source_sha256": "9754dc37f8186df4fa503b9b6f08cfc32d86317c2f848d3fb5e09d5b82b320ea",
+    "paragraphs": 1,
+    "letter_start": 770851,
+    "letter_end": 771260
+  },
+  {
+    "source_member": "13-1-what-is-religion.html",
+    "source_sha256": "6752df31c5a70a1a6d1d37c914d9b5f8933ef7ff35491a2d6fc5bfffbe4b4989",
+    "paragraphs": 34,
+    "letter_start": 771260,
+    "letter_end": 797380
+  },
+  {
+    "source_member": "13-2-symbolic-and-sacred-space.html",
+    "source_sha256": "215fa69727e697a522a42aca7e32328ea535e0919870f26457c86fab6b468882",
+    "paragraphs": 8,
+    "letter_start": 797380,
+    "letter_end": 802475
+  },
+  {
+    "source_member": "13-3-myth-and-religious-doctrine.html",
+    "source_sha256": "430cc7e65dd70910928431f3fc1c093c4c4eb9c33757e7ed8b53c41c00d3b417",
+    "paragraphs": 22,
+    "letter_start": 802475,
+    "letter_end": 810854
+  },
+  {
+    "source_member": "13-4-rituals-of-transition-and-conformity.html",
+    "source_sha256": "16f79a9eaaea75f38995b8028033042276e7fbe2160dc81ce6357292a44eb1d9",
+    "paragraphs": 14,
+    "letter_start": 810854,
+    "letter_end": 821288
+  },
+  {
+    "source_member": "13-5-other-forms-of-religious-practice.html",
+    "source_sha256": "854d884238289d3fb7153c1bb4c5830471d4af2fb033961d7413073f7b352597",
+    "paragraphs": 9,
+    "letter_start": 821288,
+    "letter_end": 828080
+  },
+  {
+    "source_member": "14-introduction.html",
+    "source_sha256": "ef323b032bea9a53cbce738d9e4904fc1bd78d7f8c2891d00e18cadff2473e57",
+    "paragraphs": 2,
+    "letter_start": 828080,
+    "letter_end": 829695
+  },
+  {
+    "source_member": "14-1-food-as-a-material-artifact.html",
+    "source_sha256": "c8e482c0378a111db0eabcd9791cb23370698e799b6d870b38429a407c73e8de",
+    "paragraphs": 18,
+    "letter_start": 829695,
+    "letter_end": 842754
+  },
+  {
+    "source_member": "14-2-a-biocultural-approach-to-food.html",
+    "source_sha256": "9890639aa3ce41162cb7b2945577189c0e0c805a700028c79dd828522451f22f",
+    "paragraphs": 20,
+    "letter_start": 842754,
+    "letter_end": 855820
+  },
+  {
+    "source_member": "14-3-food-and-cultural-identity.html",
+    "source_sha256": "5cddc31a755f898b81257b65a9c5bc7072641f420aae098ba7a50826e7d14733",
+    "paragraphs": 25,
+    "letter_start": 855820,
+    "letter_end": 869878
+  },
+  {
+    "source_member": "14-4-the-globalization-of-food.html",
+    "source_sha256": "0e021fefd4e5f6eca9cf019aa91ff9652e11800f1a8b5be9cc0ed1c50bc6a390",
+    "paragraphs": 10,
+    "letter_start": 869878,
+    "letter_end": 875889
+  },
+  {
+    "source_member": "15-introduction.html",
+    "source_sha256": "788e1a207a208d3050838b29497b23d3cdd9bb8213f6a093e3d69fd92c6eedcf",
+    "paragraphs": 4,
+    "letter_start": 875889,
+    "letter_end": 878066
+  },
+  {
+    "source_member": "15-1-putting-the-mass-into-media.html",
+    "source_sha256": "1c55de6095c8801532f36f7a6a132efa8bda98b10d21b80207109ed1866e968a",
+    "paragraphs": 11,
+    "letter_start": 878066,
+    "letter_end": 884011
+  },
+  {
+    "source_member": "15-2-putting-culture-into-media-studies.html",
+    "source_sha256": "8d563d046ffdf133a20f8b3ec12355468bb0dd5aacb217d74a16103d7f4c6619",
+    "paragraphs": 9,
+    "letter_start": 884011,
+    "letter_end": 888355
+  },
+  {
+    "source_member": "15-3-visual-anthropology-and-ethnographic-film.html",
+    "source_sha256": "5cfffd7752b6028a0014c87527307e004c6949852ea5149cd93d71ba569a10a9",
+    "paragraphs": 8,
+    "letter_start": 888355,
+    "letter_end": 894275
+  },
+  {
+    "source_member": "15-4-photography-representation-and-memory.html",
+    "source_sha256": "0177604251a6dfeec70cf01011e595525421a40059a612e13c3caa59de3f1c06",
+    "paragraphs": 16,
+    "letter_start": 894275,
+    "letter_end": 902864
+  },
+  {
+    "source_member": "15-5-news-media-the-public-sphere-and-nationalism.html",
+    "source_sha256": "93275b6d2c4bfdb530e0e8bf891f28282355335abfe7e44fb091883b7785a69a",
+    "paragraphs": 13,
+    "letter_start": 902864,
+    "letter_end": 912991
+  },
+  {
+    "source_member": "15-6-community-development-and-broadcast-media.html",
+    "source_sha256": "aa98393af299f8234a57ad213ac627e8ecaf86cdbce26ecf6b497b04f071d870",
+    "paragraphs": 9,
+    "letter_start": 912991,
+    "letter_end": 920227
+  },
+  {
+    "source_member": "15-7-broadcasting-modernity-and-national-identity.html",
+    "source_sha256": "bda5546461ce4b804f470d680e995e50114afd9676b2456110487894dc083819",
+    "paragraphs": 6,
+    "letter_start": 920227,
+    "letter_end": 926269
+  },
+  {
+    "source_member": "15-8-digital-media-new-socialities.html",
+    "source_sha256": "23669e2a97dc7721615e1d3cc9dc603f0c3ca781e0af25f862ac7d4bc41c6219",
+    "paragraphs": 18,
+    "letter_start": 926269,
+    "letter_end": 938929
+  },
+  {
+    "source_member": "16-introduction.html",
+    "source_sha256": "77e6c3d74bc362c3d98c459be79ae4ada4ba844f8268269656b1e74632366651",
+    "paragraphs": 2,
+    "letter_start": 938929,
+    "letter_end": 940624
+  },
+  {
+    "source_member": "16-1-anthropology-of-the-arts.html",
+    "source_sha256": "139a8adade6c4ac528ead68c86b077b8634c89d78e5b28ec73ea1167062ca1c8",
+    "paragraphs": 32,
+    "letter_start": 940624,
+    "letter_end": 956301
+  },
+  {
+    "source_member": "16-2-anthropology-of-music.html",
+    "source_sha256": "622844b75bdd19bd12cc55e8c90821a8095d62b164917dc521ba2dffd08a52bd",
+    "paragraphs": 14,
+    "letter_start": 956301,
+    "letter_end": 964332
+  },
+  {
+    "source_member": "16-3-an-anthropological-view-of-sport-throughout-time.html",
+    "source_sha256": "e75bdfa0f6a052fd0d5480212aa386099123e6ae519a90bf3d534585b49fad65",
+    "paragraphs": 9,
+    "letter_start": 964332,
+    "letter_end": 969887
+  },
+  {
+    "source_member": "16-4-anthropology-representation-and-performance.html",
+    "source_sha256": "9ba719e7d012685518d84f8c6089446deb10798ca5775793237d1d34cca1f308",
+    "paragraphs": 17,
+    "letter_start": 969887,
+    "letter_end": 978034
+  },
+  {
+    "source_member": "17-introduction.html",
+    "source_sha256": "b8ac724201255ca54a255b3b15a3798232da469e372da578dabcc771b57412c5",
+    "paragraphs": 1,
+    "letter_start": 978034,
+    "letter_end": 978574
+  },
+  {
+    "source_member": "17-1-what-is-medical-anthropology.html",
+    "source_sha256": "18e9d00b57fe20e08ed815f7e5b7c381fd0e336ea87f00feb11693c182dc6e65",
+    "paragraphs": 8,
+    "letter_start": 978574,
+    "letter_end": 985754
+  },
+  {
+    "source_member": "17-2-ethnomedicine.html",
+    "source_sha256": "e3bd293f22accdbcc41cc2e5528364bf24d2cb5d6530335d23e0fb437edb9abb",
+    "paragraphs": 9,
+    "letter_start": 985754,
+    "letter_end": 993488
+  },
+  {
+    "source_member": "17-3-theories-and-methods.html",
+    "source_sha256": "cc935d91b772f570171c9e4f68c3e455d10386cb65486aa23632d34d655fd652",
+    "paragraphs": 31,
+    "letter_start": 993488,
+    "letter_end": 1015996
+  },
+  {
+    "source_member": "17-4-applied-medical-anthropology.html",
+    "source_sha256": "8a39f4283f44e866809a9d0dfaa6c13ffbf02abe9b93aba00d026c48158abac0",
+    "paragraphs": 24,
+    "letter_start": 1015996,
+    "letter_end": 1034640
+  },
+  {
+    "source_member": "18-introduction.html",
+    "source_sha256": "148d695f75699f492a1b3b20d1f38acfdeb2dc27cbe248d0801b20594b20febd",
+    "paragraphs": 2,
+    "letter_start": 1034640,
+    "letter_end": 1035734
+  },
+  {
+    "source_member": "18-1-humans-and-animals.html",
+    "source_sha256": "f7754dabe4e65a7ad6ac10491041fb40063fac84be7143c039c670d150a9e005",
+    "paragraphs": 22,
+    "letter_start": 1035734,
+    "letter_end": 1047715
+  },
+  {
+    "source_member": "18-2-animals-and-subsistence.html",
+    "source_sha256": "d2ba39f86277a69846fa6919078f68bcf20777cffc96af75fc25225cc38e8bb6",
+    "paragraphs": 17,
+    "letter_start": 1047715,
+    "letter_end": 1058034
+  },
+  {
+    "source_member": "18-3-symbolism-and-meaning-of-animals.html",
+    "source_sha256": "12d74cdb8d98152ccbec25192e3b0afbff9cd020bbe1f9991e29a234cf5fd604",
+    "paragraphs": 15,
+    "letter_start": 1058034,
+    "letter_end": 1068686
+  },
+  {
+    "source_member": "18-4-pet-keeping.html",
+    "source_sha256": "e6ff3551053d9aed73e2f61451f13980231f6c3c6514954f0544e179d92f5710",
+    "paragraphs": 13,
+    "letter_start": 1068686,
+    "letter_end": 1076249
+  },
+  {
+    "source_member": "18-5-animal-industries-and-the-animal-trade.html",
+    "source_sha256": "0bdd5494f4d729381350e72311fa8af652f17a6e9ffb8fe45a3351229968ad21",
+    "paragraphs": 16,
+    "letter_start": 1076249,
+    "letter_end": 1086088
+  },
+  {
+    "source_member": "19-introduction.html",
+    "source_sha256": "a1c194200b1b62303c4629031854d522084c63c4f82e5c9f5b80b6978c6db1cb",
+    "paragraphs": 3,
+    "letter_start": 1086088,
+    "letter_end": 1087230
+  },
+  {
+    "source_member": "19-1-indigenous-peoples.html",
+    "source_sha256": "aabe71d9d72c894670533d97e32bbc8e0ff8b72d259553ac6a28c8b523b17bc1",
+    "paragraphs": 31,
+    "letter_start": 1087230,
+    "letter_end": 1110927
+  },
+  {
+    "source_member": "19-2-colonization-and-anthropology.html",
+    "source_sha256": "3943a591c8c004463b374c016caceffb70299ad61345f55169c1f566bacc8ec9",
+    "paragraphs": 13,
+    "letter_start": 1110927,
+    "letter_end": 1121425
+  },
+  {
+    "source_member": "19-3-indigenous-agency-and-rights.html",
+    "source_sha256": "5256ab7e0e8cc405907d7973b99ed916e81de0cb2a6916e02c9bb3cac4d8d27c",
+    "paragraphs": 34,
+    "letter_start": 1121425,
+    "letter_end": 1150141
+  },
+  {
+    "source_member": "19-4-applied-and-public-anthropology-and-indigenous-peoples.html",
+    "source_sha256": "024c65345d081b5e15598f60ade4c53512b8899fcab3a5be643dee3303713fd5",
+    "paragraphs": 14,
+    "letter_start": 1150141,
+    "letter_end": 1154064
+  },
+  {
+    "source_member": "20-introduction.html",
+    "source_sha256": "427350f252258929538950648362d8c801d0b14c9df04543c2bc747c1caf9777",
+    "paragraphs": 4,
+    "letter_start": 1154064,
+    "letter_end": 1156104
+  },
+  {
+    "source_member": "20-1-our-challenging-world-today.html",
+    "source_sha256": "34fd1a026801110e8e6bfdf05563b25c8681deb89b259c803fe381226413b18d",
+    "paragraphs": 13,
+    "letter_start": 1156104,
+    "letter_end": 1163501
+  },
+  {
+    "source_member": "20-2-why-anthropology-matters.html",
+    "source_sha256": "079ca655dfb1e23d75b3c47c62a6ce8731fd81c54d57b37ed7dcf52d78c93b2e",
+    "paragraphs": 15,
+    "letter_start": 1163501,
+    "letter_end": 1171690
+  },
+  {
+    "source_member": "20-3-what-anthropologists-can-do.html",
+    "source_sha256": "5c7415c1048a9d8b86e9bfed4831641de3488f04cdc6037d07a846918c81aeb1",
+    "paragraphs": 27,
+    "letter_start": 1171690,
+    "letter_end": 1184580
+  }
+]

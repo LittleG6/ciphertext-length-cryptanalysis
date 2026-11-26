@@ -1,0 +1,18 @@
+{
+  "lengths": [60, 80, 100],
+  "trials_per_length": 100,
+  "seed": 20260712,
+  "ngram_order": 4,
+  "alpha": 0.1,
+  "include_spaces": false,
+  "search": {
+    "restarts": 30,
+    "iterations": 10000,
+    "patience": 2000,
+    "archive_size": 1000,
+    "frequency_initialization": true,
+    "algorithm": "simulated_annealing",
+    "initial_temperature": 0.2,
+    "final_temperature": 0.002
+  }
+}

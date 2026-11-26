@@ -1,0 +1,74 @@
+[
+  {
+    "k": 1,
+    "target": 0.9,
+    "point_estimate_length": null,
+    "wilson_supported_length": null
+  },
+  {
+    "k": 1,
+    "target": 0.95,
+    "point_estimate_length": null,
+    "wilson_supported_length": null
+  },
+  {
+    "k": 5,
+    "target": 0.9,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 5,
+    "target": 0.95,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 300
+  },
+  {
+    "k": 10,
+    "target": 0.9,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 10,
+    "target": 0.95,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 50,
+    "target": 0.9,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 50,
+    "target": 0.95,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 100,
+    "target": 0.9,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 100,
+    "target": 0.95,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 1000,
+    "target": 0.9,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  },
+  {
+    "k": 1000,
+    "target": 0.95,
+    "point_estimate_length": 200,
+    "wilson_supported_length": 200
+  }
+]

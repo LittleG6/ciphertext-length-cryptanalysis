@@ -1,0 +1,84 @@
+{
+  "validated_at": "2026-09-26T08:30:13.909928+00:00",
+  "formal_experiment_run": false,
+  "offline_cleaning_reproducible": true,
+  "all_source_archive_crc_and_member_hashes_valid": true,
+  "exact_core_normalizer_match": true,
+  "source_sections_contiguous": true,
+  "original_files_checked_unchanged": 153,
+  "sampling_and_cipher_roundtrips": [
+    {
+      "work": "not_yet_imagined_2020",
+      "length": 100,
+      "start_letter": 59494,
+      "passed": true
+    },
+    {
+      "work": "not_yet_imagined_2020",
+      "length": 200,
+      "start_letter": 248869,
+      "passed": true
+    },
+    {
+      "work": "not_yet_imagined_2020",
+      "length": 500,
+      "start_letter": 98287,
+      "passed": true
+    },
+    {
+      "work": "introduction_anthropology_2022",
+      "length": 100,
+      "start_letter": 237976,
+      "passed": true
+    },
+    {
+      "work": "introduction_anthropology_2022",
+      "length": 200,
+      "start_letter": 995477,
+      "passed": true
+    },
+    {
+      "work": "introduction_anthropology_2022",
+      "length": 500,
+      "start_letter": 393148,
+      "passed": true
+    },
+    {
+      "work": "introduction_political_science_2022",
+      "length": 100,
+      "start_letter": 118988,
+      "passed": true
+    },
+    {
+      "work": "introduction_political_science_2022",
+      "length": 200,
+      "start_letter": 497738,
+      "passed": true
+    },
+    {
+      "work": "introduction_political_science_2022",
+      "length": 500,
+      "start_letter": 196574,
+      "passed": true
+    },
+    {
+      "work": "introduction_philosophy_2022",
+      "length": 100,
+      "start_letter": 118988,
+      "passed": true
+    },
+    {
+      "work": "introduction_philosophy_2022",
+      "length": 200,
+      "start_letter": 497738,
+      "passed": true
+    },
+    {
+      "work": "introduction_philosophy_2022",
+      "length": 500,
+      "start_letter": 196574,
+      "passed": true
+    }
+  ],
+  "total_letters": 3312911
+}

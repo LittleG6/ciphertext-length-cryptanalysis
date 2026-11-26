@@ -1,0 +1,80 @@
+{
+  "status": "completed",
+  "design": {
+    "archive_sizes": [
+      100,
+      500,
+      1000,
+      2000
+    ],
+    "lengths": [
+      100,
+      150,
+      200,
+      300
+    ],
+    "trials_per_length": 300,
+    "paired_seed": 20260712,
+    "baseline_archive_size": 1000,
+    "baseline_derived_without_recomputation": true,
+    "newly_computed_rows": 3600,
+    "derived_baseline_rows": 1200,
+    "combined_rows": 4800
+  },
+  "pairing_audit": [
+    "capacity 100 paired invariants match capacity 1000",
+    "capacity 500 paired invariants match capacity 1000",
+    "capacity 2000 paired invariants match capacity 1000"
+  ],
+  "source_sha256": {
+    "/Users/shenwenjie/Documents/xiaolunwen/results/archive_capacity_sensitivity_20260730/archive_100.csv": "890771b80e29b8b7c0d397fc0f3530ada308bc3eb062dddd367e6a27cf83bdde",
+    "/Users/shenwenjie/Documents/xiaolunwen/results/archive_capacity_sensitivity_20260730/archive_500.csv": "86259800563ed5b0a95ecf8659088909a1c75ed34eaebc5008bef1dfacc1796a",
+    "/Users/shenwenjie/Documents/xiaolunwen/results/formal_minimum.csv": "97fcab478409513639f1eee2482b2acc86228b4d1cffee0366d85be56b2f0df1",
+    "/Users/shenwenjie/Documents/xiaolunwen/results/archive_capacity_sensitivity_20260730/archive_2000.csv": "f7ad717b2cfa993cdf5e5ad107d0730edb93cb810635775dade532f04ce2bf0d"
+  },
+  "max_absolute_paired_difference": {
+    "hit@1": 0.0,
+    "hit@10": 0.0,
+    "retention_rate": 0.0
+  },
+  "outcome_difference_counts_vs_1000": {
+    "100": {
+      "rank": 0,
+      "oracle_rank": 2,
+      "score_gap": 0,
+      "true_score_percentile": 236,
+      "true_retained": 0,
+      "true_pruned": 0,
+      "mechanism_type": 0
+    },
+    "500": {
+      "rank": 0,
+      "oracle_rank": 0,
+      "score_gap": 0,
+      "true_score_percentile": 236,
+      "true_retained": 0,
+      "true_pruned": 0,
+      "mechanism_type": 0
+    },
+    "2000": {
+      "rank": 0,
+      "oracle_rank": 0,
+      "score_gap": 0,
+      "true_score_percentile": 236,
+      "true_retained": 0,
+      "true_pruned": 0,
+      "mechanism_type": 0
+    }
+  },
+  "primary_recovery_outcomes_exactly_equal": true,
+  "diagnostic_interpretation": {
+    "oracle_rank": "Capacity 100 truncates oracle-score rank in two length-100 trials; capacities 500 and 2000 match the 1000 baseline.",
+    "true_score_percentile": "The percentile denominator changes with candidate count, so its numerical value is mechanically archive-size-dependent and should not be compared as an invariant effect measure."
+  },
+  "visited_then_pruned_counts": {
+    "100": 0,
+    "500": 0,
+    "1000": 0,
+    "2000": 0
+  }
+}

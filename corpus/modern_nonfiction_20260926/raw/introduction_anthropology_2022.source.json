@@ -1,0 +1,1417 @@
+{
+  "downloaded_at": "2026-09-26T08:25:40.366783+00:00",
+  "content_version": "52021fd",
+  "archive_version": "20260604.144757",
+  "selected_pages": [
+    {
+      "id": "4ba65bfd-51e5-4434-aff8-fa400c224bf4@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "1-introduction"
+    },
+    {
+      "id": "fe82c804-2f68-4b60-95e9-7188c2a1cefe@",
+      "title": "<span class=\"os-number\">1.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Study of Humanity, or \"Anthropology Is Vast\"</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-1-the-study-of-humanity-or-anthropology-is-vast"
+    },
+    {
+      "id": "38d3eaef-9201-4b7f-af1e-1e23c2b19c76@",
+      "title": "<span class=\"os-number\">1.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Four-Field Approach: Four Approaches within the Guiding Narrative</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-2-the-four-field-approach-four-approaches-within-the-guiding-narrative"
+    },
+    {
+      "id": "55cf6b9b-dcb2-42b1-bb3e-0bc1ee2f8815@",
+      "title": "<span class=\"os-number\">1.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Overcoming Ethnocentrism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-3-overcoming-ethnocentrism"
+    },
+    {
+      "id": "721e1b0c-9a11-4a1f-a654-3e7d880b5952@",
+      "title": "<span class=\"os-number\">1.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Western Bias in Our Assumptions about Humanity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-4-western-bias-in-our-assumptions-about-humanity"
+    },
+    {
+      "id": "8d7ca356-eb5b-40e3-b47c-860eb127b9f9@",
+      "title": "<span class=\"os-number\">1.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Holism, Anthropology’s Distinctive Approach</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-5-holism-anthropologys-distinctive-approach"
+    },
+    {
+      "id": "bbfaf7f2-ffae-4d12-ac0b-2d74729bdb83@",
+      "title": "<span class=\"os-number\">1.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Cross-Cultural Comparison and Cultural Relativism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-6-cross-cultural-comparison-and-cultural-relativism"
+    },
+    {
+      "id": "fe25cf56-c580-4247-a16d-ca9d9c434fb7@",
+      "title": "<span class=\"os-number\">1.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Reaching for an Insider’s Point of View</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "1-7-reaching-for-an-insiders-point-of-view"
+    },
+    {
+      "id": "a3cc5730-db1d-4945-aae6-6f5c5d7c06b0@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "2-introduction"
+    },
+    {
+      "id": "4df99952-ffcc-450d-a284-bc23c8a3028b@",
+      "title": "<span class=\"os-number\">2.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Archaeological Research Methods</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-1-archaeological-research-methods"
+    },
+    {
+      "id": "fe37820e-e305-445d-9649-c611539485af@",
+      "title": "<span class=\"os-number\">2.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Conservation and Naturalism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-2-conservation-and-naturalism"
+    },
+    {
+      "id": "7de05162-7018-4c38-b9af-decc44584b3c@",
+      "title": "<span class=\"os-number\">2.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Ethnography and Ethnology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-3-ethnography-and-ethnology"
+    },
+    {
+      "id": "dbb43ec4-4232-4a67-832c-a9a466ea19fb@",
+      "title": "<span class=\"os-number\">2.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Participant Observation and Interviewing</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-4-participant-observation-and-interviewing"
+    },
+    {
+      "id": "a6bef3d3-1618-4766-b014-dfbe12ea5303@",
+      "title": "<span class=\"os-number\">2.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Quantitative and Qualitative Analysis</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-5-quantitative-and-qualitative-analysis"
+    },
+    {
+      "id": "68fd6cd0-99b6-475f-921a-1ac91f191623@",
+      "title": "<span class=\"os-number\">2.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Collections</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "2-6-collections"
+    },
+    {
+      "id": "7e8097ef-3385-4757-8514-9632538615fd@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "3-introduction"
+    },
+    {
+      "id": "24c5e955-a267-4406-93f4-f2eae24abba3@",
+      "title": "<span class=\"os-number\">3.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Homeyness of Culture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-1-the-homeyness-of-culture"
+    },
+    {
+      "id": "d746da23-af12-48d0-9799-61c486c26010@",
+      "title": "<span class=\"os-number\">3.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Winkiness of Culture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-2-the-winkiness-of-culture"
+    },
+    {
+      "id": "96066d7c-6209-4a94-827a-ca88570bc1f4@",
+      "title": "<span class=\"os-number\">3.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Elements of Culture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-3-the-elements-of-culture"
+    },
+    {
+      "id": "6d41cce2-1e8d-4c93-a5bd-aff75b004cf9@",
+      "title": "<span class=\"os-number\">3.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Aggregates of Culture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-4-the-aggregates-of-culture"
+    },
+    {
+      "id": "87dafee1-dda2-4ba0-a9e3-18f2833f4f8e@",
+      "title": "<span class=\"os-number\">3.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Modes of Cultural Analysis</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-5-modes-of-cultural-analysis"
+    },
+    {
+      "id": "fbd63cb3-7951-4f1a-b8aa-7785e653a38c@",
+      "title": "<span class=\"os-number\">3.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Paradoxes of Culture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "3-6-the-paradoxes-of-culture"
+    },
+    {
+      "id": "f2d19c15-4aa7-4e4b-8f70-1d0840761243@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "4-introduction"
+    },
+    {
+      "id": "242eeb6e-e7d2-4ed3-8c06-65f9c04b34f4@",
+      "title": "<span class=\"os-number\">4.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Biological Anthropology?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-1-what-is-biological-anthropology"
+    },
+    {
+      "id": "9c251659-acb2-40e7-b439-ff6bc4b5ef61@",
+      "title": "<span class=\"os-number\">4.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What’s in a Name? The Science of Taxonomy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-2-whats-in-a-name-the-science-of-taxonomy"
+    },
+    {
+      "id": "2565bcc4-6398-4496-b39f-85a250871426@",
+      "title": "<span class=\"os-number\">4.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">It’s All in the Genes! The Foundation of Evolution</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-3-its-all-in-the-genes-the-foundation-of-evolution"
+    },
+    {
+      "id": "53edbf3a-269a-43b6-bf7d-993c44e19aa5@",
+      "title": "<span class=\"os-number\">4.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Evolution in Action: Past and Present</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-4-evolution-in-action-past-and-present"
+    },
+    {
+      "id": "3170cfcc-6ae3-45dc-ae67-7d89a77a9e17@",
+      "title": "<span class=\"os-number\">4.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is a Primate?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-5-what-is-a-primate"
+    },
+    {
+      "id": "ddf4aece-86ba-4fb8-ae24-3e50424d1150@",
+      "title": "<span class=\"os-number\">4.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Origin of and Classification of Primates</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-6-origin-of-and-classification-of-primates"
+    },
+    {
+      "id": "19a1e6c4-fe32-4682-9618-fd85d6b87e11@",
+      "title": "<span class=\"os-number\">4.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Our Ancient Past: The Earliest Hominins</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "4-7-our-ancient-past-the-earliest-hominins"
+    },
+    {
+      "id": "7a4cdc7c-ed23-4f90-8e6c-169ca5380d97@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "5-introduction"
+    },
+    {
+      "id": "926af9b4-a13e-40cb-937d-b636c9b5c0aa@",
+      "title": "<span class=\"os-number\">5.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Defining the Genus Homo</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-1-defining-the-genus-homo"
+    },
+    {
+      "id": "8f581c62-c9c6-446d-85eb-8b904bbd107a@",
+      "title": "<span class=\"os-number\">5.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Tools and Brains: Homo habilis, Homo ergaster, and Homo erectus</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-2-tools-and-brains-homo-habilis-homo-ergaster-and-homo-erectus"
+    },
+    {
+      "id": "a6732ba6-2b86-4df0-8783-954749f0e2c7@",
+      "title": "<span class=\"os-number\">5.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Emergence of Us:&nbsp;The&nbsp;Archaic Homo</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-3-the-emergence-of-us-the-archaic-homo"
+    },
+    {
+      "id": "3d094ba2-885b-48ff-b17d-6e3bcd4cd0e9@",
+      "title": "<span class=\"os-number\">5.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Tracking Genomes: Our Human Story Unfolds</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "5-4-tracking-genomes-our-human-story-unfolds"
+    },
+    {
+      "id": "bdc7ea67-6e3f-44b2-805f-e51bd41de1ba@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "6-introduction"
+    },
+    {
+      "id": "1c0717a6-1d14-4fdb-87f7-76fd7e511cc5@",
+      "title": "<span class=\"os-number\">6.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Emergence and Development of Language</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-1-the-emergence-and-development-of-language"
+    },
+    {
+      "id": "0da44154-71ec-40b5-91dd-a2334ade3e7e@",
+      "title": "<span class=\"os-number\">6.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Language and the Mind</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-2-language-and-the-mind"
+    },
+    {
+      "id": "d6f25e7d-0c04-4727-a2f6-e8c00f337852@",
+      "title": "<span class=\"os-number\">6.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Language, Community, and Culture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-3-language-community-and-culture"
+    },
+    {
+      "id": "b5d8e462-ef37-4cfc-a1a9-9dbfcf50145b@",
+      "title": "<span class=\"os-number\">6.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Performativity and Ritual</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-4-performativity-and-ritual"
+    },
+    {
+      "id": "8d5c701c-1dd0-48f5-9891-5e934b513639@",
+      "title": "<span class=\"os-number\">6.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Language and Power</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "6-5-language-and-power"
+    },
+    {
+      "id": "24c3784b-adff-44ef-a16f-fa50267a55c4@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "7-introduction"
+    },
+    {
+      "id": "bf9b7680-4458-46e7-8f6e-bdab8957bdcd@",
+      "title": "<span class=\"os-number\">7.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Economies: Two Ways to Study Them</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-1-economies-two-ways-to-study-them"
+    },
+    {
+      "id": "2b7645d9-177b-42bf-b595-adba152089a0@",
+      "title": "<span class=\"os-number\">7.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Modes of Subsistence</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-2-modes-of-subsistence"
+    },
+    {
+      "id": "c6bdfa9a-bde8-4094-a516-97167739f219@",
+      "title": "<span class=\"os-number\">7.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Gathering and Hunting</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-3-gathering-and-hunting"
+    },
+    {
+      "id": "d30bcac7-dcca-4d91-8495-76a3de79ac16@",
+      "title": "<span class=\"os-number\">7.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Pastoralism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-4-pastoralism"
+    },
+    {
+      "id": "483424ec-4fa5-4aa1-bc6b-b24e9b42770b@",
+      "title": "<span class=\"os-number\">7.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Plant Cultivation: Horticulture and Agriculture</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-5-plant-cultivation-horticulture-and-agriculture"
+    },
+    {
+      "id": "772368b5-1595-4c42-9d69-90fb488489e3@",
+      "title": "<span class=\"os-number\">7.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Exchange, Value, and Consumption</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-6-exchange-value-and-consumption"
+    },
+    {
+      "id": "b2cba4e8-9ccc-46ba-8faa-292774a7657b@",
+      "title": "<span class=\"os-number\">7.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Industrialism and Postmodernity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "7-7-industrialism-and-postmodernity"
+    },
+    {
+      "id": "b4ff0881-1577-44b5-85f7-5485ae100f8f@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "8-introduction"
+    },
+    {
+      "id": "1d34c5e9-96b0-42bc-89b9-fe8b25546b21@",
+      "title": "<span class=\"os-number\">8.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Colonialism and the Categorization of Political Systems</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-1-colonialism-and-the-categorization-of-political-systems"
+    },
+    {
+      "id": "9c1999b0-e7cd-4946-b709-512095c05c96@",
+      "title": "<span class=\"os-number\">8.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Acephalous Societies: Bands and Tribes</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-2-acephalous-societies-bands-and-tribes"
+    },
+    {
+      "id": "63f6b147-d7a0-4964-ae5c-f943b0f19d01@",
+      "title": "<span class=\"os-number\">8.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Centralized Societies: Chiefdoms&nbsp;and States</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-3-centralized-societies-chiefdoms-and-states"
+    },
+    {
+      "id": "9d679038-6d91-40bb-932d-d04b4ac05748@",
+      "title": "<span class=\"os-number\">8.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Modern Nation-States</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-4-modern-nation-states"
+    },
+    {
+      "id": "8cd7275a-ad05-4f08-8a1f-f0e44ce3461b@",
+      "title": "<span class=\"os-number\">8.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Resistance, Revolution, and Social Movements</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "8-5-resistance-revolution-and-social-movements"
+    },
+    {
+      "id": "626bb88b-587b-4760-90a4-f4014068c42c@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "9-introduction"
+    },
+    {
+      "id": "1b4a0352-a588-48f3-961d-dd7a0d589e50@",
+      "title": "<span class=\"os-number\">9.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Theories of Inequity and Inequality</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-1-theories-of-inequity-and-inequality"
+    },
+    {
+      "id": "4ec75dbf-93af-4b7d-879b-f823f7158d20@",
+      "title": "<span class=\"os-number\">9.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Systems of Inequality</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-2-systems-of-inequality"
+    },
+    {
+      "id": "77c9c4f3-3361-4832-8eaa-4f84d25ae169@",
+      "title": "<span class=\"os-number\">9.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Intersections of Inequality</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-3-intersections-of-inequality"
+    },
+    {
+      "id": "4e89d35a-fcc5-40e6-be1c-33c93b210318@",
+      "title": "<span class=\"os-number\">9.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Studying In: Addressing Inequities within Anthropology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "9-4-studying-in-addressing-inequities-within-anthropology"
+    },
+    {
+      "id": "9f2547c5-dda9-4636-9354-bc1626175085@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "10-introduction"
+    },
+    {
+      "id": "b210f848-3024-4865-bbb2-2e7709d4d7c4@",
+      "title": "<span class=\"os-number\">10.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Peopling of the World</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-1-peopling-of-the-world"
+    },
+    {
+      "id": "7e31de2a-5b44-40ba-bb63-f99574c18677@",
+      "title": "<span class=\"os-number\">10.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Early Global Movements and Cultural Hybridity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-2-early-global-movements-and-cultural-hybridity"
+    },
+    {
+      "id": "179ce2a3-bd1c-45aa-8b0c-74ff9499ae22@",
+      "title": "<span class=\"os-number\">10.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Peasantry and Urbanization</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-3-peasantry-and-urbanization"
+    },
+    {
+      "id": "01408975-c9eb-470c-a85c-8b575bffe16e@",
+      "title": "<span class=\"os-number\">10.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Inequality along the Margins</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "10-4-inequality-along-the-margins"
+    },
+    {
+      "id": "1651e3ac-8a31-4715-919d-695178929ad1@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "11-introduction"
+    },
+    {
+      "id": "c0141e53-c998-4457-a056-6901ef273b42@",
+      "title": "<span class=\"os-number\">11.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Kinship?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-1-what-is-kinship"
+    },
+    {
+      "id": "8ece979f-a259-4962-85a2-0c9a84c3fd98@",
+      "title": "<span class=\"os-number\">11.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Defining Family and Household</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-2-defining-family-and-household"
+    },
+    {
+      "id": "a28f3918-9e2e-457f-885b-6d1a93acdef1@",
+      "title": "<span class=\"os-number\">11.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Reckoning Kinship across Cultures</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-3-reckoning-kinship-across-cultures"
+    },
+    {
+      "id": "c51720ad-f155-4214-9b34-6bc5f3781143@",
+      "title": "<span class=\"os-number\">11.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Marriage and Families across Cultures</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "11-4-marriage-and-families-across-cultures"
+    },
+    {
+      "id": "56acff5d-d143-46c4-8755-69092b7b676a@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "12-introduction"
+    },
+    {
+      "id": "a70b9c0a-7155-4a61-aa76-f851301a9a57@",
+      "title": "<span class=\"os-number\">12.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Sex, Gender, and Sexuality in Anthropology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-1-sex-gender-and-sexuality-in-anthropology"
+    },
+    {
+      "id": "b6007441-aa1e-4fa6-8f3c-46b46bb73fb2@",
+      "title": "<span class=\"os-number\">12.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Performing Gender Categories</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-2-performing-gender-categories"
+    },
+    {
+      "id": "262bb16c-1033-438c-935c-4ea9473b435d@",
+      "title": "<span class=\"os-number\">12.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Power of Gender: Patriarchy and Matriarchy</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-3-the-power-of-gender-patriarchy-and-matriarchy"
+    },
+    {
+      "id": "372e31cd-f763-4834-b518-f633a18e1d6e@",
+      "title": "<span class=\"os-number\">12.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Sexuality and Queer Anthropology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "12-4-sexuality-and-queer-anthropology"
+    },
+    {
+      "id": "35252b39-8cee-45ba-9d66-89e7e70362d0@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "13-introduction"
+    },
+    {
+      "id": "870bfcba-3945-48b7-9827-12650de495f9@",
+      "title": "<span class=\"os-number\">13.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Religion?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-1-what-is-religion"
+    },
+    {
+      "id": "5da835c0-2d97-4584-a4dd-4c2d15068657@",
+      "title": "<span class=\"os-number\">13.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Symbolic and Sacred Space</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-2-symbolic-and-sacred-space"
+    },
+    {
+      "id": "fc5e190b-2fca-4df3-9f70-7faf1a1de2c4@",
+      "title": "<span class=\"os-number\">13.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Myth and Religious Doctrine</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-3-myth-and-religious-doctrine"
+    },
+    {
+      "id": "6d8a96a2-151b-4cf4-a860-1534999b7070@",
+      "title": "<span class=\"os-number\">13.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Rituals of Transition and Conformity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-4-rituals-of-transition-and-conformity"
+    },
+    {
+      "id": "6fcba483-493f-4584-809b-b33323307314@",
+      "title": "<span class=\"os-number\">13.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Other Forms of Religious Practice</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "13-5-other-forms-of-religious-practice"
+    },
+    {
+      "id": "59ffd1df-46a8-4263-84ec-98dc79b3d395@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "14-introduction"
+    },
+    {
+      "id": "927f3811-d24a-448d-88f3-3eabf5bb5ae6@",
+      "title": "<span class=\"os-number\">14.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Food as a Material Artifact</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-1-food-as-a-material-artifact"
+    },
+    {
+      "id": "11f0e5e4-e39c-4444-a175-7a60c39c636f@",
+      "title": "<span class=\"os-number\">14.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">A Biocultural Approach to Food</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-2-a-biocultural-approach-to-food"
+    },
+    {
+      "id": "0d28f31d-8ed7-4643-a8f8-6fd83349ec75@",
+      "title": "<span class=\"os-number\">14.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Food and Cultural Identity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-3-food-and-cultural-identity"
+    },
+    {
+      "id": "d5d40cdb-0a10-47fa-a039-44809ac08278@",
+      "title": "<span class=\"os-number\">14.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">The Globalization of Food</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "14-4-the-globalization-of-food"
+    },
+    {
+      "id": "d8751a84-5e34-4da7-b2d0-f80d3a5bd132@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "15-introduction"
+    },
+    {
+      "id": "2be822dd-899c-47a0-8b02-a60d5d49cd84@",
+      "title": "<span class=\"os-number\">15.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Putting the Mass into Media</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-1-putting-the-mass-into-media"
+    },
+    {
+      "id": "d6491a08-47f5-416f-9f02-28c1f5176aa2@",
+      "title": "<span class=\"os-number\">15.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Putting Culture into Media Studies</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-2-putting-culture-into-media-studies"
+    },
+    {
+      "id": "2601ffe2-1c97-43bc-a550-256f6df4dba4@",
+      "title": "<span class=\"os-number\">15.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Visual Anthropology and Ethnographic Film</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-3-visual-anthropology-and-ethnographic-film"
+    },
+    {
+      "id": "b5b060b3-77be-4219-b2d4-953392587300@",
+      "title": "<span class=\"os-number\">15.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Photography, Representation, and Memory</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-4-photography-representation-and-memory"
+    },
+    {
+      "id": "71a2f3a2-b117-4941-8b3a-df1e6df954c5@",
+      "title": "<span class=\"os-number\">15.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">News Media, the Public Sphere, and&nbsp;Nationalism</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-5-news-media-the-public-sphere-and-nationalism"
+    },
+    {
+      "id": "83113311-e1b9-4833-80be-860eab695a07@",
+      "title": "<span class=\"os-number\">15.6</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Community, Development, and Broadcast Media</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-6-community-development-and-broadcast-media"
+    },
+    {
+      "id": "1150abaa-ac4e-405e-8f43-772a617bfcfa@",
+      "title": "<span class=\"os-number\">15.7</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Broadcasting Modernity and National Identity</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-7-broadcasting-modernity-and-national-identity"
+    },
+    {
+      "id": "75c889fd-6388-4167-a763-36b51d37f88b@",
+      "title": "<span class=\"os-number\">15.8</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Digital&nbsp;Media, New&nbsp;Socialities</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "15-8-digital-media-new-socialities"
+    },
+    {
+      "id": "9721b82a-d2b0-4608-8d99-e3e621026a32@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "16-introduction"
+    },
+    {
+      "id": "c524ece6-79e3-455d-870a-3eb33dc22254@",
+      "title": "<span class=\"os-number\">16.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Anthropology of the Arts</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-1-anthropology-of-the-arts"
+    },
+    {
+      "id": "39a8475f-679f-47ae-b022-e4aff16930c0@",
+      "title": "<span class=\"os-number\">16.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Anthropology of Music</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-2-anthropology-of-music"
+    },
+    {
+      "id": "8d5483a1-be94-4343-aa0e-1a092c1c5e81@",
+      "title": "<span class=\"os-number\">16.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">An Anthropological View of Sport throughout Time</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-3-an-anthropological-view-of-sport-throughout-time"
+    },
+    {
+      "id": "3457ceba-1943-434d-8b85-2059fa6af134@",
+      "title": "<span class=\"os-number\">16.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Anthropology, Representation, and Performance</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "16-4-anthropology-representation-and-performance"
+    },
+    {
+      "id": "986e5552-2ba9-43ad-9000-ed30412a1fbe@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "17-introduction"
+    },
+    {
+      "id": "617de640-571f-4bf9-97b0-fcd6480b5f72@",
+      "title": "<span class=\"os-number\">17.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Is Medical Anthropology?</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "17-1-what-is-medical-anthropology"
+    },
+    {
+      "id": "124d3e85-54ca-4bf7-8abe-0c2a5f2b7a98@",
+      "title": "<span class=\"os-number\">17.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Ethnomedicine</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "17-2-ethnomedicine"
+    },
+    {
+      "id": "54948ed8-6b9f-49db-9df1-04957d6fb267@",
+      "title": "<span class=\"os-number\">17.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Theories and Methods</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "17-3-theories-and-methods"
+    },
+    {
+      "id": "3bbb9321-5f64-408f-829a-07a39c6c4d42@",
+      "title": "<span class=\"os-number\">17.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Applied Medical Anthropology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "17-4-applied-medical-anthropology"
+    },
+    {
+      "id": "1b0cff36-e922-4b3b-9b96-d08d11e36a52@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "18-introduction"
+    },
+    {
+      "id": "f731ce30-f0cd-493a-aae6-6b3a6333932d@",
+      "title": "<span class=\"os-number\">18.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Humans and Animals</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "18-1-humans-and-animals"
+    },
+    {
+      "id": "107888c1-9a5b-47b6-83af-bdec166c450f@",
+      "title": "<span class=\"os-number\">18.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Animals and Subsistence</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "18-2-animals-and-subsistence"
+    },
+    {
+      "id": "5c4f7f7e-9fa2-44c6-a078-17434638b5f6@",
+      "title": "<span class=\"os-number\">18.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Symbolism and Meaning of Animals</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "18-3-symbolism-and-meaning-of-animals"
+    },
+    {
+      "id": "7c45c38a-f7f7-42e2-8848-ca47baf91d99@",
+      "title": "<span class=\"os-number\">18.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Pet-Keeping</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "18-4-pet-keeping"
+    },
+    {
+      "id": "e887670e-8140-41e8-9f3c-8df6d20fe2a8@",
+      "title": "<span class=\"os-number\">18.5</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Animal Industries and the Animal Trade</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "18-5-animal-industries-and-the-animal-trade"
+    },
+    {
+      "id": "cf5568c0-94c0-45a0-97eb-21b99d8ca30d@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "19-introduction"
+    },
+    {
+      "id": "82b078f9-db83-4dc1-880a-3697cfe4cc63@",
+      "title": "<span class=\"os-number\">19.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Indigenous Peoples</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "19-1-indigenous-peoples"
+    },
+    {
+      "id": "1d716ffd-0650-41e4-aee0-1c01a0099c4e@",
+      "title": "<span class=\"os-number\">19.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Colonization and Anthropology</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "19-2-colonization-and-anthropology"
+    },
+    {
+      "id": "06402547-6bce-4243-9a85-5f700a474e83@",
+      "title": "<span class=\"os-number\">19.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Indigenous Agency and Rights</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "19-3-indigenous-agency-and-rights"
+    },
+    {
+      "id": "6ee2a4c6-bd98-4750-817f-07cb39335e47@",
+      "title": "<span class=\"os-number\">19.4</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Applied and Public Anthropology and Indigenous Peoples</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "19-4-applied-and-public-anthropology-and-indigenous-peoples"
+    },
+    {
+      "id": "ecc81483-9428-47fd-ba06-d235d6b4610e@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Introduction</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "intro",
+      "slug": "20-introduction"
+    },
+    {
+      "id": "8d483201-2d34-43da-8e96-d3e6a7191576@",
+      "title": "<span class=\"os-number\">20.1</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Our Challenging World Today</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "20-1-our-challenging-world-today"
+    },
+    {
+      "id": "83afcb14-b16e-49cc-b807-819b61325ba7@",
+      "title": "<span class=\"os-number\">20.2</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">Why Anthropology Matters</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "20-2-why-anthropology-matters"
+    },
+    {
+      "id": "84e21b5f-26a5-4e55-9c32-906615042b05@",
+      "title": "<span class=\"os-number\">20.3</span><span class=\"os-divider\"> </span><span data-type=\"\" itemprop=\"\" class=\"os-text\">What Anthropologists Can Do</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "numbered-section",
+      "slug": "20-3-what-anthropologists-can-do"
+    }
+  ],
+  "excluded_pages": [
+    {
+      "id": "d3af9865-eeb3-4b5e-8e0d-5a69f5f8175d@",
+      "title": "<span data-type=\"\" itemprop=\"\" class=\"os-text\">Preface</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "preface",
+      "slug": "preface"
+    },
+    {
+      "id": "0e809c81-d507-551b-9b0a-a873bfd72f52@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-key-terms"
+    },
+    {
+      "id": "1480cc5a-6eb4-5052-96ff-d63999e53c47@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-summary"
+    },
+    {
+      "id": "1983b303-7f82-54ac-b9bc-b3eec4cc111b@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-critical-thinking-questions"
+    },
+    {
+      "id": "32458fdc-aef8-555d-a9ca-df30862f31fb@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "1-bibliography"
+    },
+    {
+      "id": "a8e51a98-58da-572b-914c-551fcbca4aab@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-key-terms"
+    },
+    {
+      "id": "19c6b76c-d295-5e70-bc99-20e8ecbb8b7f@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-summary"
+    },
+    {
+      "id": "d598c8a5-d3ed-5f97-b4f0-d4bc1ce9eadf@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-critical-thinking-questions"
+    },
+    {
+      "id": "1625f261-a0a0-5280-aff3-9b7b0e4b43b1@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "2-bibliography"
+    },
+    {
+      "id": "46627b20-7eac-5869-96ab-eb95f31d761f@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-key-terms"
+    },
+    {
+      "id": "bd362023-b628-5f93-860d-17d7b50a2b7b@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-summary"
+    },
+    {
+      "id": "a8c10e75-870c-5f7e-a619-cea64859e37d@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-critical-thinking-questions"
+    },
+    {
+      "id": "9cf7c03c-48c8-53b6-a355-2dd897306526@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "3-bibliography"
+    },
+    {
+      "id": "445e1b82-2327-5c87-b768-941872f09062@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-key-terms"
+    },
+    {
+      "id": "238b9ff4-55e5-526f-a9f3-51ce21a5cef2@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-summary"
+    },
+    {
+      "id": "bfc2a577-9858-55f7-ba96-b8d6b554c212@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-critical-thinking-questions"
+    },
+    {
+      "id": "5f653283-704c-5496-b12b-8121b21bc841@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "4-bibliography"
+    },
+    {
+      "id": "e2edb48b-02de-598a-b132-d597a94c9fa7@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-key-terms"
+    },
+    {
+      "id": "a2d5c05b-ee3c-5e67-acc2-ce2b53125bdb@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-summary"
+    },
+    {
+      "id": "7d37a152-9b2e-56a1-b482-84128f4d0f45@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-critical-thinking-questions"
+    },
+    {
+      "id": "e9a7ad9a-e9ba-5f1f-997f-2fb384e65425@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "5-bibliography"
+    },
+    {
+      "id": "17e06e2f-96d4-5e5b-9dcc-569a1736924c@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-key-terms"
+    },
+    {
+      "id": "244ae1d8-ba3b-5b63-92af-6848580fa4d4@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-summary"
+    },
+    {
+      "id": "80cd9a60-aa6b-5462-9afa-8d4ae7afc106@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-critical-thinking-questions"
+    },
+    {
+      "id": "dadd46e7-9d75-582e-8c03-f5ce20fa4389@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "6-bibliography"
+    },
+    {
+      "id": "50732a35-eb22-5110-962d-8a8ef3ac9a7b@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-key-terms"
+    },
+    {
+      "id": "5ff31f2f-7778-5675-a862-fbcacf048ad3@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-summary"
+    },
+    {
+      "id": "ed2520f0-0ca8-56a3-b745-43eb039b6731@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-critical-thinking-questions"
+    },
+    {
+      "id": "cbf27127-37d9-5acf-8465-1e303a86ea56@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "7-bibliography"
+    },
+    {
+      "id": "1a1fd53a-9a77-5ef3-b5a4-8858dbbecac4@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-key-terms"
+    },
+    {
+      "id": "d3d4fb2b-3871-55d4-8725-1980d53d6e18@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-summary"
+    },
+    {
+      "id": "61520695-f5e6-5de7-85a7-cd621023da6d@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-critical-thinking-questions"
+    },
+    {
+      "id": "4c2fe956-6764-5799-9e62-4d52a0766b79@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "8-bibliography"
+    },
+    {
+      "id": "8453f8c0-c1d2-5db8-8c63-3544391061cd@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-key-terms"
+    },
+    {
+      "id": "79c9a351-517b-5fdf-bf18-3087d982eb9e@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-critical-thinking-questions"
+    },
+    {
+      "id": "0d817aca-c460-5aeb-a88a-9094668e1ea8@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "9-bibliography"
+    },
+    {
+      "id": "971fcab4-0edc-565c-ba62-437b4594f394@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-key-terms"
+    },
+    {
+      "id": "044883ef-4886-5f3f-8b31-59106ef32ce5@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-summary"
+    },
+    {
+      "id": "b81a4b71-a98f-5805-967f-c35d2ef7efaf@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-critical-thinking-questions"
+    },
+    {
+      "id": "18e7b3d0-f6bd-531f-ab55-d6f064ec1e85@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "10-bibliography"
+    },
+    {
+      "id": "6e68d1d5-e387-5ebc-aaa3-1d2bf42e00f8@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-key-terms"
+    },
+    {
+      "id": "800b54eb-c885-51d2-9ae2-633073cdb91c@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-summary"
+    },
+    {
+      "id": "65e2de15-ace1-5e6d-b68d-c77bbd125fb9@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-critical-thinking-questions"
+    },
+    {
+      "id": "85481b3a-6e1a-516c-836d-5f9913ae6168@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "11-bibliography"
+    },
+    {
+      "id": "4529ec13-32d2-5b77-8355-885ce8b67acd@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-key-terms"
+    },
+    {
+      "id": "bb3fa8ce-45e9-544f-bd46-f3db2bad2adf@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-summary"
+    },
+    {
+      "id": "9abeb313-1489-5e55-a2b8-e28a2fc3ce2e@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-critical-thinking-questions"
+    },
+    {
+      "id": "1940161c-963c-5ed0-97ae-95e2cfef63f4@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "12-bibliography"
+    },
+    {
+      "id": "ed6408f8-d65d-5559-8fce-fdb5fac78a2e@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-key-terms"
+    },
+    {
+      "id": "6edccca7-3a42-5d96-b5be-b7c30e62554c@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-summary"
+    },
+    {
+      "id": "8b2e6339-370e-54f0-bbe0-efbeddfb6c5c@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-critical-thinking-questions"
+    },
+    {
+      "id": "43bc6964-1308-59bd-98bb-955fb75869dd@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "13-bibliography"
+    },
+    {
+      "id": "b58cd065-ce3a-549d-8a1a-fd8875af8b5a@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-key-terms"
+    },
+    {
+      "id": "dc5dc77f-f640-5c14-b5ba-0fb9b96e5c8f@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-summary"
+    },
+    {
+      "id": "fd7b5001-8548-524c-a385-736820994d20@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-critical-thinking-questions"
+    },
+    {
+      "id": "68c40b0c-3132-5aa2-acfc-8bd22f0fe4af@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "14-bibliography"
+    },
+    {
+      "id": "23c1ba99-e031-5094-a409-755b340e5838@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-key-terms"
+    },
+    {
+      "id": "49f93435-9c36-512a-a902-c18fd43c2f94@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-summary"
+    },
+    {
+      "id": "6ef16b46-f132-5c3e-ba5f-d9d790066794@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-critical-thinking-questions"
+    },
+    {
+      "id": "73f304c5-9c85-5181-8c7f-26a3b31ddf7f@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "15-bibliography"
+    },
+    {
+      "id": "6f6b9f50-1e89-576e-aa87-3ead1d1da1bc@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-key-terms"
+    },
+    {
+      "id": "1228e236-1877-5ea5-8e1b-0de1ed8312b3@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-summary"
+    },
+    {
+      "id": "ba53bcd4-9906-5d01-ade0-786be22fc26a@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-critical-thinking-questions"
+    },
+    {
+      "id": "f6c8211b-036f-56d6-963b-842454958c1c@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "16-bibliography"
+    },
+    {
+      "id": "c0cf0e1a-68e8-544b-a917-ecc3932c7bf5@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "17-key-terms"
+    },
+    {
+      "id": "abd248b7-5aad-58a1-82bb-df7aa2ab1b3f@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "17-summary"
+    },
+    {
+      "id": "5d1a6638-3ff5-5854-b5ab-1ee6fe5d8a61@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "17-critical-thinking-questions"
+    },
+    {
+      "id": "c5ccc33f-d326-5118-bac9-d7b09eb6960a@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "17-bibliography"
+    },
+    {
+      "id": "52ac828a-183f-5c03-a3ea-f20f4980b5c0@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "18-key-terms"
+    },
+    {
+      "id": "26967652-005c-5d92-ac50-3b0502855c14@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "18-summary"
+    },
+    {
+      "id": "89d6a343-dc5d-5103-8c91-204b643d3e63@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "18-critical-thinking-questions"
+    },
+    {
+      "id": "abb3a3fd-fc89-57fd-b792-da54b5992b39@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "18-bibliography"
+    },
+    {
+      "id": "9fcd2916-fc15-5e09-a053-0440a97fb0f2@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "19-key-terms"
+    },
+    {
+      "id": "c7716e42-7ca0-5ea6-9085-e2d6710afec4@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "19-summary"
+    },
+    {
+      "id": "ae4b2da4-16ed-5891-b53b-acc36a43e6d6@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "19-critical-thinking-questions"
+    },
+    {
+      "id": "5bb339ea-0ad5-5c8e-9cbd-5e78701be098@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "19-bibliography"
+    },
+    {
+      "id": "00351993-8864-5e42-81fc-e7a25b7d614f@52021fd",
+      "title": "<span class=\"os-text\">Key Terms</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "20-key-terms"
+    },
+    {
+      "id": "b790b872-24f7-532a-be6d-c82406a675c0@52021fd",
+      "title": "<span class=\"os-text\">Summary</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "20-summary"
+    },
+    {
+      "id": "41334054-9054-5dec-a75b-fb0ffd7e1501@52021fd",
+      "title": "<span class=\"os-text\">Critical Thinking Questions</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "20-critical-thinking-questions"
+    },
+    {
+      "id": "3811422f-39a0-5ca9-99b8-dbdb14d7f9cd@52021fd",
+      "title": "<span class=\"os-text\">Bibliography</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "composite-page",
+      "slug": "20-bibliography"
+    },
+    {
+      "id": "9c64325a-979e-529d-9155-6df8fd11d57c@52021fd",
+      "title": "<span class=\"os-text\">Index</span>",
+      "toc_type": "book-content",
+      "toc_target_type": "index",
+      "slug": "index"
+    }
+  ],
+  "source_url_template": "https://openstax.org/books/introduction-anthropology/pages/{slug}"
+}

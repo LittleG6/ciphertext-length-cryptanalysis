@@ -1,0 +1,67 @@
+{
+  "suite": "reviewer_supplement_20260903",
+  "analyzed_at": "2026-09-03T13:17:33.637767+00:00",
+  "result_root": "/Users/shenwenjie/Documents/xiaolunwen/results/reviewer_supplement_20260903",
+  "completion_checks": {
+    "effort_original": {
+      "status": "completed",
+      "rows": 2000,
+      "expected_trials": 2000,
+      "parallel_fallback": false,
+      "protocol_sha256": "aba3908c4d8460a248b3dbed8c05cb26cc6a4c93194a28bb0687034e220adc68"
+    },
+    "effort_controlled_hc": {
+      "status": "completed",
+      "rows": 2000,
+      "expected_trials": 2000,
+      "parallel_fallback": false,
+      "protocol_sha256": "8fa6db22464d9eee5f3e3bb48621a418de47e39c11e88ef83a9d93f991e0bf7a"
+    },
+    "search_controlled_sa": {
+      "status": "completed",
+      "rows": 2000,
+      "expected_trials": 2000,
+      "parallel_fallback": false,
+      "protocol_sha256": "6d73776f86db3aba369930aa5f62587d7e17fc6fd214861b73e5e753c23cdf11"
+    },
+    "alpha_001": {
+      "status": "completed",
+      "rows": 1500,
+      "expected_trials": 1500,
+      "parallel_fallback": false,
+      "protocol_sha256": "cc9ae565551325e8abb7c6761173fc697e4a1fb250ac9f4016a697044980a7b2"
+    },
+    "alpha_1": {
+      "status": "completed",
+      "rows": 1500,
+      "expected_trials": 1500,
+      "parallel_fallback": false,
+      "protocol_sha256": "e8d19c8ad0e4d8866dfc3423db6fa67283d453f860fa68854148bd86ef72b22f"
+    },
+    "nonfiction_controlled_hc": {
+      "status": "completed",
+      "rows": 1500,
+      "expected_trials": 1500,
+      "parallel_fallback": false,
+      "protocol_sha256": "e52744c3dc3224a7daac7203ce54f07849e5b929a68f2bf29fa93f6cc38deb43"
+    }
+  },
+  "design": {
+    "group_1": "original versus observed-symbol, no-early-stop hill climbing at 4 lengths",
+    "group_2": "controlled hill climbing versus simulated annealing; each fixed Top-1000 pool reranked by 3/4/5-gram scorers",
+    "group_3": "alpha 0.01 and 1.0 versus paired alpha 0.1 controlled baseline",
+    "group_4": "four-work nonfiction test corpus versus four-work fiction baseline with training model fixed",
+    "paired_interval": "normal 95% CI on paired differences",
+    "binary_test": "exact McNemar with Holm adjustment within reported families"
+  },
+  "files": {
+    "stage_summary": "summary/stage_summary.csv",
+    "fixed_pool_rerank_summary": "summary/fixed_pool_rerank_summary.csv",
+    "effort_paired_differences": "summary/effort_paired_differences.csv",
+    "effort_outcome_paired_differences": "summary/effort_outcome_paired_differences.csv",
+    "searcher_paired_differences": "summary/searcher_paired_differences.csv",
+    "reranker_same_pool_paired_differences": "summary/reranker_same_pool_paired_differences.csv",
+    "alpha_paired_differences": "summary/alpha_paired_differences.csv",
+    "domain_comparison": "summary/domain_comparison.csv"
+  }
+}

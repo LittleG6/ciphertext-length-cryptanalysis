@@ -1,0 +1,9 @@
+comparison,length,metric,pairs,baseline_rate,alternative_rate,paired_difference_alt_minus_base,difference_low,difference_high,baseline_only_successes,alternative_only_successes,p_value_raw,p_value_holm
+controlled_hc_minus_original_hc,25,hit@1,500,0.0,0.0,0.0,0.0,0.0,0,0,1.0,1.0
+controlled_hc_minus_original_hc,25,hit@10,500,0.0,0.002,0.002,-0.001919927969080108,0.005919927969080108,0,1,1.0,1.0
+controlled_hc_minus_original_hc,100,hit@1,500,0.328,0.308,-0.02,-0.06111629620571643,0.021116296205716433,60,50,0.39092745669950485,1.0
+controlled_hc_minus_original_hc,100,hit@10,500,0.468,0.446,-0.022,-0.07081343503146513,0.026813435031465133,83,72,0.4219388330129739,1.0
+controlled_hc_minus_original_hc,200,hit@1,500,0.848,0.834,-0.014,-0.02430861436770663,-0.003691385632293369,7,0,0.015625,0.125
+controlled_hc_minus_original_hc,200,hit@10,500,0.97,0.958,-0.012,-0.026643914855772596,0.002643914855772596,10,4,0.1795654296875,1.0
+controlled_hc_minus_original_hc,500,hit@1,500,0.9,0.902,0.002,-0.004794048304397675,0.008794048304397676,1,2,1.0,1.0
+controlled_hc_minus_original_hc,500,hit@10,500,0.998,0.998,0.0,-0.005549167242002391,0.005549167242002391,1,1,1.0,1.0

@@ -1,0 +1,147 @@
+{
+  "suite": "reviewer_supplement_20260903",
+  "mode": "formal",
+  "status": "completed",
+  "current_stage": null,
+  "started_at": "2026-09-03T10:20:04.149885+00:00",
+  "updated_at": "2026-09-03T13:16:08.093244+00:00",
+  "workers": 8,
+  "batch_size": 250,
+  "runner": {
+    "path": "/Users/shenwenjie/Documents/xiaolunwen/scripts/run_reviewer_supplement_experiments.py",
+    "bytes": 8405,
+    "sha256": "f0ad82d0e95c1fa57658285c76db74ed7e4e1535be60fea862b6c3e0b173ec8e"
+  },
+  "stages": {
+    "effort_original": {
+      "status": "completed",
+      "config": {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/config/reviewer_supplement_20260903/effort_original.json",
+        "bytes": 446,
+        "sha256": "ab7caac943de921b726effcb825f453d594fbbaf64c21be038f0caf0479ba89b"
+      },
+      "started_at": "2026-09-03T10:20:04.150532+00:00",
+      "completed_at": "2026-09-03T10:49:16.493085+00:00",
+      "validation": {
+        "rows": 2000,
+        "unique_tasks": 2000,
+        "lengths": [
+          25,
+          100,
+          200,
+          500
+        ],
+        "controlled_budget_verified": false,
+        "rerank_identity_verified": false
+      }
+    },
+    "effort_controlled_hc": {
+      "status": "completed",
+      "config": {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/config/reviewer_supplement_20260903/effort_controlled_hc.json",
+        "bytes": 447,
+        "sha256": "c1f4a0f30492f4262c4dcbbf71517efa5b881125b53ce0b57be021f2b575f09a"
+      },
+      "started_at": "2026-09-03T10:49:16.493485+00:00",
+      "completed_at": "2026-09-03T11:19:44.039647+00:00",
+      "validation": {
+        "rows": 2000,
+        "unique_tasks": 2000,
+        "lengths": [
+          25,
+          100,
+          200,
+          500
+        ],
+        "controlled_budget_verified": true,
+        "rerank_identity_verified": true
+      }
+    },
+    "search_controlled_sa": {
+      "status": "completed",
+      "config": {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/config/reviewer_supplement_20260903/search_controlled_sa.json",
+        "bytes": 520,
+        "sha256": "9bf2f8f333a5517029bb6d776661a7818d70d16987115fb0fb4feef29d374a68"
+      },
+      "started_at": "2026-09-03T11:19:44.040208+00:00",
+      "completed_at": "2026-09-03T11:50:16.182690+00:00",
+      "validation": {
+        "rows": 2000,
+        "unique_tasks": 2000,
+        "lengths": [
+          25,
+          100,
+          200,
+          500
+        ],
+        "controlled_budget_verified": true,
+        "rerank_identity_verified": true
+      }
+    },
+    "alpha_001": {
+      "status": "completed",
+      "config": {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/config/reviewer_supplement_20260903/alpha_001.json",
+        "bytes": 444,
+        "sha256": "1988a15a3f8db8e9da13a1417205364e358a85b9801225ce9e25ef781d0c557c"
+      },
+      "started_at": "2026-09-03T11:50:16.183472+00:00",
+      "completed_at": "2026-09-03T12:18:31.011056+00:00",
+      "validation": {
+        "rows": 1500,
+        "unique_tasks": 1500,
+        "lengths": [
+          100,
+          200,
+          500
+        ],
+        "controlled_budget_verified": true,
+        "rerank_identity_verified": false
+      }
+    },
+    "alpha_1": {
+      "status": "completed",
+      "config": {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/config/reviewer_supplement_20260903/alpha_1.json",
+        "bytes": 443,
+        "sha256": "7694d41bf57cd0f0399371b6a6c86693527035c9202edbfe21c28cdcdfb20c18"
+      },
+      "started_at": "2026-09-03T12:18:31.011682+00:00",
+      "completed_at": "2026-09-03T12:46:45.587520+00:00",
+      "validation": {
+        "rows": 1500,
+        "unique_tasks": 1500,
+        "lengths": [
+          100,
+          200,
+          500
+        ],
+        "controlled_budget_verified": true,
+        "rerank_identity_verified": false
+      }
+    },
+    "nonfiction_controlled_hc": {
+      "status": "completed",
+      "config": {
+        "path": "/Users/shenwenjie/Documents/xiaolunwen/config/reviewer_supplement_20260903/nonfiction_controlled_hc.json",
+        "bytes": 443,
+        "sha256": "1b2f2890871b61d3caf0d4ebdd0a665bfcbd8a060592aa863e105b850938f12e"
+      },
+      "started_at": "2026-09-03T12:46:45.588168+00:00",
+      "completed_at": "2026-09-03T13:16:08.092608+00:00",
+      "validation": {
+        "rows": 1500,
+        "unique_tasks": 1500,
+        "lengths": [
+          100,
+          200,
+          500
+        ],
+        "controlled_budget_verified": true,
+        "rerank_identity_verified": false
+      }
+    }
+  },
+  "completed_at": "2026-09-03T13:16:08.093249+00:00"
+}

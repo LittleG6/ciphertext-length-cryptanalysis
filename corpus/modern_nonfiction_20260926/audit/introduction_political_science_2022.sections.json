@@ -1,0 +1,744 @@
+[
+  {
+    "source_member": "1-introduction.html",
+    "source_sha256": "4f40fcb186002bea23ecdf3185ee7c2cde7c6d5db411fdd738f1e65b1e8b7913",
+    "paragraphs": 8,
+    "letter_start": 0,
+    "letter_end": 2401
+  },
+  {
+    "source_member": "1-1-defining-politics-who-gets-what-when-where-how-and-why.html",
+    "source_sha256": "f992ce2e98bbf4816ee0b5d2a5e42e500dcb3e33e826c771e21714cce874f92c",
+    "paragraphs": 22,
+    "letter_start": 2401,
+    "letter_end": 11744
+  },
+  {
+    "source_member": "1-2-public-policy-public-interest-and-power.html",
+    "source_sha256": "9576a5a42bbeae4c59f2d3309bd01a293f6f26670d94526ce6f09f9e64bd9eea",
+    "paragraphs": 29,
+    "letter_start": 11744,
+    "letter_end": 24472
+  },
+  {
+    "source_member": "1-3-political-science-the-systematic-study-of-politics.html",
+    "source_sha256": "99182fbfea20421d0e429c1e41d5119c9510e5d29c49aa3f3e70eb0858a61020",
+    "paragraphs": 12,
+    "letter_start": 24472,
+    "letter_end": 29030
+  },
+  {
+    "source_member": "1-4-normative-political-science.html",
+    "source_sha256": "384a87dd9654f431f9eab6992e99ca33c336026f2908b1761d087a9e7bb2f945",
+    "paragraphs": 10,
+    "letter_start": 29030,
+    "letter_end": 33815
+  },
+  {
+    "source_member": "1-5-empirical-political-science.html",
+    "source_sha256": "937a1955550cc1094ca91e791a0d271a06d6a48b3ae04f9818609deebf15e8e6",
+    "paragraphs": 16,
+    "letter_start": 33815,
+    "letter_end": 41134
+  },
+  {
+    "source_member": "1-6-individuals-groups-institutions-and-international-relations.html",
+    "source_sha256": "1073e649cc6c3bf1776376c38998847cb99259b81cb2ad4465e753a0f53c4779",
+    "paragraphs": 21,
+    "letter_start": 41134,
+    "letter_end": 52828
+  },
+  {
+    "source_member": "2-introduction.html",
+    "source_sha256": "e5e14eaeae198dc76f3d51c6d366c4848a3b6f9e51952031502dc04dcbe58f0c",
+    "paragraphs": 4,
+    "letter_start": 52828,
+    "letter_end": 54166
+  },
+  {
+    "source_member": "2-1-what-goals-should-we-seek-in-politics.html",
+    "source_sha256": "3be3c92eb0fbf5de923c91e9c78f206e2fdfdcfede26c36062fa897fb9525316",
+    "paragraphs": 53,
+    "letter_start": 54166,
+    "letter_end": 82086
+  },
+  {
+    "source_member": "2-2-why-do-humans-make-the-political-choices-that-they-do.html",
+    "source_sha256": "315e935ffd4c5f68e064c9d9b51e27366d05bf459ead05454e4ca96cee877176",
+    "paragraphs": 29,
+    "letter_start": 82086,
+    "letter_end": 97004
+  },
+  {
+    "source_member": "2-3-human-behavior-is-partially-predictable.html",
+    "source_sha256": "1bb27d01ebb5d523fce378c42ff82431b694e226590c2a319c0079c82fe35dc9",
+    "paragraphs": 10,
+    "letter_start": 97004,
+    "letter_end": 102660
+  },
+  {
+    "source_member": "2-4-the-importance-of-context-for-political-decisions.html",
+    "source_sha256": "3ac825fe61e61c845d157fe9c1ea570f121207877f1c8224cac3539f5a192be9",
+    "paragraphs": 11,
+    "letter_start": 102660,
+    "letter_end": 107361
+  },
+  {
+    "source_member": "3-introduction.html",
+    "source_sha256": "79eec6820f9577ce88836d643b3a7df4530774d5c65593c3c3e9130a982fa499",
+    "paragraphs": 4,
+    "letter_start": 107361,
+    "letter_end": 110373
+  },
+  {
+    "source_member": "3-1-the-classical-origins-of-western-political-ideologies.html",
+    "source_sha256": "c8fe0d095b7946a19324d66f9cf8d61e208ead638a2848ce0de3e52f9265acd4",
+    "paragraphs": 9,
+    "letter_start": 110373,
+    "letter_end": 114260
+  },
+  {
+    "source_member": "3-2-the-laws-of-nature-and-the-social-contract.html",
+    "source_sha256": "814647ee5b5ee8c0e92dcbcc8d34fea3571750d2cb47b4afc3cf6b1088c192d6",
+    "paragraphs": 19,
+    "letter_start": 114260,
+    "letter_end": 123755
+  },
+  {
+    "source_member": "3-3-the-development-of-varieties-of-liberalism.html",
+    "source_sha256": "14ace4ba12605afb80d28c8ef7b108e2c8683b266f23362452749c5f7607a99c",
+    "paragraphs": 8,
+    "letter_start": 123755,
+    "letter_end": 129548
+  },
+  {
+    "source_member": "3-4-nationalism-communism-fascism-and-authoritarianism.html",
+    "source_sha256": "f182105c5d76713335d3cc332b48b3c889b74c79cf88e296ddef938e6b505484",
+    "paragraphs": 25,
+    "letter_start": 129548,
+    "letter_end": 144353
+  },
+  {
+    "source_member": "3-5-contemporary-democratic-liberalism.html",
+    "source_sha256": "31f3ea8a4de5a6232ef390fc861f16bf78e2270aaefab12c9c667b760893fce5",
+    "paragraphs": 19,
+    "letter_start": 144353,
+    "letter_end": 154435
+  },
+  {
+    "source_member": "3-6-contemporary-ideologies-further-to-the-political-left.html",
+    "source_sha256": "211b307b3370723e284695a29ba7ff7e88731400a8cfa2894508edfb927e1a14",
+    "paragraphs": 25,
+    "letter_start": 154435,
+    "letter_end": 171469
+  },
+  {
+    "source_member": "3-7-contemporary-ideologies-further-to-the-political-right.html",
+    "source_sha256": "dadf63216774b7889d69d670ec61162752d93a4cb5c8de84b712cd751b6cff4f",
+    "paragraphs": 16,
+    "letter_start": 171469,
+    "letter_end": 180262
+  },
+  {
+    "source_member": "3-8-political-ideologies-that-reject-political-ideology-scientific-socialism-burkeanism-and-religious-extremism.html",
+    "source_sha256": "efff5f22e998bda94a98a708e3cf327c8f207b75d46fc38c676d354068dae3ca",
+    "paragraphs": 8,
+    "letter_start": 180262,
+    "letter_end": 183093
+  },
+  {
+    "source_member": "4-introduction.html",
+    "source_sha256": "743adc4eb7da29dc0298b460b480230dc1f126abe850e4946be8f50e57dda1ef",
+    "paragraphs": 3,
+    "letter_start": 183093,
+    "letter_end": 184064
+  },
+  {
+    "source_member": "4-1-the-freedom-of-the-individual.html",
+    "source_sha256": "bc6868f0722259a681d22ad8377691a2c6a8858564fbc5f1ff1f86d2f683bc58",
+    "paragraphs": 11,
+    "letter_start": 184064,
+    "letter_end": 191565
+  },
+  {
+    "source_member": "4-2-constitutions-and-individual-liberties.html",
+    "source_sha256": "edd196ed5ce58a70ee04bd19efbaeab635ca7afb7b5e50426e449e7d9967a0f1",
+    "paragraphs": 24,
+    "letter_start": 191565,
+    "letter_end": 204197
+  },
+  {
+    "source_member": "4-3-the-right-to-privacy-self-determination-and-the-freedom-of-ideas.html",
+    "source_sha256": "e8537d86df7b29ae75488cdaddb57db76a60edef3e01914475cafee9ce3580e4",
+    "paragraphs": 40,
+    "letter_start": 204197,
+    "letter_end": 223283
+  },
+  {
+    "source_member": "4-4-freedom-of-movement.html",
+    "source_sha256": "4401e0639457be426051806747676f1d12921546fd1358e9103b9fdba81ba690",
+    "paragraphs": 15,
+    "letter_start": 223283,
+    "letter_end": 228312
+  },
+  {
+    "source_member": "4-5-the-rights-of-the-accused.html",
+    "source_sha256": "172e8b46c7a8895837b353faabe2cf50710316311bdba7b53a67671d2b52b30c",
+    "paragraphs": 4,
+    "letter_start": 228312,
+    "letter_end": 229915
+  },
+  {
+    "source_member": "4-6-the-right-to-a-healthy-environment.html",
+    "source_sha256": "c02ce9766012cdd4138ecff3fb3554836d7344d090a3e0b1dc1caa588ea24eb6",
+    "paragraphs": 7,
+    "letter_start": 229915,
+    "letter_end": 232374
+  },
+  {
+    "source_member": "5-introduction.html",
+    "source_sha256": "346312b66009ef0fde09e0637204c8118aa733d4606874b86ea4145a37c738cc",
+    "paragraphs": 2,
+    "letter_start": 232374,
+    "letter_end": 233946
+  },
+  {
+    "source_member": "5-1-what-is-political-participation.html",
+    "source_sha256": "fb859aa1a72371410b18ea41c4cbbff1c9ed371970f527ff6bd4c799e95a8ed2",
+    "paragraphs": 12,
+    "letter_start": 233946,
+    "letter_end": 243347
+  },
+  {
+    "source_member": "5-2-what-limits-voter-participation-in-the-united-states.html",
+    "source_sha256": "26c5795a658a439bd974d88690c996702b9d665dc50ccdda1ba7c7146fb0c325",
+    "paragraphs": 10,
+    "letter_start": 243347,
+    "letter_end": 254031
+  },
+  {
+    "source_member": "5-3-how-do-individuals-participate-other-than-voting.html",
+    "source_sha256": "b797d97aeafc4c87a278898ec56c4bd195ae382dbb9582f9d2ba5fcb4c3165e8",
+    "paragraphs": 23,
+    "letter_start": 254031,
+    "letter_end": 273887
+  },
+  {
+    "source_member": "5-4-what-is-public-opinion-and-where-does-it-come-from.html",
+    "source_sha256": "5b9b28d8d41dbaf1ab7eec890664936fd71711f81aac5301dfe7cca4f4555f00",
+    "paragraphs": 9,
+    "letter_start": 273887,
+    "letter_end": 282924
+  },
+  {
+    "source_member": "5-5-how-do-we-measure-public-opinion.html",
+    "source_sha256": "eb8e5a75b2bf5271c2e2ec34b08b42405d3c16f5aaa1a08fa38789647d2b1613",
+    "paragraphs": 7,
+    "letter_start": 282924,
+    "letter_end": 289271
+  },
+  {
+    "source_member": "5-6-why-is-public-opinion-important.html",
+    "source_sha256": "75bb600cd3fb46cd48cc77f2f345a016f7cf1e66e6852bdd173bc52fb49fb635",
+    "paragraphs": 7,
+    "letter_start": 289271,
+    "letter_end": 294968
+  },
+  {
+    "source_member": "6-introduction.html",
+    "source_sha256": "9c96000ba0051f10a87d2e427ca8e8edcb8d747e9115738472ad4bc927ef43fb",
+    "paragraphs": 4,
+    "letter_start": 294968,
+    "letter_end": 298111
+  },
+  {
+    "source_member": "6-1-political-socialization-the-ways-people-become-political.html",
+    "source_sha256": "820390bf60326e77b2f64219904fd6cfd89cd3e79babcd135a15bd484c40a35a",
+    "paragraphs": 21,
+    "letter_start": 298111,
+    "letter_end": 308922
+  },
+  {
+    "source_member": "6-2-political-culture-how-people-express-their-political-identity.html",
+    "source_sha256": "a4a4b56dc12cd115a70b50e23f058015398303c081bc4cba0e2a7259bedf8406",
+    "paragraphs": 17,
+    "letter_start": 308922,
+    "letter_end": 317900
+  },
+  {
+    "source_member": "6-3-collective-dilemmas-making-group-decisions.html",
+    "source_sha256": "6cb7c9154bedea2b73b3c6be3d6761eb98ea0f76e9450730c58fdc138de2de84",
+    "paragraphs": 34,
+    "letter_start": 317900,
+    "letter_end": 333531
+  },
+  {
+    "source_member": "6-4-collective-action-problems-the-problem-of-incentives.html",
+    "source_sha256": "7719124f200e7f7a59a300a0c006f12e95a41a0ac2f22a3942e9a9d7e8abf4c4",
+    "paragraphs": 20,
+    "letter_start": 333531,
+    "letter_end": 342950
+  },
+  {
+    "source_member": "6-5-resolving-collective-action-problems.html",
+    "source_sha256": "0a07f0aeb8230e0ba4e53fde3149eeb65cc77a48748a6c5e187c186e434a4c76",
+    "paragraphs": 23,
+    "letter_start": 342950,
+    "letter_end": 354689
+  },
+  {
+    "source_member": "7-introduction.html",
+    "source_sha256": "28a52d4ab1cc0d88a3a6d709f2e61282eff3b41992c7761dd12354f0627f0f64",
+    "paragraphs": 1,
+    "letter_start": 354689,
+    "letter_end": 355609
+  },
+  {
+    "source_member": "7-1-civil-rights-and-constitutionalism.html",
+    "source_sha256": "412db577750c238a0ba1a2a73384704c366877e90671be0e3f46823dc509278a",
+    "paragraphs": 14,
+    "letter_start": 355609,
+    "letter_end": 364133
+  },
+  {
+    "source_member": "7-2-political-culture-and-majority-minority-relations.html",
+    "source_sha256": "bb21292738659bbca72e376e92040dbbbf71fb6d65e4612dd50f020dd6841302",
+    "paragraphs": 14,
+    "letter_start": 364133,
+    "letter_end": 373130
+  },
+  {
+    "source_member": "7-3-civil-rights-abuses.html",
+    "source_sha256": "9bbeb82849c8b820b8b1e24c6f8c1122b0ae06dd1bbf73256dab4b25aabb7cd9",
+    "paragraphs": 30,
+    "letter_start": 373130,
+    "letter_end": 390797
+  },
+  {
+    "source_member": "7-4-civil-rights-movements.html",
+    "source_sha256": "328ac1838d2366dc1daf1126d16eff23d283a593a20f37fc57ab6fd3fe090536",
+    "paragraphs": 18,
+    "letter_start": 390797,
+    "letter_end": 400940
+  },
+  {
+    "source_member": "7-5-how-do-governments-bring-about-civil-rights-change.html",
+    "source_sha256": "7f7829d6f763e6db73468ff6ea68e173f52859c335aeb82f5aa9947eea1892ac",
+    "paragraphs": 27,
+    "letter_start": 400940,
+    "letter_end": 415550
+  },
+  {
+    "source_member": "8-introduction.html",
+    "source_sha256": "ff0d977ab03d329c9b6f072224de86efd9215ec1d713941c45668bbeede279ff",
+    "paragraphs": 2,
+    "letter_start": 415550,
+    "letter_end": 416510
+  },
+  {
+    "source_member": "8-1-what-is-an-interest-group.html",
+    "source_sha256": "33bf1fe1913c3652f2108de17b2385490a698763388da74807ce8d2eefb3b59b",
+    "paragraphs": 8,
+    "letter_start": 416510,
+    "letter_end": 424273
+  },
+  {
+    "source_member": "8-2-what-are-the-pros-and-cons-of-interest-groups.html",
+    "source_sha256": "9f09128c31e2a034a3efb0dcdf525f19d9c4fc17f0bcfba035e3b722fee1ff30",
+    "paragraphs": 16,
+    "letter_start": 424273,
+    "letter_end": 435641
+  },
+  {
+    "source_member": "8-3-political-parties.html",
+    "source_sha256": "c03f7d7013a71a464b2ac145004b6f6b5b98b49901bf3845b901fa201310f696",
+    "paragraphs": 8,
+    "letter_start": 435641,
+    "letter_end": 442666
+  },
+  {
+    "source_member": "8-4-what-are-the-limits-of-parties.html",
+    "source_sha256": "6db2770fa8199308c354e8ac1b9c547883583099017a214e0db3768dc8e7fe31",
+    "paragraphs": 4,
+    "letter_start": 442666,
+    "letter_end": 446945
+  },
+  {
+    "source_member": "8-5-what-are-elections-and-who-participates.html",
+    "source_sha256": "95e94cf069ce5e96d5d085fe40390a11879063c14f555c02499291af5738a387",
+    "paragraphs": 8,
+    "letter_start": 446945,
+    "letter_end": 455291
+  },
+  {
+    "source_member": "8-6-how-do-people-participate-in-elections.html",
+    "source_sha256": "f7b4b11b20fcee67ccfd046dd384832634ea4f423cac302c005b5831d3fd4456",
+    "paragraphs": 12,
+    "letter_start": 455291,
+    "letter_end": 465140
+  },
+  {
+    "source_member": "9-introduction.html",
+    "source_sha256": "10ca1d497e2f322b054256ed25d18349465f70a061ce3a80f6a8d9a4d687bd60",
+    "paragraphs": 2,
+    "letter_start": 465140,
+    "letter_end": 465830
+  },
+  {
+    "source_member": "9-1-what-do-legislatures-do.html",
+    "source_sha256": "018df852aa34b8006424bd85b08f0fa1144535f533e71ffd03cd711cdd858751",
+    "paragraphs": 38,
+    "letter_start": 465830,
+    "letter_end": 489008
+  },
+  {
+    "source_member": "9-2-what-is-the-difference-between-parliamentary-and-presidential-systems.html",
+    "source_sha256": "22776a791852a37da4184f79f51beeef714926fd93eda6014f2726f045f87f69",
+    "paragraphs": 20,
+    "letter_start": 489008,
+    "letter_end": 505067
+  },
+  {
+    "source_member": "9-3-what-is-the-difference-between-unicameral-and-bicameral-systems.html",
+    "source_sha256": "a86c297edc6761e38fc901490039f77fdf57aa75b6eb226d3220409557d4f7bb",
+    "paragraphs": 7,
+    "letter_start": 505067,
+    "letter_end": 508953
+  },
+  {
+    "source_member": "9-4-the-decline-of-legislative-influence.html",
+    "source_sha256": "0c905e58ef475dafd607700b5bed0811c86e7ad7ab6e15591f01cbf808b66e08",
+    "paragraphs": 8,
+    "letter_start": 508953,
+    "letter_end": 515196
+  },
+  {
+    "source_member": "10-introduction.html",
+    "source_sha256": "46b010e4b70f4d25bd46eb4dcb1367dc5c5a544059432a9604a2e80ac2b1db96",
+    "paragraphs": 5,
+    "letter_start": 515196,
+    "letter_end": 516451
+  },
+  {
+    "source_member": "10-1-democracies-parliamentary-presidential-and-semi-presidential-regimes.html",
+    "source_sha256": "a0a40d8e09509f693fa990966bb5638bd1a7a856f3f2082ef2f2c0f415e3c7e2",
+    "paragraphs": 10,
+    "letter_start": 516451,
+    "letter_end": 522131
+  },
+  {
+    "source_member": "10-2-the-executive-in-presidential-regimes.html",
+    "source_sha256": "621d41d771635fe8a50fdaac35e0d58c9a67fc184ca10f6e1306ec486a28c3ea",
+    "paragraphs": 17,
+    "letter_start": 522131,
+    "letter_end": 531161
+  },
+  {
+    "source_member": "10-3-the-executive-in-parliamentary-regimes.html",
+    "source_sha256": "fe93a812d96d274f6616014f837e949dda39eb4bbfa6af7bca79b737020ed85a",
+    "paragraphs": 7,
+    "letter_start": 531161,
+    "letter_end": 536001
+  },
+  {
+    "source_member": "10-4-advantages-disadvantages-and-challenges-of-presidential-and-parliamentary-regimes.html",
+    "source_sha256": "7251b69b5d2a3764ec942aad5b18133c8ba18e8f455869924df9b60518b3b489",
+    "paragraphs": 13,
+    "letter_start": 536001,
+    "letter_end": 545370
+  },
+  {
+    "source_member": "10-5-semi-presidential-regimes.html",
+    "source_sha256": "229ccf519fba11b90934e40cbf8815d11f21845ef8cb6609c4c72a79a4679804",
+    "paragraphs": 6,
+    "letter_start": 545370,
+    "letter_end": 548134
+  },
+  {
+    "source_member": "10-6-how-do-cabinets-function-in-presidential-and-parliamentary-regimes.html",
+    "source_sha256": "225e5ba6cdddfb0d21b673398c737157cc2603d183262fd1d6dd280160f39a53",
+    "paragraphs": 13,
+    "letter_start": 548134,
+    "letter_end": 556987
+  },
+  {
+    "source_member": "10-7-what-are-the-purpose-and-function-of-bureaucracies.html",
+    "source_sha256": "476f88682f6926d7241abc05a7a54b63dd90f69707644fd4ec87f35788e628b8",
+    "paragraphs": 23,
+    "letter_start": 556987,
+    "letter_end": 569214
+  },
+  {
+    "source_member": "11-introduction.html",
+    "source_sha256": "efa362e13c516a5c6d3e963e9482ba90fe7e5689c711c7834de0dcf4423122a4",
+    "paragraphs": 3,
+    "letter_start": 569214,
+    "letter_end": 570856
+  },
+  {
+    "source_member": "11-1-what-is-the-judiciary.html",
+    "source_sha256": "b2ec778b3ab915aebe64e7a96707bbb946c0bf30686d894380a106ccfd3562fc",
+    "paragraphs": 31,
+    "letter_start": 570856,
+    "letter_end": 586029
+  },
+  {
+    "source_member": "11-2-how-does-the-judiciary-take-action.html",
+    "source_sha256": "9a1e907ae19f7fac408b5fe4b0624ea7912d3ca39b2772a2eb2a4e0aad4cd15d",
+    "paragraphs": 13,
+    "letter_start": 586029,
+    "letter_end": 595067
+  },
+  {
+    "source_member": "11-3-types-of-legal-systems-around-the-world.html",
+    "source_sha256": "c0d4c51de1a56468135f22148693a7befdfc46b323b84ec992c8dc12c00d3df7",
+    "paragraphs": 16,
+    "letter_start": 595067,
+    "letter_end": 602683
+  },
+  {
+    "source_member": "11-4-criminal-versus-civil-laws.html",
+    "source_sha256": "5e24767cc6089463947d2a64509c370719ab6d9ea29a28cb11db8ca40a2a431c",
+    "paragraphs": 29,
+    "letter_start": 602683,
+    "letter_end": 615602
+  },
+  {
+    "source_member": "11-5-due-process-and-judicial-fairness.html",
+    "source_sha256": "20f2c72e615cab9f4142bb1ab0485563f04fbd7d0d1ba4548f1fc88a410a98ad",
+    "paragraphs": 16,
+    "letter_start": 615602,
+    "letter_end": 624033
+  },
+  {
+    "source_member": "11-6-judicial-review-versus-executive-sovereignty.html",
+    "source_sha256": "b39d066a1b6959669e00d73b2135f07e15a52606387c74ffd5827c52cacf6c37",
+    "paragraphs": 5,
+    "letter_start": 624033,
+    "letter_end": 627689
+  },
+  {
+    "source_member": "12-introduction.html",
+    "source_sha256": "077d7d16dcf2e5f18de6fad6568e9b9f7582db2ceef87cd672c00fd1b0205042",
+    "paragraphs": 1,
+    "letter_start": 627689,
+    "letter_end": 628536
+  },
+  {
+    "source_member": "12-1-the-media-as-a-political-institution-why-does-it-matter.html",
+    "source_sha256": "9bd0a161d5fa08d0e95559a98102ceb2f921c417182b6fdee0fd0f53ed81b3bd",
+    "paragraphs": 21,
+    "letter_start": 628536,
+    "letter_end": 642990
+  },
+  {
+    "source_member": "12-2-types-of-media-and-the-changing-media-landscape.html",
+    "source_sha256": "78603e0ac7fc4dd3c5307b109f6366dcd7e2364b7bd7603d6c65445b6141ab61",
+    "paragraphs": 12,
+    "letter_start": 642990,
+    "letter_end": 655133
+  },
+  {
+    "source_member": "12-3-how-do-media-and-elections-interact.html",
+    "source_sha256": "eb834c22b9b04e102cd70a5f4dd7c1ee074db1d01c613f647e19a5b4cdd5865d",
+    "paragraphs": 12,
+    "letter_start": 655133,
+    "letter_end": 665846
+  },
+  {
+    "source_member": "12-4-the-internet-and-social-media.html",
+    "source_sha256": "28980f6da07dae3325019c3fd40bf00ebd7aad9524cdd29f27bfeb35bc56a193",
+    "paragraphs": 8,
+    "letter_start": 665846,
+    "letter_end": 677310
+  },
+  {
+    "source_member": "12-5-declining-global-trust-in-the-media.html",
+    "source_sha256": "18c7c06475e811de42d11815d68b88899baa61f325d1f7fc43088dc5eb93d345",
+    "paragraphs": 12,
+    "letter_start": 677310,
+    "letter_end": 683521
+  },
+  {
+    "source_member": "13-introduction.html",
+    "source_sha256": "5ce1dadfa0404645f889c11ea50daeebd77e9c8a5eb6ceedafa889cb61191181",
+    "paragraphs": 1,
+    "letter_start": 683521,
+    "letter_end": 684376
+  },
+  {
+    "source_member": "13-1-contemporary-government-regimes-power-legitimacy-and-authority.html",
+    "source_sha256": "0d681d3ab7c66c7127cc6300fac14db68006a693d7be4a8b4fc8f356d26f93cd",
+    "paragraphs": 49,
+    "letter_start": 684376,
+    "letter_end": 715490
+  },
+  {
+    "source_member": "13-2-categorizing-contemporary-regimes.html",
+    "source_sha256": "069c845949edbc047b024bee07f76707560869a83862f52981d6207279979456",
+    "paragraphs": 34,
+    "letter_start": 715490,
+    "letter_end": 739534
+  },
+  {
+    "source_member": "13-3-recent-trends-illiberal-representative-regimes.html",
+    "source_sha256": "ac43da1d6965620d4aade64feaed183f563850ea467a596057108a80e5ab3bbe",
+    "paragraphs": 7,
+    "letter_start": 739534,
+    "letter_end": 745025
+  },
+  {
+    "source_member": "14-introduction.html",
+    "source_sha256": "98515b2ad75a1769086e3e63eba6bf551d98365f1cb1c9672e183c02fcb23f3b",
+    "paragraphs": 1,
+    "letter_start": 745025,
+    "letter_end": 745873
+  },
+  {
+    "source_member": "14-1-what-is-power-and-how-do-we-measure-it.html",
+    "source_sha256": "7ba271b7be80d23c0b5c01fae63db625cc0bcaef6a9d987e784af3edf7476c61",
+    "paragraphs": 19,
+    "letter_start": 745873,
+    "letter_end": 755930
+  },
+  {
+    "source_member": "14-2-understanding-the-different-types-of-actors-in-the-international-system.html",
+    "source_sha256": "b475dc2745f2c3d1be4faefae62303ae79add8d6c0e4091de832c30d7205363a",
+    "paragraphs": 10,
+    "letter_start": 755930,
+    "letter_end": 761856
+  },
+  {
+    "source_member": "14-3-sovereignty-and-anarchy.html",
+    "source_sha256": "1a8482739f9c8b67d8b4bc4e1d22097ba7d777c59af5fd2e70627b225de0a03d",
+    "paragraphs": 7,
+    "letter_start": 761856,
+    "letter_end": 767278
+  },
+  {
+    "source_member": "14-4-using-levels-of-analysis-to-understand-conflict.html",
+    "source_sha256": "d91c56b0f2a50de6ad8c8f5ab03f33702841fd0b17d8fe77bb1cb21a5fa560fa",
+    "paragraphs": 16,
+    "letter_start": 767278,
+    "letter_end": 777401
+  },
+  {
+    "source_member": "14-5-the-realist-worldview.html",
+    "source_sha256": "1d10f33a0e98974d0e4f6bca5fda751c4ed8e01778901286cccff4eb231d781d",
+    "paragraphs": 20,
+    "letter_start": 777401,
+    "letter_end": 789046
+  },
+  {
+    "source_member": "14-6-the-liberal-and-social-worldview.html",
+    "source_sha256": "4e61d8208c83714714c74b39cfa27f175eaac4b812ebee3b6fff3d30e6143166",
+    "paragraphs": 15,
+    "letter_start": 789046,
+    "letter_end": 798086
+  },
+  {
+    "source_member": "14-7-critical-worldviews.html",
+    "source_sha256": "e876ea2c9552cca8a0b01b1fdc1da8d16012ec089b12f8515dc03373416cf5bb",
+    "paragraphs": 7,
+    "letter_start": 798086,
+    "letter_end": 803105
+  },
+  {
+    "source_member": "15-introduction.html",
+    "source_sha256": "6e32f3f8eab48ba25af4e95f949476798cb69fccff6ac701ae0951de86544bfe",
+    "paragraphs": 3,
+    "letter_start": 803105,
+    "letter_end": 804734
+  },
+  {
+    "source_member": "15-1-the-problem-of-global-governance.html",
+    "source_sha256": "298089c1b785117b35a6c48e8baf4e90a73380c171d6420d76223712d0beb5f7",
+    "paragraphs": 4,
+    "letter_start": 804734,
+    "letter_end": 808002
+  },
+  {
+    "source_member": "15-2-international-law.html",
+    "source_sha256": "93f4e931fae00e9a5f8063651385a57ed10571ff283cf9b8c47f9d1b0b10bf41",
+    "paragraphs": 19,
+    "letter_start": 808002,
+    "letter_end": 817038
+  },
+  {
+    "source_member": "15-3-the-united-nations-and-global-intergovernmental-organizations-igos.html",
+    "source_sha256": "1064464e07c7e436406cc25a3e393b851b14b83a4304f3283b272f681bf78aab",
+    "paragraphs": 26,
+    "letter_start": 817038,
+    "letter_end": 829696
+  },
+  {
+    "source_member": "15-4-how-do-regional-igos-contribute-to-global-governance.html",
+    "source_sha256": "81db9e2ffe719d0fdf99d22279dd5cedd755a59f0f53b4d285a1bad8468e60f1",
+    "paragraphs": 38,
+    "letter_start": 829696,
+    "letter_end": 847352
+  },
+  {
+    "source_member": "15-5-non-state-actors-nongovernmental-organizations-ngos.html",
+    "source_sha256": "8b6039af2088c81abf5e1e9a6625babb04f90dad471d39810053a7d5044f8ba0",
+    "paragraphs": 15,
+    "letter_start": 847352,
+    "letter_end": 853798
+  },
+  {
+    "source_member": "15-6-non-state-actors-beyond-ngos.html",
+    "source_sha256": "75fdbd14f46491437e35230d66828cda2ceba5fb5de3b3e57b11c2805f2b0591",
+    "paragraphs": 30,
+    "letter_start": 853798,
+    "letter_end": 870628
+  },
+  {
+    "source_member": "16-introduction.html",
+    "source_sha256": "f066343e8eec60d8d29c9763ca42792cfb371a6410062c803f6b50d1c109780a",
+    "paragraphs": 10,
+    "letter_start": 870628,
+    "letter_end": 874830
+  },
+  {
+    "source_member": "16-1-the-origins-of-international-political-economy.html",
+    "source_sha256": "d916111c7a48e467ad8ea3e5a44e431ef5b511ea29fbb70920462934ecf57fa4",
+    "paragraphs": 13,
+    "letter_start": 874830,
+    "letter_end": 880180
+  },
+  {
+    "source_member": "16-2-the-advent-of-the-liberal-economy.html",
+    "source_sha256": "5be1d68c2071774f6036f532102c7674c97083355d9697a799e9ebbd3dd4e725",
+    "paragraphs": 12,
+    "letter_start": 880180,
+    "letter_end": 886251
+  },
+  {
+    "source_member": "16-3-the-bretton-woods-institutions.html",
+    "source_sha256": "6b26f5f42bdbcd79a18550255a9de2afe471ae662955bf1ceba942bd897fd209",
+    "paragraphs": 44,
+    "letter_start": 886251,
+    "letter_end": 906472
+  },
+  {
+    "source_member": "16-4-the-post-cold-war-period-and-modernization-theory.html",
+    "source_sha256": "6f39af88c539c8ea857498d290b2d78113eb42eba2782c6fe080e11e0376bd67",
+    "paragraphs": 8,
+    "letter_start": 906472,
+    "letter_end": 910466
+  },
+  {
+    "source_member": "16-5-from-the-1990s-to-the-2020s-current-issues-in-ipe.html",
+    "source_sha256": "9104059b9183bcfbbcf43845ab52cffd80670253df4c959287d770b527e92413",
+    "paragraphs": 39,
+    "letter_start": 910466,
+    "letter_end": 928253
+  },
+  {
+    "source_member": "16-6-considering-poverty-inequality-and-the-environmental-crisis.html",
+    "source_sha256": "5e6727ffa9120aa79adcb2e08c99e7c1b0fa53a9a107aa078633f3814f666719",
+    "paragraphs": 28,
+    "letter_start": 928253,
+    "letter_end": 941288
+  }
+]
