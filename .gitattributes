@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
+# Normalize source-code text while preserving frozen archive bytes.
 * text=auto
+
+# Recorded checksums depend on the original line endings.
+*.csv -text
+corpus/**/raw/** -text
